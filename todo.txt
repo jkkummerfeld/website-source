@@ -1,0 +1,3 @@
+Look into an affix menu for publication years:
+
+https://getbootstrap.com/docs/3.3/javascript/#affix-events
