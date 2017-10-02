@@ -1,3 +1,7 @@
-Look into an affix menu for publication years:
+Finish adding links to citations
 
+Look into an affix menu for publication years:
 https://getbootstrap.com/docs/3.3/javascript/#affix-events
+
+Try to add a small menu at the top of publications, to filter to a particular year, like in the projects widget or in the publications section.
+

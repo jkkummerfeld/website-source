@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jkummerf@umich.edu"
+  email = "[first letter of my first name + first seven letters of my last name] @umich.edu"
   address = "2260 Hayward Street, Ann Arbor, MI  48109, USA"
   office_hours = ""
   phone = ""
@@ -125,9 +125,14 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "//scholar.google.com/citations?user=OsoNG9AAAAAJ"
+
+  [[params.social]]
+    icon = "github"
     icon_pack = "fa"
-    link = "mailto:jkummerf@umich.edu"
+    link = "//github.com/jkkummerfeld"
 
   [[params.social]]
     icon = "twitter"
@@ -135,15 +140,24 @@ defaultContentLanguageInSubdir = false
     link = "//twitter.com/jkkummerfeld"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=OsoNG9AAAAAJ"
+    icon = "medium"
+    icon_pack = "fa"
+    link = "//medium.com/@jkkummerfeld"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/jkkummerfeld"
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "//arxiv.org/0000-0001-5030-3016"
 
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0001-5030-3016"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/jkkummerfeld/"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -166,14 +180,19 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
+  name = "Data"
+  url = "#data"
+  weight = 4
+
+[[menu.main]]
   name = "Blog"
   url = "#posts"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
