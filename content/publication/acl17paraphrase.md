@@ -40,7 +40,7 @@ url_code = ""
 url_dataset = "http://aclweb.org/anthology/attachments/P/P17/P17-2017.Datasets.zip"
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/-Pt3lYAEQR8"
 
 
 
