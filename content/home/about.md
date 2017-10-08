@@ -16,6 +16,37 @@ weight = 5
     "Artificial Intelligence",
   ]
 
+# List your employment history.
+[[employment.employment]]
+  organisation = "University of Michigan"
+  role = "Postdoctoral Research Fellow"
+  startdate = "September 2016"
+  enddate = "Now"
+
+[[employment.employment]]
+  organisation = "Clinc"
+  role = "Technical Adviser"
+  startdate = "Jan 2017"
+  enddate = "Now"
+
+[[employment.employment]]
+  organisation = "WriteLab"
+  role = "Technical Adviser"
+  startdate = "March 2014"
+  enddate = "Now"
+
+[[employment.employment]]
+  organisation = "Google"
+  role = "Intern: Research"
+  startdate = "May 2012"
+  enddate = "August 2012"
+
+[[employment.employment]]
+  organisation = "Google"
+  role = "Intern: Eng"
+  startdate = "Novemer 2007"
+  enddate = "February 2008"
+
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
