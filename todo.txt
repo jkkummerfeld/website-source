@@ -1,3 +1,5 @@
+Fix 404 to have top be visible
+
 Finish adding links to citations
 
 Look into an affix menu for publication years:
