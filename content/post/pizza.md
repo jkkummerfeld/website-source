@@ -1,12 +1,22 @@
 +++
+title = "Ordering Pizza for an Event with Vegetarians"
 date = 2017-09-27
 draft = false
-tags = ["misc"]
-title = "Ordering Pizza for an Event with Vegetarians"
 math = true
-summary = """
-A simple model to help determine how much of each pizza type to order for an event.
-"""
+
+summary = "A simple model to help determine how much of each pizza type to order for an event."
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["misc"]
+categories = []
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
 +++
 
 ## How much vegetarian pizza should I order?
