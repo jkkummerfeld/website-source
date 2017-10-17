@@ -1,4 +1,4 @@
-Fix 404 to have top be visible
+Add "more posts" after the last post in 'recent posts'
 
 Finish adding links to citations
 
