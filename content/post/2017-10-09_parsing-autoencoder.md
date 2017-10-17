@@ -7,7 +7,7 @@ summary = "By training a parser and language generation system together, we can 
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["paper", "emnlp", "semantic parsing"]
+tags = ["paper", "emnlp", "semantic-parsing"]
 categories = []
 
 # Featured image

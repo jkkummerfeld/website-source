@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["information-extraction"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://evidencebasedsecurity.org/forums/#data"
