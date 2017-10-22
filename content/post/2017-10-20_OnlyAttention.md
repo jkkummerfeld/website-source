@@ -49,6 +49,12 @@ It seems like it can provide a way to effectively disambiguate the sense of a wo
 
 [ArXiv Paper](https://arxiv.org/pdf/1706.03762.pdf)
 
+Google also has some blog posts up
+[about the paper](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)
+and
+[about the library](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html)
+they released.
+
 ```bibtex
 @article{arxiv:1706.03762,
   author    = {Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin},
