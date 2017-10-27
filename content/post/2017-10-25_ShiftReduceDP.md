@@ -31,7 +31,8 @@ On speed, there is the nice theoretical bound of $O(n)$ for this approach, but t
 
 [Paper](http://www.aclweb.org/anthology/N15-1108)
 
-```bibtex@InProceedings{mi-huang:2015:NAACL-HLT,
+```bibtex
+@InProceedings{mi-huang:2015:NAACL-HLT,
   author    = {Mi, Haitao  and  Huang, Liang},
   title     = {Shift-Reduce Constituency Parsing with Dynamic Programming and POS Tag Lattice},
   booktitle = {Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},

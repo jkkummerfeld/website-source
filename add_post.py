@@ -40,7 +40,7 @@ for pos, line in enumerate(content):
 content.append("\n\n## Citation")
 content.append("\n\n[Paper]({})".format(url))
 content.append("\n\n```bibtex")
-content.append(raw_bibtex)
+content.append("\n"+ raw_bibtex)
 content.append("\n```")
 
 out = open(filename, 'w')
