@@ -1,5 +1,5 @@
 +++
-title = "Swish: a Self-Gated Activation Function (Ramachandran et al., 2017)"
+title = "Searching for Activation Functions (Ramachandran et al., 2017)"
 date = 2017-10-27T11:22:45-04:00
 draft = false
 
@@ -17,6 +17,13 @@ image = ""
 caption = ""
 
 +++
+
+## Update
+
+After prior work came to light that uses the same non-linearity, this paper was updated to focus more on the search process used to investigate the space.
+One new takeaway for me was how diverse the effective activation functions were (see figures in the new version of the paper).
+
+## Original Post
 
 Non-linear functions are the key to the representation power of neural networks.
 Many different ones have been proposed, though it is difficult to make theoretical claims of their properties and so the choice of which to use is generally empirical.
