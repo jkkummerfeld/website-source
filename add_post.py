@@ -18,6 +18,7 @@ now = datetime.datetime.now()
 name = "{}-{}-{}_{}.md".format(now.year, now.month, now.day, args.name)
 
 # Get bib file from online
+assert(args.bib.startswith("file:///") or args.bib.startswith("http"))
 raw_bibtex = subprocess.run(["curl", "-s", args.bib], stdout=subprocess.PIPE, encoding="ascii").stdout.strip()
 bib_data = bibtexparser.loads(raw_bibtex)
 current = bib_data.get_entry_list()[0]
