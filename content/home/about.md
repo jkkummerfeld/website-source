@@ -65,7 +65,7 @@ weight = 5
  
 +++
 
-My email address is: "[first letter of my first name + first seven letters of my last name] @umich.edu"
+My email address is: jkummerf@umich.edu
 
 I am a Postdoctoral Research Fellow, working at the [University of Michigan](https://www.umich.edu/), in [Computer Science and Engineering](https://www.cse.umich.edu/).
 My research focus is Natural Language Processing - in particular, I am working on [Project Sapphire](https://sapphire.eecs.umich.edu), a collaboration with IBM, developing a conversational academic adviser.

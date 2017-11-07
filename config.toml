@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "[first letter of my first name + first seven letters of my last name] @umich.edu"
+  email = "jkummerf@umich.edu"
   address = "2260 Hayward Street, Ann Arbor, MI  48109, USA"
   office_hours = ""
   phone = ""
@@ -135,6 +135,11 @@ defaultContentLanguageInSubdir = false
   #   google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:jkummerf@umich.edu"
 
   [[params.social]]
     icon = "google-scholar"
