@@ -2,11 +2,11 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 
-date = "2016-04-20T00:00:00"
+date = "2007-01-01T00:00:00"
 draft = false
 
 title = "Recent Posts"
-subtitle = "Papers I'm reading and more"
+subtitle = "Papers I'm reading and more ([RSS Feed](http://feeds.feedburner.com/jkkummerfeld))"
 widget = "posts"
 
 # Order that this section will appear in.

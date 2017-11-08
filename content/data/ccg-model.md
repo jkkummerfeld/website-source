@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2010-07-01"
 
 # Project title.
 title = "Adaptive CCG Supertagging Model"

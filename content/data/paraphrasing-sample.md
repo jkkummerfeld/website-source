@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2017-07-01"
 
 # Project title.
 title = "Crowdsourced Paraphrases"
