@@ -7,3 +7,7 @@ https://getbootstrap.com/docs/3.3/javascript/#affix-events
 
 Try to add a small menu at the top of publications, to filter to a particular year, like in the projects widget or in the publications section.
 
+
+This is a nice blog post about an approach to reading papers that fits what I am doing:
+http://www.theexclusive.org/2017/11/read-a-paper.html
+
