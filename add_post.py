@@ -15,7 +15,7 @@ args = parser.parse_args()
 
 # Determine name based on current date
 now = datetime.datetime.now()
-name = "{}-{}-{}_{}.md".format(now.year, now.month, now.day, args.name)
+name = "{}-{:>02}-{:>02}_{}.md".format(now.year, now.month, now.day, args.name)
 
 # Get bib file from online
 assert(args.bib.startswith("file:///") or args.bib.startswith("http"))
