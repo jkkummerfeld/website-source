@@ -1,8 +1,9 @@
 #!/bin/bash
 
+find . -name "*.bak" | xargs rm
+
 hugo 
-pushd public 
-rm post/*/*.bak 
+pushd public
 git add . 
 git commit 
 git push 
