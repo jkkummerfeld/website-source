@@ -1,3 +1,5 @@
+Change paging of lists of posts, so they don't get updated every time a post is added. Maybe switch to year-month specific pages?
+
 Add "more posts" after the last post in 'recent posts'
 
 Finish adding links to citations
