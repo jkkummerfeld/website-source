@@ -6,7 +6,7 @@ date = "2007-01-01T00:00:00"
 draft = false
 
 title = "Recent Posts"
-subtitle = "Papers I'm reading and more ([RSS Feed](http://feeds.feedburner.com/jkkummerfeld))"
+subtitle = "Papers I'm reading and more ([RSS Feed](http://feeds.feedburner.com/jkkummerfeld) and [E-mail List](http://eepurl.com/diQ0jL))"
 widget = "posts"
 
 # Order that this section will appear in.
