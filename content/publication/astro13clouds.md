@@ -35,6 +35,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://iopscience.iop.org/0067-0049/209/1/12"
 url_poster = ""
+url_interview = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

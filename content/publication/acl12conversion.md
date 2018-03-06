@@ -39,6 +39,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://www.aclweb.org/anthology/P12-2021"
 url_poster = ""
+url_interview = ""
 url_code = "https://github.com/jkkummerfeld/berkeley-ccg2pst"
 url_dataset = ""
 url_project = ""

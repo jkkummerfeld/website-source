@@ -37,6 +37,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://www.jkk.name/pub/emnlp15learn.pdf"
 url_poster = "http://www.jkk.name/pub/emnlp15learn_poster.png"
+url_interview = ""
 url_code = "https://github.com/tberg12/murphy"
 url_dataset = ""
 url_project = ""
@@ -77,6 +78,13 @@ year = "2016"
 url = "http://www.aclweb.org/anthology/P16-1188"
 venue = "ACL"
 author = "Greg Durrett, Taylor Berg-Kirkpatrick, Dan Klein"
+
+[[citation]]
+title = "Multi-Task Structured Prediction for Entity Analysis: Search-Based Learning Algorithms"
+year = "2017"
+url = "http://people.oregonstate.edu/~machao/homepage/acml17-mtsp/ma17.pdf"
+venue = "ACML"
+author = "Janardhan Rao Doppa  Prasad Tadepalli  Hamed Shahbazi  Xiaoli Fern Chao Ma"
 
 
 +++

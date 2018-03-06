@@ -39,6 +39,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://www.aclweb.org/anthology/D12-1096"
 url_poster = ""
+url_interview = ""
 url_code = "https://github.com/jkkummerfeld/berkeley-parser-analyser/"
 url_dataset = ""
 url_project = ""

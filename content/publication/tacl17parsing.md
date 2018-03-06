@@ -7,8 +7,9 @@ bibtex = """@InProceedings{tacl17parsing,
   shortvenue = {TACL},
   year      = {2017},
   abstract  = {General treebank analyses are graph structured, but parsers are typically restricted to tree structures for efficiency and modeling reasons.  We propose a new representation and algorithm for a class of graph structures that is flexible enough to cover almost all treebank structures, while still admitting efficient learning and inference. In particular, we consider directed, acyclic, one-endpoint-crossing graph structures, which cover most long-distance dislocation, shared argumentation, and similar tree-violating linguistic phenomena. We describe how to convert phrase structure parses, including traces, to our new representation in a reversible manner. Our dynamic program uniquely decomposes structures, is sound and complete, and covers 97.3% of the Penn English Treebank. We also implement a proofof-concept parser that recovers a range of null elements and trace types.},
-  url       = {https://arxiv.org/pdf/1707.04221.pdf},
+  url       = {http://aclweb.org/anthology/Q17-1031},
   software  = {https://github.com/jkkummerfeld/1ec-graph-parser},
+  interview = {https://soundcloud.com/nlp-highlights/46-parsing-with-traces-with-jonathan-kummerfeld},
 }
 """
 title = "Parsing with Traces: An O($n^4$) Algorithm and a Structural Representation"
@@ -31,8 +32,9 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://arxiv.org/pdf/1707.04221.pdf"
+url_pdf = "http://aclweb.org/anthology/Q17-1031"
 url_poster = ""
+url_interview = "https://soundcloud.com/nlp-highlights/46-parsing-with-traces-with-jonathan-kummerfeld"
 url_code = "https://github.com/jkkummerfeld/1ec-graph-parser"
 url_dataset = ""
 url_project = ""

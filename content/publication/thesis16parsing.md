@@ -58,6 +58,7 @@ image_preview = ""
 selected = false
 url_pdf = "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-138.html"
 url_poster = ""
+url_interview = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

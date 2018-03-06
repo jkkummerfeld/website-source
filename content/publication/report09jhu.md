@@ -43,6 +43,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://www.jkk.name/pub/report09jhu.pdf"
 url_poster = ""
+url_interview = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -103,6 +104,13 @@ year = "2015"
 url = ""
 venue = "Proceedings of the 11th International Conference on Computational Semantics"
 author = "Guy Emerson, Ann Copestake"
+
+[[citation]]
+title = "How important is syntactic parsing accuracy? An empirical evaluation on rule-based sentiment analysis"
+year = "2017"
+url = "https://doi.org/10.1007/s10462-017-9584-0"
+venue = "Artificial Intelligence Review"
+author = "Carlos Gomez-Rodriguez, Iago Alonso-Alonso, David Vilares"
 
 
 +++

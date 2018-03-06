@@ -38,6 +38,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://dx.doi.org/10.1103/PhysRevLett.105.135702"
 url_poster = ""
+url_interview = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -259,6 +260,13 @@ year = "2017"
 url = ""
 venue = "Science China Chemistry"
 author = "Chunyang Yu, Li Ma, Wei Huang, Yongfeng Zhou, Jingui Qin, Deyue Yan"
+
+[[citation]]
+title = "Structure-property relationships from universal signatures of plasticity in disordered solids"
+year = "2017"
+url = "http://science.sciencemag.org/content/358/6366/1033"
+venue = "Science"
+author = "E. D. Cubuk, R. J. S. Ivancic, S. S. Schoenholz, D. J. Strickland, A. Basu, Z. S. Davidson, J. Fontaine, J. L. Hor, Y.-R. Huang, Y. Jiang, N. C. Keim, K. D. Koshigan, J. A. Lefever, T. Liu, X.-G. Ma, D. J. Magagnosc, E. Morrow, C. P. Ortiz, J. M. Rieser, A. Shavit, T. Still, Y. Xu, Y. Zhang, K. N. Nordstrom, P. E. Arratia, R. W. Carpick, D. J. Durian, Z. Fakhraai, D. J. Jerolmack, Daeyeon Lee, Ju Li, R. Riggleman, K. T. Turner, A. G. Yodh, D. S. Gianola, Andrea J. Liu"
 
 
 +++

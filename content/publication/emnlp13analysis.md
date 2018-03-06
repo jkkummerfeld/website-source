@@ -38,6 +38,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://www.aclweb.org/anthology/D13-1027"
 url_poster = ""
+url_interview = ""
 url_code = "https://github.com/jkkummerfeld/berkeley-coreference-analyser/"
 url_dataset = ""
 url_project = ""

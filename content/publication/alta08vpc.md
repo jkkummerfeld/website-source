@@ -37,6 +37,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://www.aclweb.org/anthology/U/U08/U08-1008.pdf"
 url_poster = "http://www.jkk.name/pub/alta08vpc_poster.eps"
+url_interview = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

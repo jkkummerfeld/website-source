@@ -37,6 +37,7 @@ image_preview = ""
 selected = false
 url_pdf = "https://www.aclweb.org/anthology/D17-1274"
 url_poster = ""
+url_interview = ""
 url_code = "https://evidencebasedsecurity.org/forums/"
 url_dataset = ""
 url_project = ""

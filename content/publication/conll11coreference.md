@@ -1,6 +1,6 @@
 +++
-bibkey = "conll12coreference"
-bibtex = """@InProceedings{conll12coreference,
+bibkey = "conll11coreference"
+bibtex = """@InProceedings{conll11coreference,
   title     = {Mention Detection: Heuristics for the OntoNotes annotations},
   author    = {Jonathan K. Kummerfeld and Mohit Bansal and David Burkett and Dan Klein},
   shortvenue = {CoNLL Shared Task},
@@ -11,7 +11,7 @@ bibtex = """@InProceedings{conll12coreference,
   address   = {Portland, Oregon, USA},
   publisher = {Association for Computational Linguistics},
   url       = {http://www.aclweb.org/anthology/W11-1916},
-  poster    = {http://www.jkk.name/pub/conll12coreference_poster.pdf},
+  poster    = {http://www.jkk.name/pub/conll11coreference_poster.pdf},
   abstract  = {Our submission was a reduced version of the system described in Haghighi and Klein (2010), with extensions to improve mention detection to suit the OntoNotes annotation scheme. Including exact matching mention detection in this shared task added a new and challenging dimension to the problem, particularly for our system, which previously used a very permissive detection method. We improved this aspect of the system by adding filters based on the annotation scheme for OntoNotes and analysis of system behavior on the development set. These changes led to improvements in coreference F-score of 10.06, 5.71, 6.78, 6.63 and 3.09 on the MUC, B3 , Ceaf-e, Ceaf-m and Blanc, metrics, respectively, and a final task score of 47.10.},
 }
 """
@@ -36,7 +36,8 @@ highlight = false
 image_preview = ""
 selected = false
 url_pdf = "http://www.aclweb.org/anthology/W11-1916"
-url_poster = "http://www.jkk.name/pub/conll12coreference_poster.pdf"
+url_poster = "http://www.jkk.name/pub/conll11coreference_poster.pdf"
+url_interview = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -96,6 +97,13 @@ year = "2017"
 url = "https://hal.inria.fr/hal-01558711/document"
 venue = "Actes de la 24e Conference sur le Traitement Automatique des Langues Naturelles (TALN)"
 author = "Isabelle Tellier  Eric De La Clergerie  Marco Dinarelli  Frederic Landragin Loic Grobol"
+
+[[citation]]
+title = "Mention Detection Using Pointer Networks for Coreference Resolution"
+year = "2017"
+url = "http://dx.doi.org/10.4218/etrij.17.0117.0140"
+venue = "ETRI Journal"
+author = "Changki Lee  Soojong Lim Cheoneum Park"
 
 
 +++

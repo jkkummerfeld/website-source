@@ -35,12 +35,19 @@ image_preview = ""
 selected = false
 url_pdf = "http://www.jkk.name/pub/www17forums.pdf"
 url_poster = ""
+url_interview = ""
 url_code = "http://evidencebasedsecurity.org/forums/"
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 
+[[citation]]
+title = "Ethical issues of research using datasets of illicit origin"
+year = "2017"
+url = "https://www.cl.cam.ac.uk/~drt24/papers/2017-ethical-issues.pdf"
+venue = "IMC"
+author = "Sergio Pastrana  Alice Hutchings  Richard Clayton  Daniel R. Thomas, Alastair R. Beresford"
 
 
 +++

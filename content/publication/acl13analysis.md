@@ -39,6 +39,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://www.aclweb.org/anthology/P13-2018"
 url_poster = ""
+url_interview = ""
 url_code = "https://github.com/jkkummerfeld/berkeley-parser-analyser/"
 url_dataset = ""
 url_project = ""
@@ -115,6 +116,13 @@ year = "2015"
 url = "https://dl.acm.org/citation.cfm?id=2978856"
 venue = "Natural Language Processing and Chinese Computing"
 author = "Yichu Zhou, Shujian Huang, Xinyu Dai, Jiajun Chen"
+
+[[citation]]
+title = "Non-Deterministic Segmentation for Chinese Lattice Parsing"
+year = "2017"
+url = "https://doi.org/10.26615/978-954-452-049-6_043"
+venue = "Proceedings of the International Conference Recent Advances in Natural Language Processing, RANLP 2017"
+author = "Hai Hu, Daniel Dakota, Sandra Kubler"
 
 
 +++

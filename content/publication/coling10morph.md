@@ -41,6 +41,7 @@ image_preview = ""
 selected = false
 url_pdf = "http://aclweb.org/anthology/C/C10/C10-2051.pdf"
 url_poster = ""
+url_interview = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
