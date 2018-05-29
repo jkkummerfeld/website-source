@@ -7,7 +7,7 @@ bibtex = """@InProceedings{www17forums,
   shortvenue = {WWW},
   month     = {April},
   year      = {2017},
-  address   = {Perth, Australia},
+  location  = {Perth, Australia},
   url       = {http://www.jkk.name/pub/www17forums.pdf},
   software  = {http://evidencebasedsecurity.org/forums/},
   abstract  = {Underground forums are widely used by criminals to buy and sell a host of stolen items, datasets, resources, and criminal services.  These forums contain important resources for understanding cybercrime.  However, the number of forums, their size, and the domain expertise required to understand the markets makes manual exploration of these forums unscalable. In this work, we propose an automated, top-down approach for analyzing underground forums.  Our approach uses natural language processing and machine learning to automatically generate high-level information about underground forums, first identifying posts related to transactions, and then extracting products and prices. We also demonstrate, via a pair of case studies, how an analyst can use these automated approaches to investigate other categories of products and transactions. We use eight distinct forums to assess our tools: Antichat, Blackhat World, Carders, Darkode, Hack Forums, Hell, L33tCrew and Nulled. Our automated approach is fast and accurate, achieving over 80% accuracy in detecting post category, product, and prices.},
@@ -22,7 +22,7 @@ publication = "Proceedings of 26th International World Wide Web conference"
 publication_short = "WWW"
 abstract = "Underground forums are widely used by criminals to buy and sell a host of stolen items, datasets, resources, and criminal services.  These forums contain important resources for understanding cybercrime.  However, the number of forums, their size, and the domain expertise required to understand the markets makes manual exploration of these forums unscalable. In this work, we propose an automated, top-down approach for analyzing underground forums.  Our approach uses natural language processing and machine learning to automatically generate high-level information about underground forums, first identifying posts related to transactions, and then extracting products and prices. We also demonstrate, via a pair of case studies, how an analyst can use these automated approaches to investigate other categories of products and transactions. We use eight distinct forums to assess our tools: Antichat, Blackhat World, Carders, Darkode, Hack Forums, Hell, L33tCrew and Nulled. Our automated approach is fast and accurate, achieving over 80% accuracy in detecting post category, product, and prices."
 abstract_short = "Underground forums are widely used by criminals to buy and sell a host of stolen items, datasets, resources, and criminal services.  These forums contain important resources for understanding cybercrime.  However, the number of forums, their size, and the domain expertise required to understand the markets makes manual exploration of these forums unscalable. In this work, we propose an automated, top-down approach for analyzing underground forums.  Our approach uses natural language processing and machine learning to automatically generate high-level information about underground forums, first identifying posts related to transactions, and then extracting products and prices. We also demonstrate, via a pair of case studies, how an analyst can use these automated approaches to investigate other categories of products and transactions. We use eight distinct forums to assess our tools: Antichat, Blackhat World, Carders, Darkode, Hack Forums, Hell, L33tCrew and Nulled. Our automated approach is fast and accurate, achieving over 80% accuracy in detecting post category, product, and prices."
-address = "Perth, Australia"
+address = ""
 doi = ""
 issue = ""
 number = ""
@@ -48,6 +48,13 @@ year = "2017"
 url = "https://www.cl.cam.ac.uk/~drt24/papers/2017-ethical-issues.pdf"
 venue = "IMC"
 author = "Sergio Pastrana  Alice Hutchings  Richard Clayton  Daniel R. Thomas, Alastair R. Beresford"
+
+[[citation]]
+title = "CrimeBB: Enabling Cybercrime Research on Underground Forums at Scale"
+year = "2018"
+url = "https://dl.acm.org/citation.cfm?doid=3178876.3186178"
+venue = "WWW"
+author = "Daniel R. Thomas  Alice Hutchings  Sergio Pastrana, Richard Clayton"
 
 
 +++

@@ -5,7 +5,7 @@ bibtex = """@PhDThesis{thesis09adapt,
   author    = {Jonathan K. Kummerfeld},
   school    = {The University of Sydney},
   year      = {2009},
-  address   = {Sydney, Australia},
+  location  = {Sydney, Australia},
   url       = {http://www.jkk.name/pub/thesis09adapt_thesis.pdf},
   poster    = {http://www.jkk.name/pub/thesis09adapt_poster.pdf},
   slidespdf = {http://www.jkk.name/pub/thesis09adapt_slides.pdf},
@@ -45,7 +45,7 @@ I was able to significantly improve performance on the standard evaluation corpu
 Despite extensive use of supertaggers to improve parsing efficiency there has been no comprehensive study of the interaction between a supertagger and a parser. I present the first systematic exploration of the relationship, show the potential benefits of understanding it, and demonstrate a novel algorithm for optimising the parameters that define it.
 
 I have constructed models that process newspaper text 86% faster than previously, and Wikipedia text 30% faster, without any loss in accuracy and without the aid of extra gold standard resources in either domain. This work will lead directly to improvements in a range of Natural Language Processing tasks by enabling the use of far more parsed data."""
-address = "Sydney, Australia"
+address = ""
 doi = ""
 issue = ""
 number = ""

@@ -5,7 +5,7 @@ bibtex = """@PhDThesis{thesis16parsing,
   author    = {Jonathan K. Kummerfeld},
   year      = {2016},
   month     = {Aug},
-  address   = {Berkeley, CA, USA},
+  location  = {Berkeley, CA, USA},
   school    = {EECS Department, University of California, Berkeley},
   number    = {UCB/EECS-2016-138},
   url       = {https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-138.html},
@@ -45,7 +45,7 @@ First, we present a search algorithm that, given two structures, finds a sequenc
 Next, we describe an algorithm that builds a parse in one syntactic representation to match a parse in another representation. Specifically, we build phrase structure parses from Combinatory Categorial Grammar derivations. Our approach follows the philosophy of CCG, defining specific phrase structures for each lexical category and generic rules for combinatory steps. The new parse is built by following the CCG derivation bottom-up, gradually building the corresponding phrase structure parse. This produced significantly more accurate parses than past work, and enabled us to compare performance of several parsers across formalisms.
 
 Finally, we address a weakness we observed in phrase structure parsers: the exclusion of syntactic trace structures for computational convenience. We present an efficient dynamic programming algorithm that constructs the graph structure that has the highest score under an edge-factored scoring function. We define a parse representation compatible with the algorithm, and show how certain linguistic distinctions dramatically impact coverage. We also show various ways to modify the algorithm to improve performance by exploiting properties of observed linguistic structure. This approach to syntactic parsing is the first to cover virtually all structure encoded in the Penn Treebank."""
-address = "Berkeley, CA, USA"
+address = ""
 doi = ""
 issue = ""
 number = "UCB/EECS-2016-138"

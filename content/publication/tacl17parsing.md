@@ -10,6 +10,7 @@ bibtex = """@InProceedings{tacl17parsing,
   url       = {http://aclweb.org/anthology/Q17-1031},
   software  = {https://github.com/jkkummerfeld/1ec-graph-parser},
   interview = {https://soundcloud.com/nlp-highlights/46-parsing-with-traces-with-jonathan-kummerfeld},
+  video     = {https://vimeo.com/238235203},
 }
 """
 title = "Parsing with Traces: An O($n^4$) Algorithm and a Structural Representation"
@@ -39,7 +40,7 @@ url_code = "https://github.com/jkkummerfeld/1ec-graph-parser"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://vimeo.com/238235203"
 
 [[citation]]
 title = "Exploiting Structure in Parsing to 1-Endpoint-Crossing Graphs"

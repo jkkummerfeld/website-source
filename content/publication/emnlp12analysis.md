@@ -8,8 +8,7 @@ bibtex = """@InProceedings{emnlp12analysis,
   year      = {2012},
   pages     = {1048--1059},
   month     = {July},
-  address   = {Jeju Island, South Korea},
-  publisher = {Association for Computational Linguistics},
+  location  = {Jeju Island, South Korea},
   software  = {https://github.com/jkkummerfeld/berkeley-parser-analyser/},
   url       = {http://www.aclweb.org/anthology/D12-1096},
   slides    = {http://www.jkk.name/pub/emnlp12analysis_keynote.key},
@@ -26,12 +25,12 @@ publication = "Proceedings of the 2012 Joint Conference on Empirical Methods in 
 publication_short = "EMNLP"
 abstract = "Constituency parser performance is primarily interpreted through a single metric, F-score on WSJ section 23, that conveys no linguistic information regarding the remaining errors.  We classify errors within a set of linguistically meaningful types using tree transformations that repair groups of errors together. We use this analysis to answer a range of questions about parser behaviour, including what linguistic constructions are difficult for state-of-the-art parsers, what types of errors are being resolved by rerankers, and what types are introduced when parsing out-of-domain text."
 abstract_short = "Constituency parser performance is primarily interpreted through a single metric, F-score on WSJ section 23, that conveys no linguistic information regarding the remaining errors.  We classify errors within a set of linguistically meaningful types using tree transformations that repair groups of errors together. We use this analysis to answer a range of questions about parser behaviour, including what linguistic constructions are difficult for state-of-the-art parsers, what types of errors are being resolved by rerankers, and what types are introduced when parsing out-of-domain text."
-address = "Jeju Island, South Korea"
+address = ""
 doi = ""
 issue = ""
 number = ""
 pages = "1048--1059"
-publisher = "Association for Computational Linguistics"
+publisher = ""
 volume = ""
 math = true
 highlight = false
@@ -200,6 +199,20 @@ year = "2017"
 url = "http://www.aclweb.org/anthology/W17-6305"
 venue = "IWPT"
 author = "Pranava Swaroop Madhyastha, Xavier Carreras, Ariadna Quattoni"
+
+[[citation]]
+title = "Improving Sequence-to-Sequence Constituency Parsing"
+year = "2018"
+url = ""
+venue = "AAAI"
+author = "Lemao Liu, Muhua Zhu, Shuming Shi"
+
+[[citation]]
+title = "Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples"
+year = "2018"
+url = ""
+venue = "ACL"
+author = "Matthew Peters  Mark Hopkins Vidur Joshi"
 
 
 +++
