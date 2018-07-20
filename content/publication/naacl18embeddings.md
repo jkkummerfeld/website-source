@@ -42,6 +42,12 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
+[[citation]]
+title = "Subcharacter information in japanese embeddings: when is it worth it?"
+year = "2018"
+url = ""
+venue = "Proceedings of the Workshop on Relevance of Linguistic Structure in Neural Architectures for NLP (RELNLP)"
+author = "Bofang Li  Anna Rogers  Marzena Karpinska, Aleksandr Drozd"
 
 
 +++

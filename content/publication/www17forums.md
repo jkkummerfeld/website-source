@@ -56,5 +56,26 @@ url = "https://dl.acm.org/citation.cfm?doid=3178876.3186178"
 venue = "WWW"
 author = "Daniel R. Thomas  Alice Hutchings  Sergio Pastrana, Richard Clayton"
 
+[[citation]]
+title = "At-risk system identification via analysis of discussions on the darkweb"
+year = "2018"
+url = "https://ieeexplore.ieee.org/abstract/document/8376211/"
+venue = "APWG Symposium on Electronic Crime Research (eCrime)"
+author = "Paulo Shakarian  Eric Nunes, Gerardo I. Simari"
+
+[[citation]]
+title = "Systematically Understanding the Cyber Attack Business: A Survey"
+year = "2018"
+url = "https://dl.acm.org/citation.cfm?id=3199674"
+venue = "ACM Computing Surveys"
+author = "Michael Siegel  Keman Huang, Stuart Madnick"
+
+[[citation]]
+title = "Characterizing Eve: Analysing Cybercrime Actors in a Large Underground Forum"
+year = "2018"
+url = ""
+venue = "International Symposium on Research in Attacks, Intrusions and Defenses"
+author = "Alice Hutchings  Andrew Caines  Sergio Pastrana, Paula Buttery"
+
 
 +++

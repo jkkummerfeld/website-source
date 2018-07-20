@@ -43,6 +43,12 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
+[[citation]]
+title = "You Are Your Photographs: Detecting Multiple Identities of Vendors in the Darknet Marketplaces"
+year = "2018"
+url = ""
+venue = "ASIA CCS"
+author = "Peng Peng  Chun Wang  Xiangwen Wang, Gang Wang"
 
 
 +++

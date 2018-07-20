@@ -182,5 +182,12 @@ url = ""
 venue = "Scientific Reports"
 author = "Jianxiang Tian, Yaopengxiao Xu, Yang Jiao, Salvatore Torquato"
 
+[[citation]]
+title = "Perspective: Basic understanding of condensed phases of matter via packing models"
+year = "2018"
+url = "https://doi.org/10.1063/1.5036657"
+venue = "The Journal of Chemical Physics"
+author = "Salvatore Torquato"
+
 
 +++

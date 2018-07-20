@@ -170,7 +170,7 @@ title = "Deep Semantic Role Labeling: What Works and What's Next"
 year = "2017"
 url = "https://homes.cs.washington.edu/~luheng/files/acl2017_hllz.pdf"
 venue = "ACL"
-author = "Kenton Lee  Mike Lewis  Luheng He, Luke Zettlemoyer"
+author = "Luheng He, Kenton Lee, Mike Lewis, Luke Zettlemoyer"
 
 [[citation]]
 title = "Breaking {NLP}: {Using} {Morphosyntax}, {Semantics}, {Pragmatics} and {World} {Knowledge} to {Fool} {Sentiment} {Analysis} {Systems}"
@@ -212,7 +212,21 @@ title = "Extending a Parser to Distant Domains Using a Few Dozen Partially Annot
 year = "2018"
 url = ""
 venue = "ACL"
-author = "Matthew Peters  Mark Hopkins Vidur Joshi"
+author = "Vidur Joshi, Matthew Peters, Mark Hopkins"
+
+[[citation]]
+title = "Madly Ambiguous: A Game for Learning about Structural Ambiguity and Why It's Hard for Computers"
+year = "2018"
+url = "http://www.aclweb.org/anthology/N18-5011"
+venue = "NAACL (Demonstration)"
+author = "Ajda Gokcen, Ethan Hill, Michael White"
+
+[[citation]]
+title = "Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information"
+year = "2018"
+url = "http://www.aclweb.org/anthology/N18-1007"
+venue = "NAACL"
+author = "Trang Tran, Shubham Toshniwal, Mohit Bansal, Kevin Gimpel, Karen Livescu, Mari Ostendorf"
 
 
 +++
