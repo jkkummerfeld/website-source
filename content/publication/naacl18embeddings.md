@@ -49,5 +49,19 @@ url = ""
 venue = "Proceedings of the Workshop on Relevance of Linguistic Structure in Neural Architectures for NLP (RELNLP)"
 author = "Bofang Li  Anna Rogers  Marzena Karpinska, Aleksandr Drozd"
 
+[[citation]]
+title = "What’s in Your Embedding, And How It Predicts Task Performance"
+year = "2018"
+url = ""
+venue = "CoLing"
+author = "Shashwath Hosur Ananthakrishna  Anna Rogers, Anna Rumshisky"
+
+[[citation]]
+title = "Towards More Robust Speech Interactions for Deaf and Hard of Hearing Users"
+year = "2018"
+url = "http://dx.doi.org/10.1145/3234695.3236343"
+venue = "ASSETS"
+author = "Harmanpreet Kaur  Skanda Palani  Martez E. Mott Raymond Fok, Walter S. Lasecki"
+
 
 +++

@@ -16,7 +16,7 @@ image_preview = "software/ccg-to-pst.png"
 tags = ["syntax"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jkkummerfeld/berkeley-ccg2pst"
+external_link = "https://jkk.name/berkeley-ccg2pst"
 
 # Does the project detail page use math formatting?
 math = false

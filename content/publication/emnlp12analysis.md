@@ -9,7 +9,7 @@ bibtex = """@InProceedings{emnlp12analysis,
   pages     = {1048--1059},
   month     = {July},
   location  = {Jeju Island, South Korea},
-  software  = {https://github.com/jkkummerfeld/berkeley-parser-analyser/},
+  software  = {https://jkk.name/berkeley-parser-analyser/},
   url       = {http://www.aclweb.org/anthology/D12-1096},
   slides    = {http://www.jkk.name/pub/emnlp12analysis_keynote.key},
   slidespdf = {http://www.jkk.name/pub/emnlp12analysis_slides.pdf},
@@ -39,7 +39,7 @@ selected = false
 url_pdf = "http://www.aclweb.org/anthology/D12-1096"
 url_poster = ""
 url_interview = ""
-url_code = "https://github.com/jkkummerfeld/berkeley-parser-analyser/"
+url_code = "https://jkk.name/berkeley-parser-analyser/"
 url_dataset = ""
 url_project = ""
 url_slides = "http://www.jkk.name/pub/emnlp12analysis_keynote.key"
@@ -227,6 +227,34 @@ year = "2018"
 url = "http://www.aclweb.org/anthology/N18-1007"
 venue = "NAACL"
 author = "Trang Tran, Shubham Toshniwal, Mohit Bansal, Kevin Gimpel, Karen Livescu, Mari Ostendorf"
+
+[[citation]]
+title = "Automated Extraction of Semantic Legal Metadata Using Natural Language Processing"
+year = "2018"
+url = "http://hdl.handle.net/10993/36228"
+venue = "The 26th IEEE International Requirements Engineering Conference"
+author = "Nicolas Sannier  Mehrdad Sabetzadeh  Lionel Briand Amin Sleimi, John Dann"
+
+[[citation]]
+title = "An Empirical Investigation of Error Types in Vietnamese Parsing"
+year = "2018"
+url = "http://www.aclweb.org/anthology/C18-1260"
+venue = "CoLing"
+author = "Yusuke Miyao  Hiroshi Noji  Quy T. Nguyen, Nhung T. H. Nguyen"
+
+[[citation]]
+title = "Sprucing up the trees - Error detection in treebanks"
+year = "2018"
+url = "http://www.aclweb.org/anthology/C18-1010"
+venue = "CoLing"
+author = "Ines Rehbein, Josef Ruppenhofer"
+
+[[citation]]
+title = "Natural Language Parsing: Progress and Challenges"
+year = "2018"
+url = "http://www.seio.es/descargas/BEIOVol34Num2.pdf#page=70"
+venue = "Boletin de Estadistica e Investigacion Operativa"
+author = "Carlos Gomez-Rodriguez"
 
 
 +++

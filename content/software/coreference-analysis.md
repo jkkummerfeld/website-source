@@ -16,7 +16,7 @@ image_preview = "software/analysis-coreference.png"
 tags = ["coreference"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jkkummerfeld/berkeley-coreference-analyser"
+external_link = "https://jkk.name/berkeley-coreference-analyser"
 
 # Does the project detail page use math formatting?
 math = false

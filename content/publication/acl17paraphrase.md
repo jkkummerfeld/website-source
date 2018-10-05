@@ -51,5 +51,12 @@ url = "https://link.springer.com/chapter/10.1007/978-3-319-91662-0_8"
 venue = "ICWE"
 author = "Kucherbaev P.  Bapat R., Bozzon A"
 
+[[citation]]
+title = "SPADE: Evaluation Dataset for Monolingual Phrase Alignment"
+year = "2018"
+url = "http://www.lrec-conf.org/proceedings/lrec2018/pdf/502.pdf"
+venue = "LREC"
+author = "Yuki Arase1, Junichi Tsujii?"
+
 
 +++

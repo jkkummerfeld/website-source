@@ -16,7 +16,7 @@ image_preview = "software/1ec-parsing.jpeg"
 tags = ["syntax"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jkkummerfeld/1ec-graph-parser"
+external_link = "https://jkk.name/1ec-graph-parser"
 
 # Does the project detail page use math formatting?
 math = false

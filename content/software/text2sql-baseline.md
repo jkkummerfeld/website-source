@@ -16,7 +16,7 @@ image_preview = "software/text2sql-baseline.png"
 tags = ["semantics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jkkummerfeld/text2sql-data/tree/master/systems/baseline-template"
+external_link = "https://jkk.name/text2sql-data/systems/baseline-template/"
 
 # Does the project detail page use math formatting?
 math = false

@@ -50,5 +50,12 @@ url = ""
 venue = "ASIA CCS"
 author = "Peng Peng  Chun Wang  Xiangwen Wang, Gang Wang"
 
+[[citation]]
+title = "Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces"
+year = "2018"
+url = "https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf"
+venue = "USENIX"
+author = "Haoran Lu  Xiaojing Liao  Kan Yuan, XiaoFeng Wang"
+
 
 +++

@@ -55,5 +55,11 @@ url = "http://aclweb.org/anthology/D/D14/D14-1135.pdf"
 venue = "EMNLP"
 author = "Adrienne Wang, Tom Kwiatkowski, Luke Zettlemoyer"
 
+[[citation]]
+title = "Wide-Coverage Parsing, Semantics, and Morphology"
+year = "2018"
+url = "https://doi.org/10.1007/978-3-319-90165-7_8"
+author = "Mark Steedman  Ruket Cakici, Cem Bozsahin"
+
 
 +++

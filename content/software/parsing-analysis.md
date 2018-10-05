@@ -16,7 +16,7 @@ image_preview = "software/analysis-parsing.png"
 tags = ["syntax"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jkkummerfeld/berkeley-parser-analyser"
+external_link = "https://jkk.name/berkeley-parser-analyser"
 
 # Does the project detail page use math formatting?
 math = false

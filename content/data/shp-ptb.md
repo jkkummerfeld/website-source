@@ -16,7 +16,7 @@ image_preview = "data/spine-representation.jpeg"
 tags = ["syntax"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/jkkummerfeld/1ec-graph-parser/tree/master/format-conversion"
+external_link = "https://jkk.name/1ec-graph-parser/format-conversion"
 
 # Does the project detail page use math formatting?
 math = false
