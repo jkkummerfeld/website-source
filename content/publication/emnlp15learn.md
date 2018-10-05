@@ -96,7 +96,6 @@ author = "Goran Glavaš  Nikola Mrkšić  Ivan Vulić, Anna Korhonen"
 [[citation]]
 title = "DGeoSegmenter: A dictionary-based Chinese word segmenter for the geoscience domain"
 year = "2018"
-url = "http://www.sciencedirect.com/science/article/pii/S0098300418300852"
 url = "https://doi.org/10.1016/j.cageo.2018.08.006"
 venue = "Computers and Geosciences"
 author = "Zhong Xie  Liang Wu Qinjun Qiu, Wenjia Li"
