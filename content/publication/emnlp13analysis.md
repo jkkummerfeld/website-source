@@ -157,5 +157,12 @@ url = "http://www.aclweb.org/anthology/E17-1018"
 venue = "EACL"
 author = "Don Tuggener"
 
+[[citation]]
+title = "An Active Learning Approach to Coreference Resolution"
+year = "2015"
+url = "http://dl.acm.org/citation.cfm?id=2832415.2832432"
+venue = "IJCAI"
+author = "Mrinmaya Sachan, Eduard Hovy, Eric P. Xing"
+
 
 +++
