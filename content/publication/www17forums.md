@@ -16,6 +16,7 @@ bibtex = """@InProceedings{www17forums,
 title = "Tools for Automated Analysis of Cybercriminal Markets"
 date = "2017-04-01"
 draft = false
+preprint = false
 authors = ["Rebecca S. Portnoff", "Sadia Afroz", "Greg Durrett", "Jonathan K. Kummerfeld", "Taylor Berg-Kirkpatrick", "Damon McCoy", "Kirill Levchenko", "Vern Paxson"]
 publication_types = ["1"]
 publication = "Proceedings of 26th International World Wide Web conference"
@@ -76,6 +77,13 @@ year = "2018"
 url = ""
 venue = "International Symposium on Research in Attacks, Intrusions and Defenses"
 author = "Alice Hutchings  Andrew Caines  Sergio Pastrana, Paula Buttery"
+
+[[citation]]
+title = "iDetector: Automate Underground Forum Analysis Based on Heterogeneous Information Network"
+year = "2018"
+url = ""
+venue = "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"
+author = "Yujie Fan  Shifu Hou  Jian Liu  Yanfang Ye  Yiming Zhang, Thirimachos Bourlai"
 
 
 +++

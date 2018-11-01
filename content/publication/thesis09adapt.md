@@ -23,6 +23,7 @@ bibtex = """@PhDThesis{thesis09adapt,
 title = "Adaptive Supertagging for Faster Parsing"
 date = "2009-01-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld"]
 publication_types = ["4"]
 publication = "The University of Sydney"

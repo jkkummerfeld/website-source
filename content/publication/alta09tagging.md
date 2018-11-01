@@ -19,6 +19,7 @@ We demonstrate faster methods for training a supertagger using hundreds of milli
 title = "Faster parsing and supertagging model estimation"
 date = "2009-12-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld", "Jessika Roesner", "James R. Curran"]
 publication_types = ["1"]
 publication = "Proceedings of the Australasian Language Technology Association Workshop 2009"

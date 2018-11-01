@@ -16,6 +16,7 @@ bibtex = """@InProceedings{naacl18embeddings,
 title = "Factors Influencing the Surprising Instability of Word Embeddings"
 date = "2018-06-01"
 draft = false
+preprint = false
 authors = ["Laura Wendlandt", "Jonathan K. Kummerfeld", "Rada Mihalcea"]
 publication_types = ["1"]
 publication = "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)"

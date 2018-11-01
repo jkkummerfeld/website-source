@@ -19,6 +19,7 @@ bibtex = """@InProceedings{emnlp12analysis,
 title = "Parser Showdown at the Wall Street Corral: An Empirical Investigation of Error Types in Parser Output"
 date = "2012-07-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld", "David Hall", "James R. Curran", "Dan Klein"]
 publication_types = ["1"]
 publication = "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning"
@@ -255,6 +256,13 @@ year = "2018"
 url = "http://www.seio.es/descargas/BEIOVol34Num2.pdf#page=70"
 venue = "Boletin de Estadistica e Investigacion Operativa"
 author = "Carlos Gomez-Rodriguez"
+
+[[citation]]
+title = "Constituent Parsing as Sequence Labeling"
+year = "2018"
+url = "http://aclweb.org/anthology/D18-1162"
+venue = "EMNLP"
+author = "Carlos Gomez-Rodriguez, David Vilares"
 
 
 +++

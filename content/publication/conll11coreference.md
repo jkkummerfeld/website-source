@@ -17,6 +17,7 @@ bibtex = """@InProceedings{conll11coreference,
 title = "Mention Detection: Heuristics for the OntoNotes annotations"
 date = "2011-06-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld", "Mohit Bansal", "David Burkett", "Dan Klein"]
 publication_types = ["1"]
 publication = "Proceedings of the Fifteenth Conference on Computational Natural Language Learning: Shared Task"

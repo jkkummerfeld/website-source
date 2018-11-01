@@ -16,6 +16,7 @@ bibtex = """@Article{chem08packing,
 title = "The densest packing of AB binary hard-sphere homogeneous compounds across all size ratios"
 date = "2008-08-01"
 draft = false
+preprint = false
 authors = ["Jonathan K Kummerfeld", "Toby S Hudson", "Peter Harrowell"]
 publication_types = ["2"]
 publication = "The Journal of Physical Chemistry B"

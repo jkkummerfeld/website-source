@@ -18,6 +18,7 @@ bibtex = """@InProceedings{acl17paraphrase,
 title = "Understanding Task Design Trade-offs in Crowdsourced Paraphrase Collection"
 date = "2017-07-01"
 draft = false
+preprint = false
 authors = ["Youxuan Jiang", "Jonathan K. Kummerfeld", "Walter S. Lasecki"]
 publication_types = ["1"]
 publication = "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)"

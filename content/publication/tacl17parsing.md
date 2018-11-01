@@ -16,6 +16,7 @@ bibtex = """@InProceedings{tacl17parsing,
 title = "Parsing with Traces: An O($n^4$) Algorithm and a Structural Representation"
 date = "2017-01-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld", "Dan Klein"]
 publication_types = ["1"]
 publication = "Transactions of the Association for Computational Linguistics"

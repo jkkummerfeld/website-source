@@ -17,6 +17,7 @@ bibtex = """@InProceedings{emnlp17forums,
 title = "Identifying Products in Online Cybercrime Marketplaces: A Dataset for Fine-grained Domain Adaptation"
 date = "2017-09-01"
 draft = false
+preprint = false
 authors = ["Greg Durrett", "Jonathan K. Kummerfeld", "Taylor Berg-Kirkpatrick", "Rebecca S. Portnoff", "Sadia Afroz", "Damon McCoy", "Kirill Levchenko", "Vern Paxson"]
 publication_types = ["1"]
 publication = "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing"

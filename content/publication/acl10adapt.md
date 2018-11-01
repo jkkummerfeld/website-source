@@ -18,6 +18,7 @@ bibtex = """@InProceedings{acl10adapt,
 title = "Faster Parsing by Supertagger Adaptation"
 date = "2010-07-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld", "Jessika Roesner", "Tim Dawborn", "James Haggerty", "James R. Curran", "Stephen Clark"]
 publication_types = ["1"]
 publication = "Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics"

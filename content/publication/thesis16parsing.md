@@ -23,6 +23,7 @@ bibtex = """@PhDThesis{thesis16parsing,
 title = "Algorithms for Identifying Syntactic Errors and Parsing with Graph Structured Output"
 date = "2016-01-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld"]
 publication_types = ["4"]
 publication = "EECS Department, University of California, Berkeley"

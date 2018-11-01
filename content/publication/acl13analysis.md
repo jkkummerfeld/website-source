@@ -19,6 +19,7 @@ bibtex = """@InProceedings{acl13analysis,
 title = "An Empirical Examination of Challenges in Chinese Parsing"
 date = "2013-08-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld", "Daniel Tse", "James R. Curran", "Dan Klein"]
 publication_types = ["1"]
 publication = "Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)"

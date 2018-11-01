@@ -18,6 +18,7 @@ bibtex = """@InProceedings{alta08vpc,
 title = "Classification of Verb Particle Constructions with the Google Web1T Corpus"
 date = "2008-12-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld", "James R. Curran"]
 publication_types = ["1"]
 publication = "Proceedings of the Australasian Language Technology Association Workshop 2008"

@@ -19,6 +19,7 @@ bibtex = """@Article{prl10chemistry,
 title = "Spatiotemporal Hierarchy of Relaxation Events, Dynamical Heterogeneities, and Structural Reorganization in a Supercooled Liquid"
 date = "2010-09-01"
 draft = false
+preprint = false
 authors = ["Raphael Candelier", "Asaph Widmer-Cooper", "Jonathan K. Kummerfeld", "Olivier Dauchot", "Giulio Biroli", "Peter Harrowell", "David R. Reichman"]
 publication_types = ["2"]
 publication = "Physical Review Letters"

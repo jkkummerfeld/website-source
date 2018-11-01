@@ -18,6 +18,7 @@ We use morphological analysis to split verb inflectional suffixes into separate 
 title = "Morphological Analysis Can Improve a CCG Parser for English"
 date = "2010-08-01"
 draft = false
+preprint = false
 authors = ["Matthew Honnibal", "Jonathan K. Kummerfeld", "James R. Curran"]
 publication_types = ["1"]
 publication = "Proceedings of the 23rd International Conference on Computational Linguistics"

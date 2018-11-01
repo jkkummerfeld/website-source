@@ -18,6 +18,7 @@ bibtex = """@InProceedings{emnlp15learn,
 title = "An Empirical Analysis of Optimization for Max-Margin NLP"
 date = "2015-09-01"
 draft = false
+preprint = false
 authors = ["Jonathan K. Kummerfeld", "Taylor Berg-Kirkpatrick", "Dan Klein"]
 publication_types = ["1"]
 publication = "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing"

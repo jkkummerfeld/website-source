@@ -16,6 +16,7 @@ The focus of the research was the C&C parser (Clark and Curran, 2007c), a state-
 title = "Large-Scale Syntactic Processing: Parsing the Web"
 date = "2009-01-01"
 draft = false
+preprint = false
 authors = ["Stephen Clark", "Ann Copestake", "James R. Curran", "Yue Zhang", "Aurelie Herbelot", "James Haggerty", "Byung-Gyu Ahn", "Curt Van Wyk", "Jessika Roesner", "Jonathan Kummerfeld", "Tim Dawborn"]
 publication_types = ["4"]
 publication = "Johns Hopkins University"
