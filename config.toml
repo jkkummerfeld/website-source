@@ -165,7 +165,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "arxiv"
     icon_pack = "ai"
-    link = "//arxiv.org/a/0000-0001-5030-3016"
+    link = "//arxiv.org/a/kummerfeld_j_1"
 
   [[params.social]]
     icon = "orcid"

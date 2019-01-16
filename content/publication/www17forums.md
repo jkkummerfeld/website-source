@@ -85,5 +85,12 @@ url = ""
 venue = "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"
 author = "Yujie Fan  Shifu Hou  Jian Liu  Yanfang Ye  Yiming Zhang, Thirimachos Bourlai"
 
+[[citation]]
+title = "Automatically identifying the function and intent of posts in underground forums"
+year = "2018"
+url = "https://doi.org/10.1186/s40163-018-0094-4"
+venue = "Crime Science"
+author = "Sergio Pastrana  Alice Hutchings  Andrew Caines, Paula J. Buttery"
+
 
 +++

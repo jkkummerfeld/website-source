@@ -58,5 +58,12 @@ url = "https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yua
 venue = "USENIX"
 author = "Haoran Lu  Xiaojing Liao  Kan Yuan, XiaoFeng Wang"
 
+[[citation]]
+title = "Automatically identifying the function and intent of posts in underground forums"
+year = "2018"
+url = "https://doi.org/10.1186/s40163-018-0094-4"
+venue = "Crime Science"
+author = "Sergio Pastrana  Alice Hutchings  Andrew Caines, Paula J. Buttery"
+
 
 +++

@@ -62,7 +62,7 @@ venue = "ACL"
 author = "Richard Socher, John Bauer, Christopher D. Manning, Andrew Y. Ng"
 
 [[citation]]
-title = "A Hebrew verb–complement dictionary"
+title = "A Hebrew verb-complement dictionary"
 year = "2013"
 url = "https://dl.acm.org/citation.cfm?id=2618034"
 venue = "LREC"
@@ -263,6 +263,13 @@ year = "2018"
 url = "http://aclweb.org/anthology/D18-1162"
 venue = "EMNLP"
 author = "Carlos Gomez-Rodriguez, David Vilares"
+
+[[citation]]
+title = "Natural Language Parsing: Progress and Challenges"
+year = "2018"
+url = ""
+venue = "Boletin de Estadistica e Investigacion Operativa"
+author = "Carlos Gomez-Rodriguez"
 
 
 +++

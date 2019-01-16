@@ -59,5 +59,12 @@ url = "http://www.lrec-conf.org/proceedings/lrec2018/pdf/502.pdf"
 venue = "LREC"
 author = "Yuki Arase1, Junichi Tsujii?"
 
+[[citation]]
+title = "Crowdsourcing for Reminiscence Chatbot Design"
+year = "2018"
+url = "https://arxiv.org/pdf/1805.12346.pdf"
+venue = "HCOMP"
+author = "Florian Daniel  Marcos Baez  Fabio Casati Svetlana Nikitina"
+
 
 +++

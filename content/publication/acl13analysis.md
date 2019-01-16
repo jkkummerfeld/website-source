@@ -124,5 +124,12 @@ url = "https://doi.org/10.26615/978-954-452-049-6_043"
 venue = "Proceedings of the International Conference Recent Advances in Natural Language Processing, RANLP 2017"
 author = "Hai Hu, Daniel Dakota, Sandra Kubler"
 
+[[citation]]
+title = "Test Sets for Chinese Nonlocal Dependency Parsing"
+year = "2018"
+url = ""
+venue = "LREC"
+author = "Manjuan Duan, William Schuler"
+
 
 +++
