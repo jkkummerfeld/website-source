@@ -94,7 +94,7 @@ venue = "Journal of Information and Computational Science"
 author = "Qingjiang Wang, Zhengping Wang, Lin Zhang"
 
 [[citation]]
-title = "A Streaming Dataflow Implementation of Parallel Cocke–Younger–Kasami Parser"
+title = "A Streaming Dataflow Implementation of Parallel Cocke–Younger–Kasami Parser "
 year = "2016"
 url = ""
 author = "D. Bojic, M. Bojovic"

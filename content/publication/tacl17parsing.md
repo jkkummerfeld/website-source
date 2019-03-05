@@ -53,5 +53,12 @@ url = "http://www.aclweb.org/anthology/W17-6312"
 venue = "IWPT"
 author = "Robin Kurtz, Marco Kuhlmann"
 
+[[citation]]
+title = "An Analysis of Plane Task Text Ellipticity and the Possibility of Ellipses Reconstructing Based on Cognitive Modeling Geometric Objects and Actions"
+year = "2018"
+url = "http://ceur-ws.org/Vol-2303/paper3.pdf"
+venue = "Proceedings of Computational Models in Language and Speech Workshop"
+author = "Xenia Naidenova, Sergei Kurbatov, Vjacheslav Ganapol'skii"
+
 
 +++

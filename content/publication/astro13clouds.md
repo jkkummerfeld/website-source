@@ -48,7 +48,7 @@ title = "HI4PI: a full-sky H i survey based on EBHIS and GASS"
 year = "2016"
 url = "https://www.aanda.org/articles/aa/pdf/2016/10/aa29178-16.pdf"
 venue = "Astronomy and Astrophysics"
-author = "L. Flöer  R. Keller  J. Kerp  D. Lenz N. Ben Bekhti, J. Bailin  M. R. Calabretta  L. Dedes  H. A. Ford  B. K. Gibson  U. Haud  S. Janowiecki  P. M. W. Kalberla  F. J. Lockman  N. M. McClure-Griffiths  T. Murphy  H. Nakanishi  D. J. Pisano B. Winkel, L. Staveley-Smith"
+author = "N. Ben Bekhti, L. Flöer, R. Keller, J. Kerp, D. Lenz and B. Winkel, J. Bailin, M. R. Calabretta, L. Dedes, H. A. Ford, B. K. Gibson, U. Haud, S. Janowiecki, P. M. W. Kalberla, F. J. Lockman, N. M. McClure-Griffiths, T. Murphy, H. Nakanishi, D. J. Pisano and L. Staveley-Smith"
 
 
 +++

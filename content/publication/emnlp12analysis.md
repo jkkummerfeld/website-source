@@ -234,14 +234,14 @@ title = "Automated Extraction of Semantic Legal Metadata Using Natural Language 
 year = "2018"
 url = "http://hdl.handle.net/10993/36228"
 venue = "The 26th IEEE International Requirements Engineering Conference"
-author = "Nicolas Sannier  Mehrdad Sabetzadeh  Lionel Briand Amin Sleimi, John Dann"
+author = "Amin Sleimi, Nicolas Sannier, Mehrdad Sabetzadeh, Lionel Briand and John Dann"
 
 [[citation]]
 title = "An Empirical Investigation of Error Types in Vietnamese Parsing"
 year = "2018"
 url = "http://www.aclweb.org/anthology/C18-1260"
 venue = "CoLing"
-author = "Yusuke Miyao  Hiroshi Noji  Quy T. Nguyen, Nhung T. H. Nguyen"
+author = "Quy T. Nguyen, Yusuke Miyao, Hiroshi Noji, and Nhung T.H. Nguyen"
 
 [[citation]]
 title = "Sprucing up the trees - Error detection in treebanks"
@@ -270,6 +270,13 @@ year = "2018"
 url = ""
 venue = "Boletin de Estadistica e Investigacion Operativa"
 author = "Carlos Gomez-Rodriguez"
+
+[[citation]]
+title = "The status of function words in dependency grammar: A critique of Universal Dependencies (UD)"
+year = "2019"
+url = "http://doi.org/10.5334/gjgl.537"
+venue = "Glossa"
+author = "Timothy Osborne, Kim Gerdes"
 
 
 +++

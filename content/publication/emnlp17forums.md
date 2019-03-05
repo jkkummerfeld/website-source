@@ -1,7 +1,7 @@
 +++
 bibkey = "emnlp17forums"
 bibtex = """@InProceedings{emnlp17forums,
-  author    = {Greg Durrett  and  Jonathan K. Kummerfeld  and  Taylor Berg-Kirkpatrick  and  Rebecca S. Portnoff  and  Sadia Afroz  and  Damon McCoy  and  Kirill Levchenko  and  and Vern Paxson},
+  author    = {Greg Durrett  and  Jonathan K. Kummerfeld  and  Taylor Berg-Kirkpatrick  and  Rebecca S. Portnoff  and  Sadia Afroz  and  Damon McCoy  and  Kirill Levchenko  and Vern Paxson},
   title     = {Identifying Products in Online Cybercrime Marketplaces: A Dataset for Fine-grained Domain Adaptation},
   booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
   shortvenue = {EMNLP},
@@ -49,21 +49,28 @@ title = "You Are Your Photographs: Detecting Multiple Identities of Vendors in t
 year = "2018"
 url = ""
 venue = "ASIA CCS"
-author = "Peng Peng  Chun Wang  Xiangwen Wang, Gang Wang"
+author = "Xiangwen Wang, Peng Peng, Chun Wang, and Gang Wang"
 
 [[citation]]
 title = "Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces"
 year = "2018"
 url = "https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf"
 venue = "USENIX"
-author = "Haoran Lu  Xiaojing Liao  Kan Yuan, XiaoFeng Wang"
+author = "Kan Yuan, Haoran Lu, Xiaojing Liao, and XiaoFeng Wang"
 
 [[citation]]
 title = "Automatically identifying the function and intent of posts in underground forums"
 year = "2018"
 url = "https://doi.org/10.1186/s40163-018-0094-4"
 venue = "Crime Science"
-author = "Sergio Pastrana  Alice Hutchings  Andrew Caines, Paula J. Buttery"
+author = "Andrew Caines, Sergio Pastrana, Alice Hutchings, and Paula J. Buttery"
+
+[[citation]]
+title = "Understanding and Detecting Private Interactions in Underground Forums"
+year = "2019"
+url = ""
+venue = "ACM Conference on Data and Application Security and Privacy (CODASPY)"
+author = "Zhibo Sun, Carlos E. Rubio-Medrano, Ziming Zhao, Tiffany Bao, Adam Doupe, Gail-Joon Ahn"
 
 
 +++

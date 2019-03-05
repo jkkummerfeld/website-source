@@ -57,7 +57,7 @@ title = "Joint Models for Extracting Adverse Drug Events from Biomedical Text"
 year = "2016"
 url = ""
 venue = "IJCAI"
-author = "Yue Zhang  Meishan Zhang  Donghong Ji Fei Li"
+author = "Fei Li, Yue Zhang, Meishan Zhang, Donghong Ji"
 
 [[citation]]
 title = "A Practical Perspective on Latent Structured Prediction for Coreference Resolution"
@@ -85,21 +85,21 @@ title = "Multi-Task Structured Prediction for Entity Analysis: Search-Based Lear
 year = "2017"
 url = "http://people.oregonstate.edu/~machao/homepage/acml17-mtsp/ma17.pdf"
 venue = "ACML"
-author = "Janardhan Rao Doppa  Prasad Tadepalli  Hamed Shahbazi  Xiaoli Fern Chao Ma"
+author = "Chao Ma, Janardhan Rao Doppa, Prasad Tadepalli, Hamed Shahbazi, Xiaoli Fern"
 
 [[citation]]
 title = "Post-Specialisation: Retrofitting Vectors of Words Unseen in Lexical Resources"
 year = "2018"
 url = "https://arxiv.org/pdf/1805.03228.pdf"
 venue = "NAACL"
-author = "Goran Glavaš  Nikola Mrkšić  Ivan Vulić, Anna Korhonen"
+author = "Ivan Vulić, Goran Glavaš, Nikola Mrkšić, and Anna Korhonen"
 
 [[citation]]
 title = "DGeoSegmenter: A dictionary-based Chinese word segmenter for the geoscience domain"
 year = "2018"
 url = "https://doi.org/10.1016/j.cageo.2018.08.006"
 venue = "Computers and Geosciences"
-author = "Zhong Xie  Liang Wu Qinjun Qiu, Wenjia Li"
+author = "Qinjun Qiu, Zhong Xie, Liang Wu and Wenjia Li"
 
 
 +++

@@ -96,14 +96,14 @@ title = "Apports des analyses syntaxiques pour la d'etection automatique de ment
 year = "2017"
 url = "https://hal.inria.fr/hal-01558711/document"
 venue = "Actes de la 24e Conference sur le Traitement Automatique des Langues Naturelles (TALN)"
-author = "Isabelle Tellier  Eric De La Clergerie  Marco Dinarelli  Frederic Landragin Loic Grobol"
+author = "Loic Grobol, Isabelle Tellier, Eric De La Clergerie, Marco Dinarelli, and Frederic Landragin"
 
 [[citation]]
 title = "Mention Detection Using Pointer Networks for Coreference Resolution"
 year = "2017"
 url = "http://dx.doi.org/10.4218/etrij.17.0117.0140"
 venue = "ETRI Journal"
-author = "Changki Lee  Soojong Lim Cheoneum Park"
+author = "Cheoneum Park, Changki Lee, Soojong Lim"
 
 
 +++

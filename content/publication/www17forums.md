@@ -48,49 +48,49 @@ title = "Ethical issues of research using datasets of illicit origin"
 year = "2017"
 url = "https://www.cl.cam.ac.uk/~drt24/papers/2017-ethical-issues.pdf"
 venue = "IMC"
-author = "Sergio Pastrana  Alice Hutchings  Richard Clayton  Daniel R. Thomas, Alastair R. Beresford"
+author = "Daniel R. Thomas, Sergio Pastrana, Alice Hutchings, Richard Clayton, and Alastair R. Beresford"
 
 [[citation]]
 title = "CrimeBB: Enabling Cybercrime Research on Underground Forums at Scale"
 year = "2018"
 url = "https://dl.acm.org/citation.cfm?doid=3178876.3186178"
 venue = "WWW"
-author = "Daniel R. Thomas  Alice Hutchings  Sergio Pastrana, Richard Clayton"
+author = "Sergio Pastrana, Daniel R. Thomas, Alice Hutchings, and Richard Clayton"
 
 [[citation]]
 title = "At-risk system identification via analysis of discussions on the darkweb"
 year = "2018"
 url = "https://ieeexplore.ieee.org/abstract/document/8376211/"
 venue = "APWG Symposium on Electronic Crime Research (eCrime)"
-author = "Paulo Shakarian  Eric Nunes, Gerardo I. Simari"
+author = "Eric Nunes, Paulo Shakarian, and Gerardo I. Simari"
 
 [[citation]]
 title = "Systematically Understanding the Cyber Attack Business: A Survey"
 year = "2018"
 url = "https://dl.acm.org/citation.cfm?id=3199674"
 venue = "ACM Computing Surveys"
-author = "Michael Siegel  Keman Huang, Stuart Madnick"
+author = "Keman Huang, Michael Siegel, and Stuart Madnick"
 
 [[citation]]
 title = "Characterizing Eve: Analysing Cybercrime Actors in a Large Underground Forum"
 year = "2018"
 url = ""
 venue = "International Symposium on Research in Attacks, Intrusions and Defenses"
-author = "Alice Hutchings  Andrew Caines  Sergio Pastrana, Paula Buttery"
+author = "Sergio Pastrana, Alice Hutchings, Andrew Caines, and Paula Buttery"
 
 [[citation]]
 title = "iDetector: Automate Underground Forum Analysis Based on Heterogeneous Information Network"
 year = "2018"
 url = ""
 venue = "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"
-author = "Yujie Fan  Shifu Hou  Jian Liu  Yanfang Ye  Yiming Zhang, Thirimachos Bourlai"
+author = "Yiming Zhang, Yujie Fan, Shifu Hou, Jian Liu, Yanfang Ye, and Thirimachos Bourlai"
 
 [[citation]]
 title = "Automatically identifying the function and intent of posts in underground forums"
 year = "2018"
 url = "https://doi.org/10.1186/s40163-018-0094-4"
 venue = "Crime Science"
-author = "Sergio Pastrana  Alice Hutchings  Andrew Caines, Paula J. Buttery"
+author = "Andrew Caines, Sergio Pastrana, Alice Hutchings, and Paula J. Buttery"
 
 
 +++

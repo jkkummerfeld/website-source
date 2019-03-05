@@ -50,7 +50,7 @@ title = "Effective Crowdsourced Generation of Training Data for Chatbots Natural
 year = "2018"
 url = "https://link.springer.com/chapter/10.1007/978-3-319-91662-0_8"
 venue = "ICWE"
-author = "Kucherbaev P.  Bapat R., Bozzon A"
+author = "R. Bapat, P. Kucherbaev, and A. Bozzon"
 
 [[citation]]
 title = "SPADE: Evaluation Dataset for Monolingual Phrase Alignment"
@@ -64,7 +64,14 @@ title = "Crowdsourcing for Reminiscence Chatbot Design"
 year = "2018"
 url = "https://arxiv.org/pdf/1805.12346.pdf"
 venue = "HCOMP"
-author = "Florian Daniel  Marcos Baez  Fabio Casati Svetlana Nikitina"
+author = "Svetlana Nikitina, Florian Daniel, Marcos Baez, Fabio Casati"
+
+[[citation]]
+title = "Towards More Robust Speech Interactions for Deaf and Hard of Hearing Users"
+year = "2018"
+url = "http://dx.doi.org/10.1145/3234695.3236343"
+venue = "ASSETS"
+author = "Raymond Fok, Harmanpreet Kaur, Skanda Palani, Martez E. Mott and Walter S. Lasecki"
 
 
 +++

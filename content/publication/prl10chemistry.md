@@ -7,10 +7,10 @@ bibtex = """@Article{prl10chemistry,
   volume    = {105},
   number    = {13},
   pages     = {135702},
+  doi       = {10.1103/PhysRevLett.105.135702},
   numpages  = {4},
   year      = {2010},
   month     = {September},
-  doi       = {10.1103/PhysRevLett.105.135702},
   publisher = {American Physical Society},
   url       = {http://prl.aps.org/abstract/PRL/v105/i13/e135702},
   abstract  = {We identify the pattern of microscopic dynamical relaxation for a two-dimensional glass-forming liquid. On short time scales, bursts of irreversible particle motion, called cage jumps, aggregate into clusters. On larger time scales, clusters aggregate both spatially and temporally into avalanches. This propagation of mobility takes place along the soft regions of the systems, which have been identified by computing isoconfigurational Debye-Waller maps. Our results characterize the way in which dynamical heterogeneity evolves in moderately supercooled liquids and reveal that it is astonishingly similar to the one found for dense glassy granular media.},
@@ -37,7 +37,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://dx.doi.org/10.1103/PhysRevLett.105.135702"
+url_pdf = "http://prl.aps.org/abstract/PRL/v105/i13/e135702"
 url_poster = ""
 url_interview = ""
 url_code = ""
@@ -47,7 +47,7 @@ url_slides = ""
 url_video = ""
 
 [[citation]]
-title = "Structural phases in non-additive soft-disk mixtures: Glasses, substitutional order,  and  random tilings"
+title = "Structural phases in non-additive soft-disk mixtures: Glasses, substitutional order, and random tilings"
 year = "2011"
 url = ""
 venue = "Journal of Chemical Physics"
@@ -82,21 +82,21 @@ venue = "Journal of Statistical Mechanics: Theory  and  Experiment"
 author = "James G Puckett, Frederic Lechenault, Karen E Daniels, Jean-Luc Thiffeault"
 
 [[citation]]
-title = "Excitations Are Localized  and  Relaxation Is Hierarchical in Glass-Forming Liquids"
+title = "Excitations Are Localized and Relaxation Is Hierarchical in Glass-Forming Liquids"
 year = "2011"
 url = ""
 venue = "Physical Review"
 author = "Aaron S. Keys, Lester O. Hedges, Juan P. Garrahan, Sharon C. Glotzer, David Chandler"
 
 [[citation]]
-title = "Perspective: Supercooled liquids  and  glasses"
+title = "Perspective: Supercooled liquids and glasses "
 year = "2012"
 url = ""
 venue = "Journal of Chemical Physics"
 author = "M. D. Ediger, Peter Harrowell"
 
 [[citation]]
-title = "Gel formation  and  aging in weakly attractive nanocolloid suspensions at intermediate concentrations"
+title = "Gel formation and aging in weakly attractive nanocolloid suspensions at intermediate concentrations "
 year = "2011"
 url = ""
 venue = "Journal of Chemical Physics"
@@ -110,7 +110,7 @@ venue = "Physica A"
 author = "Xian-Zhi Wang"
 
 [[citation]]
-title = "Theoretical perspective on the glass transition  and  amorphous materials"
+title = "Theoretical perspective on the glass transition and amorphous materials"
 year = "2011"
 url = ""
 venue = "Reviews of Modern Physics"
@@ -124,14 +124,14 @@ venue = "Europhysics Letters"
 author = "R. Candelier, O. Dauchot, G. Biroli"
 
 [[citation]]
-title = "Jammed Particle Configurations  and  Dynamics in High-Density Lennard-Jones Binary Mixtures in Two Dimensions"
+title = "Jammed Particle Configurations and Dynamics in High-Density Lennard-Jones Binary Mixtures in Two Dimensions"
 year = "2010"
 url = ""
 venue = "Progress of Theoretical Physics Supplement"
 author = "Hayato Shiba, Akira Onuki"
 
 [[citation]]
-title = "Dynamic heterogeneities, boson peak,  and  activation volume in glass-forming liquids"
+title = "Dynamic heterogeneities, boson peak, and activation volume in glass-forming liquids"
 year = "2011"
 url = ""
 venue = "Physical Review E"
@@ -145,7 +145,7 @@ venue = "Physical Review Letters"
 author = "Christian Rehwald, Oliver Rubner, Andreas Heuer"
 
 [[citation]]
-title = "Dynamics of thermal vibrational motions  and  stringlike jump motions in three-dimensional glass-forming liquids"
+title = "Dynamics of thermal vibrational motions and stringlike jump motions in three-dimensional glass-forming liquids"
 year = "2013"
 url = ""
 venue = "AIP: The Journal of Chemical Physics"
@@ -159,7 +159,7 @@ venue = "AIP: The Journal of Chemical Physics"
 author = "D. Anderson, D. Schaar, H. G. E. Hentschel, J. Hay, Piotr Habdas, Eric R. Weeks"
 
 [[citation]]
-title = "Dynamical Heterogeneities in Glasses, Colloids,  and  Granular Media"
+title = "Dynamical Heterogeneities in Glasses, Colloids, and Granular Media"
 year = "2011"
 url = ""
 author = "Ludovic Berthier, Giulio Biroli, Jean-Philippe Bouchaud, Luca Cipelletti, Wim van Saarloos"
@@ -172,7 +172,7 @@ venue = "Physical Review Letters"
 author = "Jader Colombo, Asaph Widmer-Cooper, Emanuela Del Gado"
 
 [[citation]]
-title = "Distribution of local relaxation events in an aging three-dimensional glass: Spatiotemporal correlation  and  dynamical heterogeneity"
+title = "Distribution of local relaxation events in an aging three-dimensional glass: Spatiotemporal correlation and dynamical heterogeneity"
 year = "2013"
 url = ""
 venue = "Physical Review E"
@@ -183,7 +183,7 @@ title = "Avalanches mediate crystallization in a hard-sphere glass"
 year = "2013"
 url = ""
 venue = "Proceedings of the National Academy of Sciences"
-author = "Eduardo Sanz, Chantal Valeriani, Emanuela Zaccarelli, Wilson C. K. Poon, Michael E. Cates, Peter N. Pusey"
+author = "Eduardo Sanz, Chantal Valeriani, Emanuela Zaccarelli, Wilson C. K. Poon, Michael E. Cates and Peter N. Pusey"
 
 [[citation]]
 title = "Distributions of single-molecule properties as tools for the study of dynamical heterogeneities in nanoconfined water"
@@ -193,14 +193,14 @@ venue = "Journal of Physics: Condensed Matter"
 author = "G B Suffritti, P Demontis, J Gulin-Gonzalez, M Masia"
 
 [[citation]]
-title = "Stress-induced microcracking  and  cooperative motion of cold dusty plasma liquids"
+title = "Stress-induced microcracking and cooperative motion of cold dusty plasma liquids"
 year = "2014"
 url = ""
 venue = "Physical Review E"
 author = "Chi Yang, Lin I"
 
 [[citation]]
-title = "Dynamics in a tetrahedral network glassformer: Vibrations, network rearrangements,  and  diffusion"
+title = "Dynamics in a tetrahedral network glassformer: Vibrations, network rearrangements, and diffusion"
 year = "2014"
 url = ""
 venue = "The Journal of Chemical Physics"
@@ -265,16 +265,23 @@ author = "Chunyang Yu, Li Ma, Wei Huang, Yongfeng Zhou, Jingui Qin, Deyue Yan"
 [[citation]]
 title = "Structure-property relationships from universal signatures of plasticity in disordered solids"
 year = "2017"
-url = "http://science.sciencemag.org/content/358/6366/1033"
+url = ""
 venue = "Science"
-author = "E. D. Cubuk, R. J. S. Ivancic, S. S. Schoenholz, D. J. Strickland, A. Basu, Z. S. Davidson, J. Fontaine, J. L. Hor, Y.-R. Huang, Y. Jiang, N. C. Keim, K. D. Koshigan, J. A. Lefever, T. Liu, X.-G. Ma, D. J. Magagnosc, E. Morrow, C. P. Ortiz, J. M. Rieser, A. Shavit, T. Still, Y. Xu, Y. Zhang, K. N. Nordstrom, P. E. Arratia, R. W. Carpick, D. J. Durian, Z. Fakhraai, D. J. Jerolmack, Daeyeon Lee, Ju Li, R. Riggleman, K. T. Turner, A. G. Yodh, D. S. Gianola, Andrea J. Liu"
+author = "E. D. Cubuk, R. J. S. Ivancic, S. S. Schoenholz, D. J. Strickl, A. Basu, Z. S. Davidson, J. Fontaine, J. L. Hor, Y.-R. Huang, Y. Jiang, N. C. Keim, K. D. Koshigan, J. A. Lefever, T. Liu, X.-G. Ma, D. J. Magagnosc, E. Morrow, C. P. Ortiz, J. M. Rieser, A. Shavit, T. Still, Y. Xu, Y. Zhang, K. N. Nordstrom, P. E. Arratia, R. W. Carpick, D. J. Durian, Z. Fakhraai, D. J. Jerolmack, Daeyeon Lee, Ju Li, R. Riggleman, K. T. Turner, A. G. Yodh, D. S. Gianola and rea J. Liu"
 
 [[citation]]
 title = "Continuous-time random-walk approach to supercooled liquids: Self-part of the van Hove function and related quantities"
 year = "2018"
 url = "https://link.springer.com/article/10.1140/epje/i2018-11680-1"
 venue = "The European Physical Journal E"
-author = "J. Brisch  H. Meyer  O. Benzerara  F. Ziebert  J. Farago  J. Baschnagel J. Helfferich"
+author = "J. Helfferich, J. Brisch, H. Meyer, O. Benzerara, F. Ziebert, J. Farago, J. Baschnagel"
+
+[[citation]]
+title = "Heterogeneous Activation, Local Structure, and Softness in Supercooled Colloidal Liquids"
+year = "2019"
+url = "https://link.aps.org/doi/10.1103/PhysRevLett.122.02800"
+venue = "Physical Review Letters"
+author = "Xiaoguang Ma, Zoey S. Davidson, Tim Still, Robert J. S. Ivancic, S. S. Schoenholz, A. J. Liu and A. G. Yodh"
 
 
 +++
