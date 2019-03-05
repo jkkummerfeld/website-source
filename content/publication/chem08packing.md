@@ -2,7 +2,7 @@
 bibkey = "chem08packing"
 bibtex = """@Article{chem08packing,
   title     = {The densest packing of AB binary hard-sphere homogeneous compounds across all size ratios},
-  author    = {Jonathan K Kummerfeld and Toby S Hudson and Peter Harrowell},
+  author    = {Jonathan K. Kummerfeld and Toby S Hudson and Peter Harrowell},
   journal   = {The Journal of Physical Chemistry B},
   month     = {August},
   year      = {2008},
@@ -17,7 +17,7 @@ title = "The densest packing of AB binary hard-sphere homogeneous compounds acro
 date = "2008-08-01"
 draft = false
 preprint = false
-authors = ["Jonathan K Kummerfeld", "Toby S Hudson", "Peter Harrowell"]
+authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Toby S Hudson", "Peter Harrowell"]
 publication_types = ["2"]
 publication = "The Journal of Physical Chemistry B"
 publication_short = "The Journal of Physical Chemistry B"

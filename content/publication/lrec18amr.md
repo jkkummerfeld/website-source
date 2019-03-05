@@ -16,7 +16,7 @@ title = "World Knowledge for Abstract Meaning Representation Parsing"
 date = "2018-05-01"
 draft = false
 preprint = false
-authors = ["Charles Welch", "Jonathan K. Kummerfeld", "Song Feng", "Rada Mihalcea"]
+authors = ["Charles Welch", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Song Feng", "Rada Mihalcea"]
 publication_types = ["1"]
 publication = "Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)"
 publication_short = "LREC"

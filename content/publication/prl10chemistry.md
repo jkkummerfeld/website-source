@@ -20,7 +20,7 @@ title = "Spatiotemporal Hierarchy of Relaxation Events, Dynamical Heterogeneitie
 date = "2010-09-01"
 draft = false
 preprint = false
-authors = ["Raphael Candelier", "Asaph Widmer-Cooper", "Jonathan K. Kummerfeld", "Olivier Dauchot", "Giulio Biroli", "Peter Harrowell", "David R. Reichman"]
+authors = ["Raphael Candelier", "Asaph Widmer-Cooper", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Olivier Dauchot", "Giulio Biroli", "Peter Harrowell", "David R. Reichman"]
 publication_types = ["2"]
 publication = "Physical Review Letters"
 publication_short = "Physical Review Letters"

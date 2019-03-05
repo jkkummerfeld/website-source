@@ -24,7 +24,7 @@ title = "Algorithms for Identifying Syntactic Errors and Parsing with Graph Stru
 date = "2016-01-01"
 draft = false
 preprint = false
-authors = ["Jonathan K. Kummerfeld"]
+authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>"]
 publication_types = ["4"]
 publication = "EECS Department, University of California, Berkeley"
 publication_short = "EECS Department, University of California, Berkeley"

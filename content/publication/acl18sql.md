@@ -19,7 +19,7 @@ title = "Improving Text-to-SQL Evaluation Methodology"
 date = "2018-07-01"
 draft = false
 preprint = false
-authors = ["Catherine Finegan-Dollak\\*", "Jonathan K. Kummerfeld\\*", "Li Zhang", "Karthik Ramanathan", "Sesh Sadasivam", "Rui Zhang", "Dragomir Radev"]
+authors = ["Catherine Finegan-Dollak\\*", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld\\*</span>", "Li Zhang", "Karthik Ramanathan", "Sesh Sadasivam", "Rui Zhang", "Dragomir Radev"]
 publication_types = ["1"]
 publication = "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
 publication_short = "ACL"

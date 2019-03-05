@@ -15,7 +15,7 @@ title = "DSTC7 Task 1: Noetic End-to-End Response Selection"
 date = "2019-01-01"
 draft = false
 preprint = false
-authors = ["Chulaka Gunasekara", "Jonathan K. Kummerfeld", "Lazaros Polymenakos", "and Walter S. Lasecki"]
+authors = ["Chulaka Gunasekara", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Lazaros Polymenakos", "and Walter S. Lasecki"]
 publication_types = ["1"]
 publication = "7th Edition of the Dialog System Technology Challenges at AAAI 2019"
 publication_short = "DSTC"

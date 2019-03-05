@@ -17,7 +17,7 @@ title = "High-velocity Clouds in the Galactic All Sky Survey. I. Catalog"
 date = "2013-01-01"
 draft = false
 preprint = false
-authors = ["Vanessa A. Moss", "Naomi M. McClure-Griffiths", "Tara Murphy", "D. J. Pisano", "Jonathan K. Kummerfeld", "James R. Curran"]
+authors = ["Vanessa A. Moss", "Naomi M. McClure-Griffiths", "Tara Murphy", "D. J. Pisano", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "James R. Curran"]
 publication_types = ["2"]
 publication = "The Astrophysical Journal Supplement Series"
 publication_short = "The Astrophysical Journal Supplement Series"

@@ -17,7 +17,7 @@ title = "Tools for Automated Analysis of Cybercriminal Markets"
 date = "2017-04-01"
 draft = false
 preprint = false
-authors = ["Rebecca S. Portnoff", "Sadia Afroz", "Greg Durrett", "Jonathan K. Kummerfeld", "Taylor Berg-Kirkpatrick", "Damon McCoy", "Kirill Levchenko", "Vern Paxson"]
+authors = ["Rebecca S. Portnoff", "Sadia Afroz", "Greg Durrett", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Taylor Berg-Kirkpatrick", "Damon McCoy", "Kirill Levchenko", "Vern Paxson"]
 publication_types = ["1"]
 publication = "Proceedings of 26th International World Wide Web conference"
 publication_short = "WWW"

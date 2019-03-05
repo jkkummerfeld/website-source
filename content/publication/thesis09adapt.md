@@ -24,7 +24,7 @@ title = "Adaptive Supertagging for Faster Parsing"
 date = "2009-01-01"
 draft = false
 preprint = false
-authors = ["Jonathan K. Kummerfeld"]
+authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>"]
 publication_types = ["4"]
 publication = "The University of Sydney"
 publication_short = "The University of Sydney"

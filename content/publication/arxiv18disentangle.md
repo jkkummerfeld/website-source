@@ -17,7 +17,7 @@ title = "Analyzing Assumptions in Conversation Disentanglement Research Through 
 date = "2018-10-01"
 draft = false
 preprint = true
-authors = ["Jonathan K. Kummerfeld", "Sai R. Gouravajhala", "Joseph Peper", "Vignesh Athreya", "Chulaka Gunasekara", "Jatin Ganhotra", "Siva Sankalp Patel", "Lazaros Polymenakos", "Walter S. Lasecki"]
+authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Sai R. Gouravajhala", "Joseph Peper", "Vignesh Athreya", "Chulaka Gunasekara", "Jatin Ganhotra", "Siva Sankalp Patel", "Lazaros Polymenakos", "Walter S. Lasecki"]
 publication_types = ["2"]
 publication = "ArXiv e-prints"
 publication_short = "ArXiv e-prints"

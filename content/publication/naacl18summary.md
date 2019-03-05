@@ -17,7 +17,7 @@ title = "Effective Crowdsourcing for a New Type of Summarization Task"
 date = "2018-06-01"
 draft = false
 preprint = false
-authors = ["Youxuan Jiang", "Catherine Finegan-Dollak", "Jonathan K. Kummerfeld", "Walter Lasecki"]
+authors = ["Youxuan Jiang", "Catherine Finegan-Dollak", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Walter Lasecki"]
 publication_types = ["1"]
 publication = "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)"
 publication_short = "NAACL (short)"

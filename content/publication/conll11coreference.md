@@ -18,7 +18,7 @@ title = "Mention Detection: Heuristics for the OntoNotes annotations"
 date = "2011-06-01"
 draft = false
 preprint = false
-authors = ["Jonathan K. Kummerfeld", "Mohit Bansal", "David Burkett", "Dan Klein"]
+authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Mohit Bansal", "David Burkett", "Dan Klein"]
 publication_types = ["1"]
 publication = "Proceedings of the Fifteenth Conference on Computational Natural Language Learning: Shared Task"
 publication_short = "CoNLL Shared Task"

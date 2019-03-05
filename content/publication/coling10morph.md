@@ -19,7 +19,7 @@ title = "Morphological Analysis Can Improve a CCG Parser for English"
 date = "2010-08-01"
 draft = false
 preprint = false
-authors = ["Matthew Honnibal", "Jonathan K. Kummerfeld", "James R. Curran"]
+authors = ["Matthew Honnibal", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "James R. Curran"]
 publication_types = ["1"]
 publication = "Proceedings of the 23rd International Conference on Computational Linguistics"
 publication_short = "CoLing"

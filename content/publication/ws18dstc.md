@@ -16,7 +16,7 @@ title = "Dialog System Technology Challenge 7"
 date = "2018-12-01"
 draft = false
 preprint = false
-authors = ["Koichiro Yoshino", "Chiori Hori", "Julien Perez", "Luis Fernando D'Haro", "Lazaros Polymenakos", "Chulaka Gunasekara", "Walter S. Lasecki", "Jonathan K. Kummerfeld", "Michel Galley", "Chris Brockett", "Jianfeng Gao", "Bill Dolan", "Xiang Gao", "Huda Alamari", "Tim K. Marks", "Devi Parikh and Dhruv Batra"]
+authors = ["Koichiro Yoshino", "Chiori Hori", "Julien Perez", "Luis Fernando D'Haro", "Lazaros Polymenakos", "Chulaka Gunasekara", "Walter S. Lasecki", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Michel Galley", "Chris Brockett", "Jianfeng Gao", "Bill Dolan", "Xiang Gao", "Huda Alamari", "Tim K. Marks", "Devi Parikh and Dhruv Batra"]
 publication_types = ["1"]
 publication = "NeurIPS Workshop: The 2nd Conversational AI: 'Today's Practice and Tomorrow's Potential'"
 publication_short = "ConvAI Workshop"

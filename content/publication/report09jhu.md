@@ -2,7 +2,7 @@
 bibkey = "report09jhu"
 bibtex = """@TechReport{report09jhu,
   title     = {Large-Scale Syntactic Processing: Parsing the Web},
-  author    = {Stephen Clark and Ann Copestake and James R. Curran and Yue Zhang and Aurelie Herbelot and James Haggerty and Byung-Gyu Ahn and Curt Van Wyk and Jessika Roesner and Jonathan Kummerfeld and Tim Dawborn},
+  author    = {Stephen Clark and Ann Copestake and James R. Curran and Yue Zhang and Aurelie Herbelot and James Haggerty and Byung-Gyu Ahn and Curt Van Wyk and Jessika Roesner and Jonathan K. Kummerfeld and Tim Dawborn},
   year      = {2009},
   institution = {Johns Hopkins University},
   url       = {http://www.jkk.name/pub/report09jhu.pdf},
@@ -17,7 +17,7 @@ title = "Large-Scale Syntactic Processing: Parsing the Web"
 date = "2009-01-01"
 draft = false
 preprint = false
-authors = ["Stephen Clark", "Ann Copestake", "James R. Curran", "Yue Zhang", "Aurelie Herbelot", "James Haggerty", "Byung-Gyu Ahn", "Curt Van Wyk", "Jessika Roesner", "Jonathan Kummerfeld", "Tim Dawborn"]
+authors = ["Stephen Clark", "Ann Copestake", "James R. Curran", "Yue Zhang", "Aurelie Herbelot", "James Haggerty", "Byung-Gyu Ahn", "Curt Van Wyk", "Jessika Roesner", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Tim Dawborn"]
 publication_types = ["4"]
 publication = "Johns Hopkins University"
 publication_short = "Johns Hopkins University"
