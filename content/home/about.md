@@ -30,10 +30,16 @@ weight = 5
   enddate = "Now"
 
 [[employment.employment]]
+  organisation = "Naming Matters"
+  role = "Technical Adviser"
+  startdate = "Mar 2015"
+  enddate = "Now"
+
+[[employment.employment]]
   organisation = "WriteLab"
   role = "Technical Adviser"
   startdate = "March 2014"
-  enddate = "Now"
+  enddate = "May 2018"
 
 [[employment.employment]]
   organisation = "Google"
