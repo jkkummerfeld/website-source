@@ -3,11 +3,11 @@ title = "Crowdsourcing Services"
 date = 2019-04-14T10:49:35-04:00
 draft = false
 
-summary = ""
+summary = "A range of services exist for collecting annotations from paid workers. This post gives an overview of a bunch of them."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["paper"]
+tags = ["crowdsourcing"]
 categories = []
 
 # Featured image
