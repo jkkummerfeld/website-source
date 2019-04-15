@@ -26,10 +26,11 @@ A bunch of people had suggestions which I wanted to record for my own future ref
 These fell into a few categories:
 
 - Crowd providers, which directly connect with workers.
-- Annotation tools, which are designed to integrate with crowd providers (or your own internal workers).
 - Crowd enhancers, which provide a layer on top of the providers that adds features (e.g. active learning, nice templates, sophisticated workflows).
+- Annotation tools, which are designed to integrate with crowd providers (or your own internal workers).
+- Interfaces, which make it easier to use one of the crowd providers.
 
-I decided not to break the list into parts because it was sometimes unclear whether a service was using their own crowd or providing a layer over another, but I have roughly sorted them.
+I decided not to break the first two categories apart because it was sometimes unclear whether a service was using their own crowd or providing a layer over another, but I have roughly sorted them.
 Where possible I have included pricing, though some services did not make it easy to find.
 Take note of the description in each case because the data collected varies substantially.
 Also note that many tasks can be structured as a classification task (e.g. "Is this coreference link correct?"), making many of these services more flexible than the 'text classification' label below may seem (though structuring your task so costs don't explode may require some thought).
@@ -42,7 +43,19 @@ Also note that many tasks can be structured as a classification task (e.g. "Is t
 - [Scale](https://scale.ai/), classification tasks for 8c / annotation. There is an academic program, but details are not available online (mentioned [here](https://twitter.com/umbrant/status/1114312024970764290)).
 - [Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/), text classification for 8c / label, decreasing after 50,000 annotations + a workflow fee of 1.2c / label.
 - [iMerit](https://imerit.net/), NER, classification, and sentiment tasks. When used on the Amazon Marketplace they are 5 dollars / hour (India based workers) or 25 (US based workers).
-- [LegionTools](https://www.cromalab.net/LegionTools/), an interface for mechanical turk that handles integration with their APIs. Designed particularly for real-time systems. Free and self-host-able.
+
+## Mechanical Turk Integration Interfaces
+
+These are interfaces for Mechanical Turk that provide an easier way to set up HITs without having to mess with Amazon's APIs yourself.
+Both are free, but have slightly different features:
+
+- [LegionTools](https://www.cromalab.net/LegionTools/), self-hosted or not, includes key features for real-time systems.
+- [MTurk Manager](https://github.com/webis-de/mturk-manager), self-hosted, includes features for custom views of responses from workers.
+
+## Annotation User Interfaces
+
+There are many annotation tools for NLP (e.g. my own, [SLATE](http://jkk.name/slate/)!), but these annotation tools are designed to integrate with providers above to collect annotations.
+
 - [Prodigy](https://prodi.gy/), span classification (e.g. NER), multiple choice questions (which can be used to do a wide range of tasks), and relations (see [examples](https://prodi.gy/features/)). Cost is whatever you pay a crowd provider + 390 for a lifetime license, or 10k for a university-wide lifetime license, though they also often give free licenses to academics. One distinctive property is that you download and run it yourself, providing complete control over your data.
 - [LightTAG](https://www.lighttag.io/), span classification and links. Cost is 1c / annotation + the cost from a crowd provider, but there is an academic license that makes it free.
 
