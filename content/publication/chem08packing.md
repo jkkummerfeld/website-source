@@ -37,6 +37,7 @@ selected = false
 url_pdf = "http://pubs.acs.org/doi/abs/10.1021/jp804953r"
 url_poster = ""
 url_interview = ""
+url_arxiv = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -97,7 +98,7 @@ title = "Multicomponent periodic nanoparticle superlattices"
 year = "2011"
 url = ""
 venue = "Journal of Nanoparticle Research"
-author = "Paul Podsiadlo, Galyna Krylova, Arnaud Demortière, Elena Shevchenko"
+author = "Paul Podsiadlo, Galyna Krylova, Arnaud Demortiere, Elena Shevchenko"
 
 [[citation]]
 title = "Structural searches using isopointal sets as generators: densest packings for binary hard sphere mixtures"
@@ -132,7 +133,7 @@ title = "Crystal nucleation in binary hard-sphere mixtures: the effect of order 
 year = "2011"
 url = ""
 venue = "Molecular Physics"
-author = "Ran Ni†, Frank Smallenburg†, Laura Filion, Marjolein Dijkstra"
+author = "Ran Ni, Frank Smallenburg, Laura Filion, Marjolein Dijkstra"
 
 [[citation]]
 title = "New High Density Packings of Similarly-Sized Binary Spheres"
@@ -189,6 +190,13 @@ year = "2018"
 url = "https://doi.org/10.1063/1.5036657"
 venue = "The Journal of Chemical Physics"
 author = "Salvatore Torquato"
+
+[[citation]]
+title = "Using symmetry to elucidate the importance of stoichiometry in colloidal crystal assembly"
+year = "2019"
+url = "https://www.nature.com/articles/s41467-019-10031-4"
+venue = "Nature Communicationsvolume"
+author = "Nathan A. Mahynski, Evan Pretti, Vincent K. Shen, Jeetain Mittal"
 
 
 +++

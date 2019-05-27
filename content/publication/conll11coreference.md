@@ -38,6 +38,7 @@ selected = false
 url_pdf = "http://www.aclweb.org/anthology/W11-1916"
 url_poster = "http://www.jkk.name/pub/conll11coreference_poster.pdf"
 url_interview = ""
+url_arxiv = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

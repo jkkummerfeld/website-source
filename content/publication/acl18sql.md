@@ -1,7 +1,7 @@
 +++
 bibkey = "acl18sql"
 bibtex = """@InProceedings{acl18sql,
-  author    = {Catherine Finegan-Dollak\\*  and  Jonathan K. Kummerfeld\\*  and  Li Zhang  and  Karthik Ramanathan  and  Sesh Sadasivam  and  Rui Zhang  and  Dragomir Radev},
+  author    = {Catherine Finegan-Dollak\\* and Jonathan K. Kummerfeld\\* and Li Zhang and Karthik Ramanathan and Sesh Sadasivam and Rui Zhang and Dragomir Radev},
   title     = {Improving Text-to-SQL Evaluation Methodology},
   booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
   shortvenue = {ACL},
@@ -11,6 +11,7 @@ bibtex = """@InProceedings{acl18sql,
   pages     = {351--360},
   abstract  = {To be informative, an evaluation must measure how well systems generalize to realistic unseen data. We identify limitations of and propose improvements to current evaluations of text-to-SQL systems. First, we compare human-generated and automatically generated questions, characterizing properties of queries necessary for real-world applications. To facilitate evaluation on multiple datasets, we release standardized and improved versions of seven existing datasets and one new text-to-SQL dataset. Second, we show that the current division of data into training and test sets measures robustness to variations in the way questions are asked, but only partially tests how well systems generalize to new queries; therefore, we propose a complementary dataset split for evaluation of future work. Finally, we demonstrate how the common practice of anonymizing variables during evaluation removes an important challenge of the task. Our observations highlight key difficulties, and our methodology enables effective measurement of future development.},
   url       = {http://aclweb.org/anthology/P18-1033},
+  arxiv     = {https://arxiv.org/abs/1806.09029},
   software  = {https://jkk.name/text2sql-data},
   data      = {https://jkk.name/text2sql-data},
 }
@@ -36,9 +37,10 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://aclweb.org/anthology/P18-1033"
+url_pdf = "https://arxiv.org/abs/1806.09029"
 url_poster = ""
 url_interview = ""
+url_arxiv = "https://arxiv.org/abs/1806.09029"
 url_code = "https://jkk.name/text2sql-data"
 url_dataset = "https://jkk.name/text2sql-data"
 url_project = ""
@@ -51,6 +53,13 @@ year = "2018"
 url = "https://arxiv.org/pdf/1809.00107.pdf"
 venue = "EMNLP"
 author = "Zhanming Jie, Wei Lu"
+
+[[citation]]
+title = "Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation"
+year = "2019"
+url = "https://www.aclweb.org/anthology/D18-1265"
+venue = "ACL"
+author = "Jiaqi Guo, Zecheng Zhan, Yan Gao, Yan Xiao, Jian-Guang Lou, Ting Liu, and Dongmei Zhang"
 
 
 +++

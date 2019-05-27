@@ -43,6 +43,7 @@ selected = false
 url_pdf = "http://aclweb.org/anthology/C/C10/C10-2051.pdf"
 url_poster = ""
 url_interview = ""
+url_arxiv = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -61,6 +62,13 @@ title = "Wide-Coverage Parsing, Semantics, and Morphology"
 year = "2018"
 url = "https://doi.org/10.1007/978-3-319-90165-7_8"
 author = "Ruket Cakici, Mark Steedman, and Cem Bozsahin"
+
+[[citation]]
+title = "CCG Supertagging Using Morphological and Dependency Syntax Information"
+year = "2019"
+url = "https://hal.archives-ouvertes.fr/hal-02110790"
+venue = "International Conference on Computational Linguistics and Intelligent Text Processing"
+author = "Ngoc Luyen Le, Yannis Haralambous"
 
 
 +++

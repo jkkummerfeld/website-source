@@ -60,6 +60,7 @@ selected = false
 url_pdf = "http://www.jkk.name/pub/thesis09adapt_thesis.pdf"
 url_poster = "http://www.jkk.name/pub/thesis09adapt_poster.pdf"
 url_interview = ""
+url_arxiv = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

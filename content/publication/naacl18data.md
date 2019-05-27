@@ -1,8 +1,8 @@
 +++
 bibkey = "naacl18data"
 bibtex = """@InProceedings{naacl18data,
-  author    = {Yiping Kang  and  Yunqi Zhang  and  Jonathan K. Kummerfeld  and  Parker Hill  and  Johann Hauswald  and  Michael A. Laurenzano  and  Lingjia Tang  and  Jason Mars},
-  title     = {Data Collection for Dialogue System: A Startup Perspective},
+  author    = {Yiping Kang and Yunqi Zhang and Jonathan K. Kummerfeld and Parker Hill and Johann Hauswald and Michael A. Laurenzano and Lingjia Tang and Jason Mars},
+  title     = {Data Collection for a Production Dialogue System: A Startup Perspective},
   booktitle = {Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 3 (Industry Papers)},
   shortvenue = {NAACL (industry)},
   pages     = {33--40},
@@ -14,7 +14,7 @@ bibtex = """@InProceedings{naacl18data,
   video     = {https://vimeo.com/277631102},
 }
 """
-title = "Data Collection for Dialogue System: A Startup Perspective"
+title = "Data Collection for a Production Dialogue System: A Startup Perspective"
 date = "2018-06-01"
 draft = false
 preprint = false
@@ -38,12 +38,19 @@ selected = false
 url_pdf = "http://aclweb.org/anthology/N18-3005"
 url_poster = ""
 url_interview = ""
+url_arxiv = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/277631102"
 
+[[citation]]
+title = "Enhancing Domain-Specific Supervised Natural Language Intent Classification with a Top-Down Selective Ensemble Model"
+year = "2019"
+url = "http://www.mdpi.com/2504-4990/1/2/37"
+venue = "Machine Learning and Knowledge Extraction"
+author = "Gard B. Jenset, Barbara McGillivray"
 
 
 +++

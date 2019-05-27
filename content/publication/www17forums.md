@@ -2,7 +2,7 @@
 bibkey = "www17forums"
 bibtex = """@InProceedings{www17forums,
   title     = {Tools for Automated Analysis of Cybercriminal Markets},
-  author    = {Rebecca S. Portnoff  and  Sadia Afroz  and  Greg Durrett  and  Jonathan K. Kummerfeld  and  Taylor Berg-Kirkpatrick  and  Damon McCoy  and  Kirill Levchenko  and  Vern Paxson},
+  author    = {Rebecca S. Portnoff and Sadia Afroz and Greg Durrett and Jonathan K. Kummerfeld and Taylor Berg-Kirkpatrick and Damon McCoy and Kirill Levchenko and Vern Paxson},
   booktitle = {Proceedings of 26th International World Wide Web conference},
   shortvenue = {WWW},
   month     = {April},
@@ -37,6 +37,7 @@ selected = false
 url_pdf = "http://www.jkk.name/pub/www17forums.pdf"
 url_poster = ""
 url_interview = ""
+url_arxiv = ""
 url_code = "http://evidencebasedsecurity.org/forums/"
 url_dataset = ""
 url_project = ""
@@ -91,6 +92,20 @@ year = "2018"
 url = "https://doi.org/10.1186/s40163-018-0094-4"
 venue = "Crime Science"
 author = "Andrew Caines, Sergio Pastrana, Alice Hutchings, and Paula J. Buttery"
+
+[[citation]]
+title = "Analyzing and Identifying Data Breaches in Underground Forums"
+year = "2019"
+url = "https://ieeexplore.ieee.org/document/8686093"
+venue = "IEEE Access"
+author = "Yong Fang, Yusong Guo, Cheng Huang, and Liang Liu"
+
+[[citation]]
+title = "Multistream Classification for Cyber Threat Data with Heterogeneous Feature Space"
+year = "2019"
+url = "http://doi.acm.org/10.1145/3308558.3313572"
+venue = "WWW"
+author = "Yi-Fan Li, Yang Gao, Gbadebo Ayoade, Hemeng Tao, Latifur Khan, Bhavani Thuraisingham"
 
 
 +++

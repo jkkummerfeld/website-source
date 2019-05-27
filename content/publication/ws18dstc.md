@@ -2,7 +2,7 @@
 bibkey = "ws18dstc"
 bibtex = """@InProceedings{ws18dstc,
   title     = {Dialog System Technology Challenge 7},
-  author    = {Koichiro Yoshino, Chiori Hori, Julien Perez, Luis Fernando D'Haro, Lazaros Polymenakos, Chulaka Gunasekara, Walter S. Lasecki, Jonathan K. Kummerfeld, Michel Galley, Chris Brockett, Jianfeng Gao, Bill Dolan, Xiang Gao, Huda Alamari, Tim K. Marks, Devi Parikh and Dhruv Batra},
+  author    = {Koichiro Yoshino and Chiori Hori and Julien Perez and Luis Fernando D'Haro and Lazaros Polymenakos and Chulaka Gunasekara and Walter S. Lasecki and Jonathan K. Kummerfeld and Michel Galley and Chris Brockett and Jianfeng Gao and Bill Dolan and Xiang Gao and Huda Alamari and Tim K. Marks and Devi Parikh and Dhruv Batra},
   year      = {2018},
   booktitle = {NeurIPS Workshop: The 2nd Conversational AI: "Today's Practice and Tomorrow's Potential"},
   url       = {https://arxiv.org/abs/1901.03461},
@@ -10,13 +10,14 @@ bibtex = """@InProceedings{ws18dstc,
   shortvenue = {ConvAI Workshop},
   location  = {Montreal, Quebec, Canada},
   month     = {December},
+  arxiv     = {https://arxiv.org/abs/1901.03461},
 }
 """
 title = "Dialog System Technology Challenge 7"
 date = "2018-12-01"
 draft = false
 preprint = false
-authors = ["Koichiro Yoshino", "Chiori Hori", "Julien Perez", "Luis Fernando D'Haro", "Lazaros Polymenakos", "Chulaka Gunasekara", "Walter S. Lasecki", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Michel Galley", "Chris Brockett", "Jianfeng Gao", "Bill Dolan", "Xiang Gao", "Huda Alamari", "Tim K. Marks", "Devi Parikh and Dhruv Batra"]
+authors = ["Koichiro Yoshino", "Chiori Hori", "Julien Perez", "Luis Fernando D'Haro", "Lazaros Polymenakos", "Chulaka Gunasekara", "Walter S. Lasecki", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Michel Galley", "Chris Brockett", "Jianfeng Gao", "Bill Dolan", "Xiang Gao", "Huda Alamari", "Tim K. Marks", "Devi Parikh", "Dhruv Batra"]
 publication_types = ["1"]
 publication = "NeurIPS Workshop: The 2nd Conversational AI: 'Today's Practice and Tomorrow's Potential'"
 publication_short = "ConvAI Workshop"
@@ -36,6 +37,7 @@ selected = false
 url_pdf = "https://arxiv.org/abs/1901.03461"
 url_poster = ""
 url_interview = ""
+url_arxiv = "https://arxiv.org/abs/1901.03461"
 url_code = ""
 url_dataset = ""
 url_project = ""

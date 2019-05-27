@@ -1,7 +1,7 @@
 +++
 bibkey = "naacl18embeddings"
 bibtex = """@InProceedings{naacl18embeddings,
-  author    = {Laura Wendlandt  and  Jonathan K. Kummerfeld  and  Rada Mihalcea},
+  author    = {Laura Wendlandt and Jonathan K. Kummerfeld and Rada Mihalcea},
   title     = {Factors Influencing the Surprising Instability of Word Embeddings},
   booktitle = {Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)},
   shortvenue = {NAACL},
@@ -10,6 +10,7 @@ bibtex = """@InProceedings{naacl18embeddings,
   location  = {New Orleans, Louisiana, USA},
   url       = {http://aclweb.org/anthology/N18-1190},
   pages     = {2092--2102},
+  arxiv     = {https://arxiv.org/abs/1804.09692},
   abstract  = {Despite the recent popularity of word embedding methods, there is only a small body of work exploring the limitations of these representations. In this paper, we consider one aspect of embedding spaces, namely their stability. We show that even relatively high frequency words (100-200 occurrences) are often unstable. We provide empirical evidence for how various factors contribute to the stability of word embeddings, and we analyze the effects of stability on downstream tasks.},
 }
 """
@@ -34,9 +35,10 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://aclweb.org/anthology/N18-1190"
+url_pdf = "https://arxiv.org/abs/1804.09692"
 url_poster = ""
 url_interview = ""
+url_arxiv = "https://arxiv.org/abs/1804.09692"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -51,7 +53,7 @@ venue = "Proceedings of the Workshop on Relevance of Linguistic Structure in Neu
 author = "Marzena Karpinska, Bofang Li, Anna Rogers, and Aleksandr Drozd"
 
 [[citation]]
-title = "What’s in Your Embedding, And How It Predicts Task Performance"
+title = "What's in Your Embedding, And How It Predicts Task Performance"
 year = "2018"
 url = ""
 venue = "CoLing"

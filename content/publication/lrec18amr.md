@@ -1,7 +1,7 @@
 +++
 bibkey = "lrec18amr"
 bibtex = """@InProceedings{lrec18amr,
-  author    = {Charles Welch  and  Jonathan K. Kummerfeld  and  Song Feng  and  Rada Mihalcea},
+  author    = {Charles Welch and Jonathan K. Kummerfeld and Song Feng and Rada Mihalcea},
   title     = {World Knowledge for Abstract Meaning Representation Parsing},
   booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
   shortvenue = {LREC},
@@ -36,6 +36,7 @@ selected = false
 url_pdf = "http://www.lrec-conf.org/proceedings/lrec2018/pdf/1085.pdf"
 url_poster = ""
 url_interview = ""
+url_arxiv = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

@@ -44,6 +44,7 @@ selected = false
 url_pdf = "http://www.aclweb.org/anthology/U/U09/U09-1009.pdf"
 url_poster = ""
 url_interview = ""
+url_arxiv = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

@@ -1,7 +1,7 @@
 +++
 bibkey = "acl17paraphrase"
 bibtex = """@InProceedings{acl17paraphrase,
-  author    = {Youxuan Jiang  and  Jonathan K. Kummerfeld  and  Walter S. Lasecki},
+  author    = {Youxuan Jiang and Jonathan K. Kummerfeld and Walter S. Lasecki},
   title     = {Understanding Task Design Trade-offs in Crowdsourced Paraphrase Collection},
   booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
   shortvenue = {ACL (short)},
@@ -13,6 +13,7 @@ bibtex = """@InProceedings{acl17paraphrase,
   url       = {http://aclweb.org/anthology/P17-2017},
   data      = {http://aclweb.org/anthology/attachments/P/P17/P17-2017.Datasets.zip},
   video     = {https://vimeo.com/234958413},
+  arxiv     = {https://arxiv.org/abs/1704.05753},
 }
 """
 title = "Understanding Task Design Trade-offs in Crowdsourced Paraphrase Collection"
@@ -36,9 +37,10 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://aclweb.org/anthology/P17-2017"
+url_pdf = "https://arxiv.org/abs/1704.05753"
 url_poster = ""
 url_interview = ""
+url_arxiv = "https://arxiv.org/abs/1704.05753"
 url_code = ""
 url_dataset = "http://aclweb.org/anthology/attachments/P/P17/P17-2017.Datasets.zip"
 url_project = ""

@@ -39,6 +39,7 @@ selected = false
 url_pdf = "http://www.aclweb.org/anthology/P/P10/P10-1036.pdf"
 url_poster = ""
 url_interview = ""
+url_arxiv = ""
 url_code = "http://downloads.schwa.org/acl10adapt_fast_news_model.tar.bz2"
 url_dataset = ""
 url_project = ""

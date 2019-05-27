@@ -1,7 +1,7 @@
 +++
 bibkey = "naacl18summary"
 bibtex = """@InProceedings{naacl18summary,
-  author    = {Youxuan Jiang  and  Catherine Finegan-Dollak  and  Jonathan K. Kummerfeld  and  Walter Lasecki},
+  author    = {Youxuan Jiang and Catherine Finegan-Dollak and Jonathan K. Kummerfeld and Walter Lasecki},
   title     = {Effective Crowdsourcing for a New Type of Summarization Task},
   booktitle = {Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)},
   pages     = {628--633},
@@ -37,6 +37,7 @@ selected = false
 url_pdf = "http://aclweb.org/anthology/N18-2099"
 url_poster = ""
 url_interview = ""
+url_arxiv = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

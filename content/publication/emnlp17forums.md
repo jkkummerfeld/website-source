@@ -1,8 +1,9 @@
 +++
 bibkey = "emnlp17forums"
 bibtex = """@InProceedings{emnlp17forums,
-  author    = {Greg Durrett  and  Jonathan K. Kummerfeld  and  Taylor Berg-Kirkpatrick  and  Rebecca S. Portnoff  and  Sadia Afroz  and  Damon McCoy  and  Kirill Levchenko  and Vern Paxson},
+  author    = {Greg Durrett and Jonathan K. Kummerfeld and Taylor Berg-Kirkpatrick and Rebecca S. Portnoff and Sadia Afroz and Damon McCoy and Kirill Levchenko  and Vern Paxson},
   title     = {Identifying Products in Online Cybercrime Marketplaces: A Dataset for Fine-grained Domain Adaptation},
+  arxiv     = {https://arxiv.org/abs/1708.09609},
   booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
   shortvenue = {EMNLP},
   year      = {2017},
@@ -35,9 +36,10 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://www.aclweb.org/anthology/D17-1275"
+url_pdf = "https://arxiv.org/abs/1708.09609"
 url_poster = ""
 url_interview = ""
+url_arxiv = "https://arxiv.org/abs/1708.09609"
 url_code = "https://evidencebasedsecurity.org/forums/"
 url_dataset = ""
 url_project = ""
@@ -70,7 +72,14 @@ title = "Understanding and Detecting Private Interactions in Underground Forums"
 year = "2019"
 url = ""
 venue = "ACM Conference on Data and Application Security and Privacy (CODASPY)"
-author = "Zhibo Sun, Carlos E. Rubio-Medrano, Ziming Zhao, Tiffany Bao, Adam Doupe, Gail-Joon Ahn"
+author = "Zhibo Sun, Carlos E. Rubio-Medrano, Ziming Zhao, Tiffany Bao, Adam Doupe and Gail-Joon Ahn"
+
+[[citation]]
+title = "Understanding and Predicting Private Interactions in Underground Forums"
+year = "2019"
+url = ""
+venue = "Proceedings of the Ninth ACM Conference on Data and Application Security and Privacy"
+author = "Zhibo Sun, Carlos E. Rubio-Medrano, Ziming Zhao, Tiffany Bao, Adam Doupe and Gail-Joon Ahn"
 
 
 +++

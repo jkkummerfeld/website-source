@@ -13,6 +13,7 @@ bibtex = """@Article{prl10chemistry,
   month     = {September},
   publisher = {American Physical Society},
   url       = {http://prl.aps.org/abstract/PRL/v105/i13/e135702},
+  arxiv     = {https://arxiv.org/abs/0912.0193},
   abstract  = {We identify the pattern of microscopic dynamical relaxation for a two-dimensional glass-forming liquid. On short time scales, bursts of irreversible particle motion, called cage jumps, aggregate into clusters. On larger time scales, clusters aggregate both spatially and temporally into avalanches. This propagation of mobility takes place along the soft regions of the systems, which have been identified by computing isoconfigurational Debye-Waller maps. Our results characterize the way in which dynamical heterogeneity evolves in moderately supercooled liquids and reveal that it is astonishingly similar to the one found for dense glassy granular media.},
 }
 """
@@ -37,9 +38,10 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://prl.aps.org/abstract/PRL/v105/i13/e135702"
+url_pdf = "https://arxiv.org/abs/0912.0193"
 url_poster = ""
 url_interview = ""
+url_arxiv = "https://arxiv.org/abs/0912.0193"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -272,16 +274,23 @@ author = "E. D. Cubuk, R. J. S. Ivancic, S. S. Schoenholz, D. J. Strickl, A. Bas
 [[citation]]
 title = "Continuous-time random-walk approach to supercooled liquids: Self-part of the van Hove function and related quantities"
 year = "2018"
-url = "https://link.springer.com/article/10.1140/epje/i2018-11680-1"
+url = ""
 venue = "The European Physical Journal E"
 author = "J. Helfferich, J. Brisch, H. Meyer, O. Benzerara, F. Ziebert, J. Farago, J. Baschnagel"
 
 [[citation]]
 title = "Heterogeneous Activation, Local Structure, and Softness in Supercooled Colloidal Liquids"
 year = "2019"
-url = "https://link.aps.org/doi/10.1103/PhysRevLett.122.02800"
+url = ""
 venue = "Physical Review Letters"
 author = "Xiaoguang Ma, Zoey S. Davidson, Tim Still, Robert J. S. Ivancic, S. S. Schoenholz, A. J. Liu and A. G. Yodh"
+
+[[citation]]
+title = "The Glassy Dynamics Predicted by the Mutual Role of the Free and Activation Volumes"
+year = "2019"
+url = ""
+venue = "Soft Matter"
+author = "Wycliffe Kiprop Kipnusu, Mohamed Elsayed, Ciprian Iacob, Sebastian Pawlus, Reinhard Krause Rehberg, and Marian Paluch"
 
 
 +++
