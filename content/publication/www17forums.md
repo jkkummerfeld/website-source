@@ -107,5 +107,12 @@ url = "http://doi.acm.org/10.1145/3308558.3313572"
 venue = "WWW"
 author = "Yi-Fan Li, Yang Gao, Gbadebo Ayoade, Hemeng Tao, Latifur Khan, Bhavani Thuraisingham"
 
+[[citation]]
+title = "An Empirical Study of Malicious Threads in Security Forums"
+year = "2019"
+url = "http://doi.acm.org/10.1145/3308560.3316501"
+venue = "WWW"
+author = "Joobin Gharibshah, Zhabiz Gharibshah, Evangelos E. Papalexakis, and Michalis Faloutsos"
+
 
 +++

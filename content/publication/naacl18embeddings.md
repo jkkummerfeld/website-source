@@ -66,5 +66,12 @@ url = "https://doi.org/10.1145/3289600.3291032"
 venue = "WSDM"
 author = "Felipe Viegas, Sergio D. Canuto, Christian Gomes, Washington Luiz, Thierson Rosa, Sabir Ribas, Leonardo C. da Rocha and Marcos Andre Goncalves"
 
+[[citation]]
+title = "Investigating the Stability of Concrete Nouns in Word Embeddings"
+year = "2019"
+url = "https://www.aclweb.org/anthology/W19-0510"
+venue = "Proceedings of the 13th International Conference on Computational Semantics - Short Papers"
+author = "B&eacute;n&eacute;dicte Pierrejean, Ludovic Tanguy"
+
 
 +++
