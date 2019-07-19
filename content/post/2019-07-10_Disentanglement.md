@@ -86,7 +86,7 @@ One of our motivations for making such a large new resource was to make it possi
 ### Acknowledgments
 
 This project has been going since I started at Michigan as a postdoc funded by a grant from IBM.
-The final paper is the result of collaboration with a largre group of people from Michigan and IBM.
+The final paper is the result of collaboration with a large group of people from Michigan and IBM.
 Thank you!
 
 ## Citation
