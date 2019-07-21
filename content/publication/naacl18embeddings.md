@@ -35,7 +35,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://arxiv.org/abs/1804.09692"
+url_pdf = "http://aclweb.org/anthology/N18-1190"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1804.09692"
@@ -72,6 +72,27 @@ year = "2019"
 url = "https://www.aclweb.org/anthology/W19-0510"
 venue = "Proceedings of the 13th International Conference on Computational Semantics - Short Papers"
 author = "B&eacute;n&eacute;dicte Pierrejean, Ludovic Tanguy"
+
+[[citation]]
+title = "Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection"
+year = "2019"
+url = "https://www.aclweb.org/anthology/W19-2501"
+venue = "Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature"
+author = "Johannes Hellrich, Sven Buechel, Udo Hahn"
+
+[[citation]]
+title = "Data Shift in Legal AI Systems"
+year = "2019"
+url = ""
+venue = "Workshop on Automated Semantic Analysis of Information in Legal Text"
+author = "Venkata Nagaraju Buddarapu, Arunprasath Shankar"
+
+[[citation]]
+title = "Estimating Topic Modeling Performance with Sharma–Mittal Entropy"
+year = "2019"
+url = ""
+venue = "Entropy"
+author = "Sergei Koltcov, Vera Ignatenko and Olessia Koltsova"
 
 
 +++

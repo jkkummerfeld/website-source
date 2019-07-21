@@ -52,5 +52,19 @@ url = "http://www.mdpi.com/2504-4990/1/2/37"
 venue = "Machine Learning and Knowledge Extraction"
 author = "Gard B. Jenset, Barbara McGillivray"
 
+[[citation]]
+title = "A Study of Incorrect Paraphrases in Crowdsourced User Utterances"
+year = "2019"
+url = "https://www.aclweb.org/anthology/N19-1026"
+venue = "NAACL"
+author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Moshe Chai Barukh, Shayan Zamanirad"
+
+[[citation]]
+title = "Data Collection Methods for Building a Free Response Training Simulation"
+year = "2019"
+url = ""
+venue = "Systems and Information Engineering Design Symposium"
+author = "Vaibhav Sharma, Beni Shpringer, Sung Min Yang, Martin Bolger, Sodiq Adewole, Dr. D. Brown, Erfaneh Gharavi"
+
 
 +++

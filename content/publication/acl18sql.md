@@ -37,7 +37,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://arxiv.org/abs/1806.09029"
+url_pdf = "http://aclweb.org/anthology/P18-1033"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1806.09029"
@@ -60,6 +60,20 @@ year = "2019"
 url = "https://www.aclweb.org/anthology/D18-1265"
 venue = "ACL"
 author = "Jiaqi Guo, Zecheng Zhan, Yan Gao, Yan Xiao, Jian-Guang Lou, Ting Liu, and Dongmei Zhang"
+
+[[citation]]
+title = "Bootstrapping an End-to-End Natural Language Interface for Databases"
+year = "2019"
+url = ""
+venue = "SIGMOD"
+author = "Nathaniel Weir, Prasetya Utama"
+
+[[citation]]
+title = "Neural Semantic Parsing with Anonymization for Command Understanding in General-Purpose Service Robots"
+year = "2019"
+url = ""
+venue = "RoboCup 2019: Robot World Cup XXIII"
+author = "Nick Walker, Yu-Tang Peng, Maya Cakmak"
 
 
 +++

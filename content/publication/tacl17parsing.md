@@ -38,7 +38,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://arxiv.org/abs/1707.04221"
+url_pdf = "https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00072"
 url_poster = ""
 url_interview = "https://soundcloud.com/nlp-highlights/46-parsing-with-traces-with-jonathan-kummerfeld"
 url_arxiv = "https://arxiv.org/abs/1707.04221"
@@ -61,6 +61,13 @@ year = "2018"
 url = "http://ceur-ws.org/Vol-2303/paper3.pdf"
 venue = "Proceedings of Computational Models in Language and Speech Workshop"
 author = "Xenia Naidenova, Sergei Kurbatov, Vjacheslav Ganapol'skii"
+
+[[citation]]
+title = "AGRR-2019: A Corpus for Gapping Resolution in Russian"
+year = "2019"
+url = "https://arxiv.org/abs/1906.04099"
+venue = "The 7th Workshop on Balto-Slavic Natural Language Processing"
+author = "Maria Ponomareva, Kira Droganova, Ivan Smurov, Tatiana Shavrina"
 
 
 +++

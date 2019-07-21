@@ -35,7 +35,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://arxiv.org/abs/1309.4104"
+url_pdf = "http://iopscience.iop.org/0067-0049/209/1/12"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1309.4104"
@@ -51,6 +51,13 @@ year = "2016"
 url = "https://www.aanda.org/articles/aa/pdf/2016/10/aa29178-16.pdf"
 venue = "Astronomy and Astrophysics"
 author = "N. Ben Bekhti, L. Flöer, R. Keller, J. Kerp, D. Lenz and B. Winkel, J. Bailin, M. R. Calabretta, L. Dedes, H. A. Ford, B. K. Gibson, U. Haud, S. Janowiecki, P. M. W. Kalberla, F. J. Lockman, N. M. McClure-Griffiths, T. Murphy, H. Nakanishi, D. J. Pisano and L. Staveley-Smith"
+
+[[citation]]
+title = "Theoretical model of hydrodynamic jet formation from accretion disks with turbulent viscosity"
+year = "2019"
+url = ""
+venue = "Journal of High Energy Astrophysics"
+author = "E. Arshilava, M. Gogilashvili, V. Loladze, I. Jokhadze, B. Modrekiladze, N.L. Shatashvili, A.G. Tevzadze"
 
 
 +++

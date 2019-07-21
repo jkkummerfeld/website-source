@@ -44,6 +44,12 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
+[[citation]]
+title = "A Crowdsourcing Approach to Evaluate the Quality of Query-based Extractive Text Summaries"
+year = "2019"
+url = ""
+venue = "Conference on Quality of Multimedia Experience"
+author = "N. Iskender, A. Gabryszak, T. Polzehl, L. Hennig, S. Möller"
 
 
 +++

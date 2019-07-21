@@ -37,7 +37,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://arxiv.org/abs/1704.05753"
+url_pdf = "http://aclweb.org/anthology/P17-2017"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1704.05753"
@@ -74,6 +74,13 @@ year = "2018"
 url = "http://dx.doi.org/10.1145/3234695.3236343"
 venue = "ASSETS"
 author = "Raymond Fok, Harmanpreet Kaur, Skanda Palani, Martez E. Mott and Walter S. Lasecki"
+
+[[citation]]
+title = "A Study of Incorrect Paraphrases in Crowdsourced User Utterances"
+year = "2019"
+url = "https://www.aclweb.org/anthology/N19-1026"
+venue = "NAACL"
+author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Moshe Chai Barukh, Shayan Zamanirad"
 
 
 +++

@@ -149,5 +149,12 @@ url = "http://workshop.colips.org/dstc7/papers/11.pdf"
 venue = "DSTC"
 author = "Ryota Tanaka, Akihide Ozeki, Shugo Kato, Akinobu Lee"
 
+[[citation]]
+title = "Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading"
+year = "2019"
+url = "https://arxiv.org/pdf/1906.02738.pdf"
+venue = "ACL"
+author = "Lianhui Qin, Michel Galley, Chris Brockett, Xiaodong Liu, Xiang Gao, Bill Dolan, Yejin Choi, Jianfeng Gao"
+
 
 +++

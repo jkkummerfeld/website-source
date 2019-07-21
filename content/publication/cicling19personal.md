@@ -3,7 +3,7 @@ bibkey = "cicling19personal"
 bibtex = """@InProceedings{cicling19personal,
   title     = {Look Who's Talking: Inferring Speaker Attributes from Personal Longitudinal Dialog},
   year      = {2019},
-  author    = {Charlie Welch and Ver{\\'o}nica P{\\'e}rez-Rosas and Jonathan K. Kummerfeld and Rada Mihalcea},
+  author    = {Charles Welch and Ver{\\'o}nica P{\\'e}rez-Rosas and Jonathan K. Kummerfeld and Rada Mihalcea},
   address   = {La Rochelle, France},
   booktitle = {Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing)},
   shortvenue = {Best Student Paper - CICLing},
@@ -19,7 +19,7 @@ title = "Look Who's Talking: Inferring Speaker Attributes from Personal Longitud
 date = "2019-04-01"
 draft = false
 preprint = false
-authors = ["Charlie Welch", "Ver&oacute;nica P&eacute;rez-Rosas", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Rada Mihalcea"]
+authors = ["Charles Welch", "Ver&oacute;nica P&eacute;rez-Rosas", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Rada Mihalcea"]
 publication_types = ["1"]
 publication = "Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing)"
 publication_short = "Best Student Paper - CICLing"

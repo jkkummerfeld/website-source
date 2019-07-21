@@ -279,5 +279,12 @@ url = "http://doi.org/10.5334/gjgl.537"
 venue = "Glossa"
 author = "Timothy Osborne, Kim Gerdes"
 
+[[citation]]
+title = "Visual Disambiguation of Prepositional Phrase Attachments: Multimodal Machine Learning for Syntactic Analysis Correction"
+year = "2019"
+url = ""
+venue = "Advances in Computational Intelligence"
+author = "{Sebastien Delecraz, Leonor Becerra-Bonache, Alexis Nasr, Frederic Bechet, Benoit Favre"
+
 
 +++
