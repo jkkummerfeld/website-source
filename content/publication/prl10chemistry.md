@@ -14,7 +14,6 @@ bibtex = """@Article{prl10chemistry,
   publisher = {American Physical Society},
   url       = {http://prl.aps.org/abstract/PRL/v105/i13/e135702},
   arxiv     = {https://arxiv.org/abs/0912.0193},
-  abstract  = {We identify the pattern of microscopic dynamical relaxation for a two-dimensional glass-forming liquid. On short time scales, bursts of irreversible particle motion, called cage jumps, aggregate into clusters. On larger time scales, clusters aggregate both spatially and temporally into avalanches. This propagation of mobility takes place along the soft regions of the systems, which have been identified by computing isoconfigurational Debye-Waller maps. Our results characterize the way in which dynamical heterogeneity evolves in moderately supercooled liquids and reveal that it is astonishingly similar to the one found for dense glassy granular media.},
 }
 """
 title = "Spatiotemporal Hierarchy of Relaxation Events, Dynamical Heterogeneities, and Structural Reorganization in a Supercooled Liquid"
@@ -291,6 +290,20 @@ year = "2019"
 url = ""
 venue = "Soft Matter"
 author = "Wycliffe Kiprop Kipnusu, Mohamed Elsayed, Ciprian Iacob, Sebastian Pawlus, Reinhard Krause Rehberg, and Marian Paluch"
+
+[[citation]]
+title = "Multiscale Coherent Excitations in Microscopic Acoustic Wave Turbulence of Cold Dusty Plasma Liquids"
+year = "2019"
+url = ""
+venue = "Physical Review Letters"
+author = "Hu, Hao-Wei and Wang, Wen and I, Lin"
+
+[[citation]]
+title = "Active particles sense micromechanical properties of glasses"
+year = "2019"
+url = ""
+venue = "Nature Materials"
+author = "Celia Lozano, Juan Ruben Gomez-Solano, Clemens Bechinger"
 
 
 +++

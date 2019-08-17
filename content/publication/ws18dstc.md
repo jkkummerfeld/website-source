@@ -6,8 +6,6 @@ bibtex = """@InProceedings{ws18dstc,
   year      = {2018},
   booktitle = {NeurIPS Workshop: The 2nd Conversational AI: "Today's Practice and Tomorrow's Potential"},
   url       = {https://arxiv.org/abs/1901.03461},
-  abstract  = {This paper introduces the Seventh Dialog System Technology Challenges (DSTC), which use shared datasets to explore the problem of building dialog systems. Recently, end-to-end dialog modeling approaches have been applied to various dialog tasks. The seventh DSTC (DSTC7) focuses on developing technologies related to end-to-end dialog systems for (1) sentence selection, (2) sentence generation and (3) audio visual scene aware dialog. This paper summarizes the overall setup and results of DSTC7, including detailed descriptions of the different tracks and provided datasets. We also describe overall trends in the submitted systems and the key results. Each track introduced new datasets and participants achieved impressive results using state-of-the-art end-to-end technologies.},
-  shortvenue = {ConvAI Workshop},
   location  = {Montreal, Quebec, Canada},
   month     = {December},
   arxiv     = {https://arxiv.org/abs/1901.03461},
@@ -155,6 +153,13 @@ year = "2019"
 url = "https://arxiv.org/pdf/1906.02738.pdf"
 venue = "ACL"
 author = "Lianhui Qin, Michel Galley, Chris Brockett, Xiaodong Liu, Xiang Gao, Bill Dolan, Yejin Choi, Jianfeng Gao"
+
+[[citation]]
+title = "WCIS 2019: 1st Workshop on Conversational Interaction Systems"
+year = "2019"
+url = ""
+venue = "Proceedings of the 42Nd International ACM SIGIR Conference on Research and Development in Information Retrieval"
+author = "Abhinav Rastogi, Alexandros Papangelis, Rahul Goel, Chandra Khatri"
 
 
 +++

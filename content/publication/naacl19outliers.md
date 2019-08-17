@@ -5,10 +5,9 @@ bibtex = """@InProceedings{naacl19outliers,
   author    = {Stefan Larson and Anish Mahendran and Andrew Lee and Jonathan K. Kummerfeld and Parker Hill and Michael Laurenzano and Johann Hauswald and Lingjia Tang and Jason Mars},
   year      = {2019},
   booktitle = {Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)},
-  shortvenue = {NAACL},
   month     = {June},
   arxiv     = {https://arxiv.org/abs/1904.03122},
-  abstract  = {In a corpus of data, outliers are either errors: mistakes in the data that are counterproductive, or are unique: informative samples that improve model robustness. Identifying outliers can lead to better datasets by (1) removing noise in datasets and (2) guiding collection of additional data to fill gaps. However, the problem of detecting both outlier types has received relatively little attention in NLP, particularly for dialog systems. We introduce a simple and effective technique for detecting both erroneous and unique samples in a corpus of short texts using neural sentence embeddings combined with distance-based outlier detection. We also present a novel data collection pipeline built atop our detection technique to automatically and iteratively mine unique data samples while discarding erroneous samples. Experiments show that our outlier detection technique is effective at finding errors while our data collection pipeline yields highly diverse corpora that in turn produce more robust intent classification and slot-filling models.},
+  url       = {https://aclweb.org/anthology/papers/N/N19/N19-1051/},
 }
 """
 title = "Outlier Detection for Improved Data Quality and Diversity in Dialog Systems"
@@ -32,7 +31,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://arxiv.org/abs/1904.03122"
+url_pdf = "https://aclweb.org/anthology/papers/N/N19/N19-1051/"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1904.03122"

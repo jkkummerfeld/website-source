@@ -5,12 +5,10 @@ bibtex = """@InProceedings{naacl18summary,
   title     = {Effective Crowdsourcing for a New Type of Summarization Task},
   booktitle = {Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)},
   pages     = {628--633},
-  shortvenue = {NAACL (short)},
   year      = {2018},
   month     = {June},
   location  = {New Orleans, Louisiana, USA},
   url       = {http://aclweb.org/anthology/N18-2099},
-  abstract  = {Most summarization research focuses on summarizing the entire given text, but in practice readers are often interested in only one aspect of the document or conversation. We propose "targeted summarization" as an umbrella category for summarization tasks that intentionally consider only parts of the input data. This covers query-based summarization, update summarization, and a new task we propose where the goal is to summarize a particular aspect of a document. However, collecting data for this new task is hard because directly asking annotators (e.g., crowd workers) to write summaries leads to data with low accuracy when there are a large number of facts to include.  We introduce a novel crowdsourcing workflow, Pin-Refine, that allows us to collect highquality summaries for our task, a necessary step for the development of automatic systems.},
 }
 """
 title = "Effective Crowdsourcing for a New Type of Summarization Task"
@@ -50,6 +48,13 @@ year = "2019"
 url = ""
 venue = "Conference on Quality of Multimedia Experience"
 author = "N. Iskender, A. Gabryszak, T. Polzehl, L. Hennig, S. Möller"
+
+[[citation]]
+title = "{HEIDL}: Learning Linguistic Expressions with Deep Learning and Human-in-the-Loop"
+year = "2019"
+url = "https://www.aclweb.org/anthology/P19-3023"
+venue = "ACL (demo)"
+author = "Prithviraj Sen, Yunyao Li, Eser Kogan, Yiwei Yang and Walter Lasecki"
 
 
 +++

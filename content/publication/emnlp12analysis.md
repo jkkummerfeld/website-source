@@ -4,7 +4,6 @@ bibtex = """@InProceedings{emnlp12analysis,
   title     = {Parser Showdown at the Wall Street Corral: An Empirical Investigation of Error Types in Parser Output},
   author    = {Jonathan K. Kummerfeld and David Hall and James R. Curran and Dan Klein},
   booktitle = {Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning},
-  shortvenue = {EMNLP},
   year      = {2012},
   pages     = {1048--1059},
   month     = {July},
@@ -13,7 +12,6 @@ bibtex = """@InProceedings{emnlp12analysis,
   url       = {http://www.aclweb.org/anthology/D12-1096},
   slides    = {http://www.jkk.name/pub/emnlp12analysis_keynote.key},
   slidespdf = {http://www.jkk.name/pub/emnlp12analysis_slides.pdf},
-  abstract  = {Constituency parser performance is primarily interpreted through a single metric, F-score on WSJ section 23, that conveys no linguistic information regarding the remaining errors.  We classify errors within a set of linguistically meaningful types using tree transformations that repair groups of errors together. We use this analysis to answer a range of questions about parser behaviour, including what linguistic constructions are difficult for state-of-the-art parsers, what types of errors are being resolved by rerankers, and what types are introduced when parsing out-of-domain text.},
 }
 """
 title = "Parser Showdown at the Wall Street Corral: An Empirical Investigation of Error Types in Parser Output"
@@ -228,7 +226,7 @@ title = "Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-P
 year = "2018"
 url = "http://www.aclweb.org/anthology/N18-1007"
 venue = "NAACL"
-author = "Trang Tran, Shubham Toshniwal, Mohit Bansal, Kevin Gimpel, Karen Livescu, Mari Ostendorf"
+author = "Trang Tran, Shubham Toshniwal, Mohit Bansal, Kevin Gimpel, Karen Livescu and Mari Ostendorf"
 
 [[citation]]
 title = "Automated Extraction of Semantic Legal Metadata Using Natural Language Processing"
@@ -285,6 +283,13 @@ year = "2019"
 url = ""
 venue = "Advances in Computational Intelligence"
 author = "{Sebastien Delecraz, Leonor Becerra-Bonache, Alexis Nasr, Frederic Bechet, Benoit Favre"
+
+[[citation]]
+title = "On the Role of Style in Parsing Speech with Neural Models"
+year = "2019"
+url = ""
+venue = "Interspeech"
+author = "Trang Tran, Jiahong Yuan, Yang Liu, Mari Ostendorf"
 
 
 +++

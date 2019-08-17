@@ -4,7 +4,6 @@ bibtex = """@InProceedings{emnlp15learn,
   title     = {An Empirical Analysis of Optimization for Max-Margin NLP},
   author    = {Jonathan K. Kummerfeld and Taylor Berg-Kirkpatrick and Dan Klein},
   booktitle = {Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing},
-  shortvenue = {EMNLP (short)},
   month     = {September},
   year      = {2015},
   location  = {Lisbon, Portugal},
@@ -12,7 +11,6 @@ bibtex = """@InProceedings{emnlp15learn,
   url       = {http://www.jkk.name/pub/emnlp15learn.pdf},
   poster    = {http://www.jkk.name/pub/emnlp15learn_poster.png},
   software  = {https://github.com/tberg12/murphy},
-  abstract  = {Despite the convexity of structured max-margin objectives (Taskar et al., 2004; Tsochantaridis et al., 2004), the many ways to optimize them are not equally effective in practice. We compare a range of online optimization methods over a variety of structured NLP tasks (coreference, summarization, parsing, etc) and find several broad trends. First, margin methods do tend to outperform both likelihood and the perceptron. Second, for max-margin objectives, primal  optimization methods are often more robust and progress faster than dual methods. This advantage  is most pronounced for tasks with dense or continuous-valued features. Overall, we argue for a particularly simple online primal subgradient descent method that, despite being rarely mentioned in the literature, is surprisingly effective in relation to its alternatives.},
 }
 """
 title = "An Empirical Analysis of Optimization for Max-Margin NLP"
