@@ -36,7 +36,7 @@ weight = 5
   enddate = "Now"
 
 [[employment.employment]]
-  organisation = "WriteLab"
+  organisation = "WriteLab (acquired by Chegg)"
   role = "Technical Adviser"
   startdate = "March 2014"
   enddate = "May 2018"
@@ -74,8 +74,9 @@ weight = 5
 My email address is: jkummerf@umich.edu
 
 I am a Postdoctoral Research Fellow, working at the [University of Michigan](https://www.umich.edu/), in [Computer Science and Engineering](https://www.cse.umich.edu/).
-My research focus is Natural Language Processing - in particular, I am working on [Project Sapphire](https://sapphire.eecs.umich.edu), a collaboration with IBM, developing a conversational academic adviser.
-I am also affiliated with two research groups: [Language and Information Technologies](http://lit.eecs.umich.edu/), and [Crowds+Machines](http://web.eecs.umich.edu/~wlasecki/croma.html).
+I am based in the [Crowds+Machines lab](http://web.eecs.umich.edu/~wlasecki/croma.html), working on a range of projects at the intersection of Natural Language Processing and Crowdsourcing.
+In particular, I am improving our ability to generalise models across domains by combining human and machine effort in novel ways.
+I am also part of the [Language and Information Technologies group](http://lit.eecs.umich.edu/) and advise the NLP research team at [Clinc](https://clinc.com/).
 
 I completed my PhD in the [UC Berkeley NLP Group](http://web.eecs.umich.edu/~wlasecki/croma.html), advised by [Dan Klein](http://www.cs.berkeley.edu/~klein), with a thesis on new algorithms related to syntactic parsing: error analysis, formalism conversion, and graph parsing.
 I completed my BSc (Adv) with honours and medal in the [University of Sydney Schwa Lab](http://www.schwa.org) advised by [James Curran](http://sydney.edu.au/engineering/it/~james), with a thesis on an algorithm for faster CCG parsing.
