@@ -80,5 +80,19 @@ url = ""
 venue = "The VLDB PhD Workshop"
 author = "Wenlu Wang"
 
+[[citation]]
+title = "Don't paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing"
+year = "2019"
+url = "https://arxiv.org/abs/1908.09940"
+venue = "EMNLP"
+author = "Jonathan Herzig, Jonathan Berant"
+
+[[citation]]
+title = "SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension"
+year = "2019"
+url = ""
+venue = "ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems"
+author = "Jingjing Li, Wenlu Wang, Wei-Shinn Ku, Yingtao Tian, Haixun Wang"
+
 
 +++

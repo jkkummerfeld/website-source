@@ -112,5 +112,12 @@ url = "http://doi.acm.org/10.1145/3308560.3316501"
 venue = "WWW"
 author = "Joobin Gharibshah, Zhabiz Gharibshah, Evangelos E. Papalexakis, and Michalis Faloutsos"
 
+[[citation]]
+title = "CARONTE: Crawling Adversarial Resources Over Non-Trusted, High-Profile Environments"
+year = "2019"
+url = ""
+venue = "2019 IEEE European Symposium on Security and Privacy Workshops"
+author = "M. Campobasso, P. Burda, L. Allodi"
+
 
 +++

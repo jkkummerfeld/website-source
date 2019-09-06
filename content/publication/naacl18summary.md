@@ -56,5 +56,12 @@ url = "https://www.aclweb.org/anthology/P19-3023"
 venue = "ACL (demo)"
 author = "Prithviraj Sen, Yunyao Li, Eser Kogan, Yiwei Yang and Walter Lasecki"
 
+[[citation]]
+title = "Efficient Elicitation Approaches to Estimate Collective Crowd Answers"
+year = "2019"
+url = "http://croma.eecs.umich.edu/pubs/ManyThoughts_CSCW2019.pdf"
+venue = "CSCW"
+author = "John Joon Young Chung, Jean Y. Song, Sindhu Kutty, Sungsoo (Ray) Hong, Juho Kim, Walter S. Lasecki"
+
 
 +++

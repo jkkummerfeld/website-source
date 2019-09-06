@@ -92,5 +92,12 @@ url = ""
 venue = "Entropy"
 author = "Sergei Koltcov, Vera Ignatenko and Olessia Koltsova"
 
+[[citation]]
+title = "A framework for anomaly detection using language modeling, and its applications to finance"
+year = "2019"
+url = "https://arxiv.org/abs/1908.09156"
+venue = "2nd KDD Workshop on Anomaly Detection in Finance"
+author = "Armineh Nourbakhsh, Grace Bang"
+
 
 +++
