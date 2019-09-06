@@ -5,19 +5,20 @@ bibtex = """@InProceedings{neurips19diplomacy,
   title     = {No-Press Diplomacy: Modeling Multi-Agent Gameplay},
   booktitle = {Advances in Neural Information Processing Systems 32},
   year      = {2019},
+  month     = {December},
   pages     = {},
   url       = {},
   arxiv     = {https://arxiv.org/abs/1909.02128},
 }
 """
 title = "No-Press Diplomacy: Modeling Multi-Agent Gameplay"
-date = "2019-01-01"
+date = "2019-12-01"
 draft = false
 preprint = false
 authors = ["Philip Paquette", "Yuchen Lu", "Steven Bocco", "Max O. Smith", "Satya Ortiz-Gagn&eacute;", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Joelle Pineau", "Satinder Singh", "Aaron Courville"]
 publication_types = ["1"]
 publication = "Advances in Neural Information Processing Systems 32"
-publication_short = "Advances in Neural Information Processing Systems 32"
+publication_short = "NeurIPS"
 abstract = ""
 abstract_short = ""
 address = ""
