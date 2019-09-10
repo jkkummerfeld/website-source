@@ -43,6 +43,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "HI4PI: a full-sky H i survey based on EBHIS and GASS"

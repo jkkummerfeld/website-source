@@ -41,6 +41,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "A Crowdsourcing Approach to Evaluate the Quality of Query-based Extractive Text Summaries"

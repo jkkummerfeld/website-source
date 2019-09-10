@@ -44,6 +44,7 @@ url_dataset = "https://jkk.name/text2sql-data"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "Dependency-based Hybrid Trees for Semantic Parsing"
@@ -93,6 +94,13 @@ year = "2019"
 url = ""
 venue = "ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems"
 author = "Jingjing Li, Wenlu Wang, Wei-Shinn Ku, Yingtao Tian, Haixun Wang"
+
+[[citation]]
+title = "Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions"
+year = "2019"
+url = ""
+venue = "EMNLP"
+author = "Rui Zhang, Tao Yu, He Yang Er, Sungrok Shim, Eric Xue, Xi Victoria Lin, Tianze Shi, Caiming Xiong, Richard Socher, Dragomir Radev"
 
 
 +++

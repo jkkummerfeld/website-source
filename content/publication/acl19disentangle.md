@@ -12,6 +12,7 @@ bibtex = """@InProceedings{acl19disentangle,
   arxiv     = {https://arxiv.org/abs/1810.11118},
   software  = {https://jkk.name/irc-disentanglement},
   data      = {https://jkk.name/irc-disentanglement},
+  blog_post = {/post/2019-07-10_disentanglement/},
 }
 """
 title = "A Large-Scale Corpus for Conversation Disentanglement"
@@ -44,6 +45,8 @@ url_dataset = "https://jkk.name/irc-disentanglement"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
+url_blog_post = "/post/2019-07-10_disentanglement/"
 
 [[citation]]
 title = "Multi-level Context Response Matching in Retrieval-Based Dialog Systems"

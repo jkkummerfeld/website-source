@@ -44,6 +44,7 @@ url_dataset = ""
 url_project = ""
 url_slides = "http://www.jkk.name/pub/acl13analysis_keynote.key"
 url_video = ""
+url_blog = ""
 url_slides_pdf = "http://www.jkk.name/pub/acl13analysis_slides.pdf"
 
 [[citation]]

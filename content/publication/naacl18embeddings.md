@@ -42,6 +42,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "Subcharacter information in japanese embeddings: when is it worth it?"
@@ -98,6 +99,13 @@ year = "2019"
 url = "https://arxiv.org/abs/1908.09156"
 venue = "2nd KDD Workshop on Anomaly Detection in Finance"
 author = "Armineh Nourbakhsh, Grace Bang"
+
+[[citation]]
+title = "Weighted posets: Learning surface order from dependency trees"
+year = "2019"
+url = ""
+venue = "Syntaxfest"
+author = "William Dyer"
 
 
 +++

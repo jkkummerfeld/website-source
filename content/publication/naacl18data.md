@@ -42,6 +42,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/277631102"
+url_blog = ""
 
 [[citation]]
 title = "Enhancing Domain-Specific Supervised Natural Language Intent Classification with a Top-Down Selective Ensemble Model"

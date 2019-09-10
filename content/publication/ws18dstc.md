@@ -41,6 +41,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "Multi-level Context Response Matching in Retrieval-Based Dialog Systems"

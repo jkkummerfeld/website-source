@@ -40,6 +40,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "Towards Turkish Abstract Meaning Representation"

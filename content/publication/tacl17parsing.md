@@ -45,6 +45,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/238235203"
+url_blog = ""
 
 [[citation]]
 title = "Exploiting Structure in Parsing to 1-Endpoint-Crossing Graphs"

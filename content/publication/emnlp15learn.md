@@ -43,6 +43,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "Using accelerometers to remotely and automatically characterize behavior in small animals"

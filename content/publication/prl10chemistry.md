@@ -46,6 +46,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "Structural phases in non-additive soft-disk mixtures: Glasses, substitutional order, and random tilings"

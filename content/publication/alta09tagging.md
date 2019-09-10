@@ -48,6 +48,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 url_slides_pdf = "http://www.jkk.name/pub/alta09tagging_slides.pdf"
 
 

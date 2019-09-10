@@ -44,6 +44,7 @@ url_dataset = ""
 url_project = ""
 url_slides = "http://www.jkk.name/pub/emnlp12analysis_keynote.key"
 url_video = ""
+url_blog = ""
 url_slides_pdf = "http://www.jkk.name/pub/emnlp12analysis_slides.pdf"
 
 [[citation]]
@@ -290,6 +291,13 @@ year = "2019"
 url = ""
 venue = "Interspeech"
 author = "Trang Tran, Jiahong Yuan, Yang Liu, Mari Ostendorf"
+
+[[citation]]
+title = "Integration of a Multilingual Preordering Component into a Commercial SMT Platform"
+year = "2017"
+url = ""
+venue = "The Prague Bulletin of Mathematical Linguistics"
+author = "Anita Ramm, Riccardo Superbo, Dimitar Shterionov, Tony O'Dowd, Alexander Fraser"
 
 
 +++

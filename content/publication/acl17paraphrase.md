@@ -44,6 +44,7 @@ url_dataset = "http://aclweb.org/anthology/attachments/P/P17/P17-2017.Datasets.z
 url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/234958413"
+url_blog = ""
 
 [[citation]]
 title = "Effective Crowdsourced Generation of Training Data for Chatbots Natural Language Understanding"

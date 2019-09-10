@@ -47,6 +47,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_blog = ""
 
 [[citation]]
 title = "Morpho-syntactic Lexical Generalization for CCG Semantic Parsing"
