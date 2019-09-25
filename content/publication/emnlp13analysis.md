@@ -9,7 +9,7 @@ bibtex = """@InProceedings{emnlp13analysis,
   location  = {Seattle, Washington, USA},
   pages     = {265--277},
   software  = {https://jkk.name/berkeley-coreference-analyser/},
-  url       = {http://www.aclweb.org/anthology/D13-1027},
+  url       = {http://www.aclweb.org/anthology/D13-1027.pdf},
   slides    = {http://www.jkk.name/pub/emnlp13analysis_keynote.key},
   slidespdf = {http://www.jkk.name/pub/emnlp13analysis_slides.pdf},
 }
@@ -35,7 +35,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://www.aclweb.org/anthology/D13-1027"
+url_pdf = "http://www.aclweb.org/anthology/D13-1027.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
@@ -154,7 +154,7 @@ author = "Heeyoung Lee, Mihai Surdeanu, Dan Jurafsky"
 [[citation]]
 title = "A method for in-depth comparative evaluation: How (dis)similar are outputs of pos taggers, dependency parsers and coreference resolvers really?"
 year = "2017"
-url = "http://www.aclweb.org/anthology/E17-1018"
+url = "http://www.aclweb.org/anthology/E17-1018.pdf"
 venue = "EACL"
 author = "Don Tuggener"
 
@@ -164,6 +164,13 @@ year = "2015"
 url = "http://dl.acm.org/citation.cfm?id=2832415.2832432"
 venue = "IJCAI"
 author = "Mrinmaya Sachan, Eduard Hovy, Eric P. Xing"
+
+[[citation]]
+title = "Incorporating Structural Information for Better Coreference Resolution"
+year = "2019"
+url = "https://www.ijcai.org/proceedings/2019/0700.pdf"
+venue = "IJCAI"
+author = "Kong Fang, Fu Jian"
 
 
 +++

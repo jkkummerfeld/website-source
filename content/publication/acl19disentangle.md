@@ -7,7 +7,7 @@ bibtex = """@InProceedings{acl19disentangle,
   booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
   month     = {July},
   year      = {2019},
-  url       = {https://www.aclweb.org/anthology/P19-1374},
+  url       = {https://www.aclweb.org/anthology/P19-1374.pdf},
   pages     = {3846--3856},
   arxiv     = {https://arxiv.org/abs/1810.11118},
   software  = {https://jkk.name/irc-disentanglement},
@@ -36,7 +36,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://www.aclweb.org/anthology/P19-1374"
+url_pdf = "https://www.aclweb.org/anthology/P19-1374.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1810.11118"
@@ -124,6 +124,13 @@ year = "2019"
 url = "http://workshop.colips.org/dstc7/papers/04.pdf"
 venue = "DSTC"
 author = "Jia-Chen Gu, Zhen-Hua Ling, Yu-Ping Ruan and Quan Liu1"
+
+[[citation]]
+title = "Query-Focused Scenario Construction"
+year = "2019"
+url = ""
+venue = "EMNLP"
+author = "Su Wang, Greg Durrett, Katrin Erk"
 
 
 +++

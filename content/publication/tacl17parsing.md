@@ -50,7 +50,7 @@ url_blog = ""
 [[citation]]
 title = "Exploiting Structure in Parsing to 1-Endpoint-Crossing Graphs"
 year = "2017"
-url = "http://www.aclweb.org/anthology/W17-6312"
+url = "http://www.aclweb.org/anthology/W17-6312.pdf"
 venue = "IWPT"
 author = "Robin Kurtz, Marco Kuhlmann"
 

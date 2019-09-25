@@ -62,21 +62,21 @@ author = "Fei Li, Yue Zhang, Meishan Zhang, Donghong Ji"
 [[citation]]
 title = "A Practical Perspective on Latent Structured Prediction for Coreference Resolution"
 year = "2017"
-url = "http://www.aclweb.org/anthology/E17-2023"
+url = "http://www.aclweb.org/anthology/E17-2023.pdf"
 venue = "EACL"
 author = "Iryna Haponchyk, Alessandro Moschitti"
 
 [[citation]]
 title = "Fine-Grained Entity Typing with High-Multiplicity Assignments"
 year = "2017"
-url = "http://aclweb.org/anthology/P17-2052"
+url = "http://www.aclweb.org/anthology/P17-2052.pdf"
 venue = "ACL"
 author = "Maxim Rabinovich, Dan Klein"
 
 [[citation]]
 title = "Learning-Based Single-Document Summarization with Compression and Anaphoricity Constraints"
 year = "2016"
-url = "http://www.aclweb.org/anthology/P16-1188"
+url = "http://www.aclweb.org/anthology/P16-1188.pdf"
 venue = "ACL"
 author = "Greg Durrett, Taylor Berg-Kirkpatrick, Dan Klein"
 

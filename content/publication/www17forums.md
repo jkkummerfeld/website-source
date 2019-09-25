@@ -120,5 +120,11 @@ url = ""
 venue = "2019 IEEE European Symposium on Security and Privacy Workshops"
 author = "M. Campobasso, P. Burda, L. Allodi"
 
+[[citation]]
+title = "Chapter 3 - Challenges of using machine learning algorithms for cybersecurity: a study of threat-classification models applied to social media communication data"
+year = "2020"
+url = ""
+author = "Andrei Queiroz Lima, Brian Keegan"
+
 
 +++

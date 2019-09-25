@@ -8,7 +8,7 @@ bibtex = """@InProceedings{acl19slate,
   month     = {July},
   year      = {2019},
   pages     = {7--12},
-  url       = {https://www.aclweb.org/anthology/P19-3002},
+  url       = {https://www.aclweb.org/anthology/P19-3002.pdf},
   software  = {https://jkk.name/slate},
 }
 """
@@ -33,7 +33,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://www.aclweb.org/anthology/P19-3002"
+url_pdf = "https://www.aclweb.org/anthology/P19-3002.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""

@@ -8,7 +8,7 @@ bibtex = """@InProceedings{naacl18summary,
   year      = {2018},
   month     = {June},
   location  = {New Orleans, Louisiana, USA},
-  url       = {http://aclweb.org/anthology/N18-2099},
+  url       = {http://www.aclweb.org/anthology/N18-2099.pdf},
 }
 """
 title = "Effective Crowdsourcing for a New Type of Summarization Task"
@@ -32,7 +32,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://aclweb.org/anthology/N18-2099"
+url_pdf = "http://www.aclweb.org/anthology/N18-2099.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
@@ -53,7 +53,7 @@ author = "N. Iskender, A. Gabryszak, T. Polzehl, L. Hennig, S. Möller"
 [[citation]]
 title = "{HEIDL}: Learning Linguistic Expressions with Deep Learning and Human-in-the-Loop"
 year = "2019"
-url = "https://www.aclweb.org/anthology/P19-3023"
+url = "https://www.aclweb.org/anthology/P19-3023.pdf"
 venue = "ACL (demo)"
 author = "Prithviraj Sen, Yunyao Li, Eser Kogan, Yiwei Yang and Walter Lasecki"
 

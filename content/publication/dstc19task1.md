@@ -5,9 +5,9 @@ bibtex = """@InProceedings{dstc19task1,
   author    = {Chulaka Gunasekara and Jonathan K. Kummerfeld and Lazaros Polymenakos and and Walter S. Lasecki},
   year      = {2019},
   booktitle = {7th Edition of the Dialog System Technology Challenges at AAAI 2019},
-  url       = {http://workshop.colips.org/dstc7/papers/dstc7_task1_final_report.pdf},
   month     = {January},
   url       = {http://www.jkk.name/pub/ws18dstc_task1.pdf},
+  alt-url   = {http://workshop.colips.org/dstc7/papers/dstc7_task1_final_report.pdf},
 }
 """
 title = "DSTC7 Task 1: Noetic End-to-End Response Selection"

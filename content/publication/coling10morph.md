@@ -8,7 +8,7 @@ bibtex = """@InProceedings{coling10morph,
   pages     = {445--453},
   location  = {Beijing, China},
   month     = {August},
-  url       = {http://aclweb.org/anthology/C/C10/C10-2051.pdf},
+  url       = {http://www.aclweb.org/anthology/C10-2051.pdf},
 
 We use morphological analysis to split verb inflectional suffixes into separate tokens, so that they can receive their own lexical categories. We find that this improves accuracy when the splits are based on correct POS tags, but that errors in gold standard or automatically assigned POS tags are costly for the system. This shows that the parser can benefit from morphological analysis, so long as the analysis is correct.},
 }
@@ -38,7 +38,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://aclweb.org/anthology/C/C10/C10-2051.pdf"
+url_pdf = "http://www.aclweb.org/anthology/C10-2051.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
@@ -52,7 +52,7 @@ url_blog = ""
 [[citation]]
 title = "Morpho-syntactic Lexical Generalization for CCG Semantic Parsing"
 year = "2014"
-url = "http://aclweb.org/anthology/D/D14/D14-1135.pdf"
+url = "http://www.aclweb.org/anthology/D14-1135.pdf"
 venue = "EMNLP"
 author = "Adrienne Wang, Tom Kwiatkowski, Luke Zettlemoyer"
 

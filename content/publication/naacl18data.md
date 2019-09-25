@@ -8,7 +8,7 @@ bibtex = """@InProceedings{naacl18data,
   year      = {2018},
   month     = {June},
   location  = {New Orleans, Louisiana, USA},
-  url       = {http://aclweb.org/anthology/N18-3005},
+  url       = {http://www.aclweb.org/anthology/N18-3005.pdf},
   video     = {https://vimeo.com/277631102},
 }
 """
@@ -33,7 +33,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://aclweb.org/anthology/N18-3005"
+url_pdf = "http://www.aclweb.org/anthology/N18-3005.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
@@ -54,7 +54,7 @@ author = "Gard B. Jenset, Barbara McGillivray"
 [[citation]]
 title = "A Study of Incorrect Paraphrases in Crowdsourced User Utterances"
 year = "2019"
-url = "https://www.aclweb.org/anthology/N19-1026"
+url = "https://www.aclweb.org/anthology/N19-1026.pdf"
 venue = "NAACL"
 author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Moshe Chai Barukh, Shayan Zamanirad"
 

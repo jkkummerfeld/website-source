@@ -8,7 +8,7 @@ bibtex = """@InProceedings{emnlp17forums,
   year      = {2017},
   month     = {September},
   location  = {Copenhagen, Denmark},
-  url       = {https://www.aclweb.org/anthology/D17-1275},
+  url       = {https://www.aclweb.org/anthology/D17-1275.pdf},
   pages     = {2588--2597},
   software  = {https://evidencebasedsecurity.org/forums/},
 }
@@ -34,7 +34,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://www.aclweb.org/anthology/D17-1275"
+url_pdf = "https://www.aclweb.org/anthology/D17-1275.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1708.09609"

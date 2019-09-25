@@ -10,7 +10,7 @@ bibtex = """@InProceedings{acl10adapt,
   pages     = {345--355},
   software  = {http://downloads.schwa.org/acl10adapt_fast_news_model.tar.bz2},
   slidespdf = {http://www.jkk.name/pub/acl10adapt_slides.pdf},
-  url       = {http://www.aclweb.org/anthology/P/P10/P10-1036.pdf},
+  url       = {http://www.aclweb.org/anthology/P10-1036.pdf},
 }
 """
 title = "Faster Parsing by Supertagger Adaptation"
@@ -34,7 +34,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://www.aclweb.org/anthology/P/P10/P10-1036.pdf"
+url_pdf = "http://www.aclweb.org/anthology/P10-1036.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
@@ -56,14 +56,14 @@ author = "Yue Zhanga, Byung-Gyu Ahn, Stephen Clark, Curt Van Wyk, James R. Curra
 [[citation]]
 title = "A Comparison of Loopy Belief Propagation and Dual Decomposition for Integrated CCG Supertagging and Parsing"
 year = "2011"
-url = "http://www.aclweb.org/anthology/P11-1048"
+url = "http://www.aclweb.org/anthology/P11-1048.pdf"
 venue = "ACL"
 author = "Michael Auli, Adam Lopez"
 
 [[citation]]
 title = "Efficient CCG Parsing: A* versus Adaptive Supertagging"
 year = "2011"
-url = "http://www.aclweb.org/anthology/P11-1158"
+url = "http://www.aclweb.org/anthology/P11-1158.pdf"
 venue = "ACL"
 author = "Michael Auli, Adam Lopez"
 
@@ -84,28 +84,28 @@ author = "Maria Liakata, Shyamasree Saha, Simon Dobnik, Colin Batchelor, Dietric
 [[citation]]
 title = "Frontier Pruning for Shift-Reduce CCG Parsing"
 year = "2011"
-url = "http://aclweb.org/anthology/U11-1010"
+url = "http://www.aclweb.org/anthology/U11-1010.pdf"
 venue = "ALTA"
 author = "Stephen Merity, James Curran"
 
 [[citation]]
 title = "Ubertagging: Joint Segmentation and Supertagging for English"
 year = "2013"
-url = "http://www.aclweb.org/anthology/D13-1120"
+url = "http://www.aclweb.org/anthology/D13-1120.pdf"
 venue = "EMNLP"
 author = "Rebecca Dridan"
 
 [[citation]]
 title = "A* CCG Parsing with a Supertag-factored Model"
 year = "2014"
-url = "http://www.aclweb.org/anthology/D14-1107"
+url = "http://www.aclweb.org/anthology/D14-1107.pdf"
 venue = "EMNLP"
 author = "Mike Lewis, Mark Steedman"
 
 [[citation]]
 title = "CCG Supertagging with a Recurrent Neural Network"
 year = "2015"
-url = "http://aclweb.org/anthology/P/P15/P15-2041.pdf"
+url = "http://www.aclweb.org/anthology/P15-2041.pdf"
 venue = "ACL"
 author = "Wenduan Xu, Michael Auli, Stephen Clark"
 

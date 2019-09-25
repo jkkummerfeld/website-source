@@ -45,7 +45,7 @@ url_blog = ""
 [[citation]]
 title = "Towards Turkish Abstract Meaning Representation"
 year = "2019"
-url = "https://www.aclweb.org/anthology/P19-2006"
+url = "https://www.aclweb.org/anthology/P19-2006.pdf"
 venue = "ACL: SRW"
 author = "Zahra Azin, Gulcsen Eryigit"
 

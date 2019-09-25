@@ -9,7 +9,7 @@ bibtex = """@InProceedings{alta08vpc,
   location  = {Hobart, Australia},
   pages     = {55--63},
   volume    = {6},
-  url       = {http://www.aclweb.org/anthology/U/U08/U08-1008.pdf},
+  url       = {http://www.aclweb.org/anthology/U08-1008.pdf},
   poster    = {http://www.jkk.name/pub/alta08vpc_poster.eps},
 }
 """
@@ -34,7 +34,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://www.aclweb.org/anthology/U/U08/U08-1008.pdf"
+url_pdf = "http://www.aclweb.org/anthology/U08-1008.pdf"
 url_poster = "http://www.jkk.name/pub/alta08vpc_poster.eps"
 url_interview = ""
 url_arxiv = ""
@@ -55,21 +55,21 @@ author = "Dekang Lin, Kenneth Church, Heng Ji, Satoshi Sekine, David Yarowsky, S
 [[citation]]
 title = "Corpus-based Extraction of Japanese Compound Verbs"
 year = "2009"
-url = "http://aclweb.org/anthology/U/U09/U09-1006.pdf"
+url = "http://www.aclweb.org/anthology/U09-1006.pdf"
 venue = "ALTA"
 author = "James Breen, Timothy Baldwin"
 
 [[citation]]
 title = "Predicting the Semantic Compositionality of Prefix Verbs"
 year = "2010"
-url = "https://aclweb.org/anthology/D/D10/D10-1029.pdf"
+url = "https://www.aclweb.org/anthology/D10-1029.pdf"
 venue = "EMNLP"
 author = "Shane Bergsma, Aditya Bhargava, Hua He, Grzegorz Kondrak"
 
 [[citation]]
 title = "Practical Linguistic Steganography Using Contextual Synonym Substitution and Vertex Colour Coding"
 year = "2010"
-url = "http://anthology.aclweb.org/D/D10/D10-1116.pdf"
+url = "http://www.aclweb.org/anthology/D10-1116.pdf"
 venue = "EMNLP"
 author = "Ching-Yun Chang, Stephen Clark"
 

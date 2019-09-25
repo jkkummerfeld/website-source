@@ -8,7 +8,7 @@ bibtex = """@InProceedings{acl18sql,
   year      = {2018},
   address   = {Melbourne, Victoria, Australia},
   pages     = {351--360},
-  url       = {http://aclweb.org/anthology/P18-1033},
+  url       = {http://www.aclweb.org/anthology/P18-1033.pdf},
   arxiv     = {https://arxiv.org/abs/1806.09029},
   software  = {https://jkk.name/text2sql-data},
   data      = {https://jkk.name/text2sql-data},
@@ -35,7 +35,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://aclweb.org/anthology/P18-1033"
+url_pdf = "http://www.aclweb.org/anthology/P18-1033.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1806.09029"
@@ -56,7 +56,7 @@ author = "Zhanming Jie, Wei Lu"
 [[citation]]
 title = "Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation"
 year = "2019"
-url = "https://www.aclweb.org/anthology/D18-1265"
+url = "https://www.aclweb.org/anthology/D18-1265.pdf"
 venue = "ACL"
 author = "Jiaqi Guo, Zecheng Zhan, Yan Gao, Yan Xiao, Jian-Guang Lou, Ting Liu, and Dongmei Zhang"
 
@@ -101,6 +101,13 @@ year = "2019"
 url = ""
 venue = "EMNLP"
 author = "Rui Zhang, Tao Yu, He Yang Er, Sungrok Shim, Eric Xue, Xi Victoria Lin, Tianze Shi, Caiming Xiong, Richard Socher, Dragomir Radev"
+
+[[citation]]
+title = "Model-based Interactive Semantic Parsing: A Unified Formulation and A Text-to-SQL Case Study"
+year = "2019"
+url = ""
+venue = "EMNLP"
+author = "Ziyu Yao, Yu Su, Huan Sun, Wen-tau Yih"
 
 
 +++

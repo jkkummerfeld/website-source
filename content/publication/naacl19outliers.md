@@ -7,7 +7,7 @@ bibtex = """@InProceedings{naacl19outliers,
   booktitle = {Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)},
   month     = {June},
   arxiv     = {https://arxiv.org/abs/1904.03122},
-  url       = {https://aclweb.org/anthology/papers/N/N19/N19-1051/},
+  url       = {https://www.aclweb.org/anthology/N19-1051.pdf},
 }
 """
 title = "Outlier Detection for Improved Data Quality and Diversity in Dialog Systems"
@@ -31,7 +31,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://aclweb.org/anthology/papers/N/N19/N19-1051/"
+url_pdf = "https://www.aclweb.org/anthology/N19-1051.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1904.03122"

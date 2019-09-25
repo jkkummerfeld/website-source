@@ -8,7 +8,7 @@ bibtex = """@InProceedings{acl17paraphrase,
   year      = {2017},
   location  = {Vancouver, Canada},
   pages     = {103--109},
-  url       = {http://aclweb.org/anthology/P17-2017},
+  url       = {http://www.aclweb.org/anthology/P17-2017.pdf},
   data      = {http://aclweb.org/anthology/attachments/P/P17/P17-2017.Datasets.zip},
   video     = {https://vimeo.com/234958413},
   arxiv     = {https://arxiv.org/abs/1704.05753},
@@ -35,7 +35,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://aclweb.org/anthology/P17-2017"
+url_pdf = "http://www.aclweb.org/anthology/P17-2017.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1704.05753"
@@ -77,7 +77,7 @@ author = "Raymond Fok, Harmanpreet Kaur, Skanda Palani, Martez E. Mott and Walte
 [[citation]]
 title = "A Study of Incorrect Paraphrases in Crowdsourced User Utterances"
 year = "2019"
-url = "https://www.aclweb.org/anthology/N19-1026"
+url = "https://www.aclweb.org/anthology/N19-1026.pdf"
 venue = "NAACL"
 author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Moshe Chai Barukh, Shayan Zamanirad"
 

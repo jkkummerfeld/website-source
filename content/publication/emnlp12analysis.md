@@ -9,7 +9,7 @@ bibtex = """@InProceedings{emnlp12analysis,
   month     = {July},
   location  = {Jeju Island, South Korea},
   software  = {https://jkk.name/berkeley-parser-analyser/},
-  url       = {http://www.aclweb.org/anthology/D12-1096},
+  url       = {http://www.aclweb.org/anthology/D12-1096.pdf},
   slides    = {http://www.jkk.name/pub/emnlp12analysis_keynote.key},
   slidespdf = {http://www.jkk.name/pub/emnlp12analysis_slides.pdf},
 }
@@ -35,7 +35,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://www.aclweb.org/anthology/D12-1096"
+url_pdf = "http://www.aclweb.org/anthology/D12-1096.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
@@ -50,14 +50,14 @@ url_slides_pdf = "http://www.jkk.name/pub/emnlp12analysis_slides.pdf"
 [[citation]]
 title = "Joint Apposition Extraction with Syntactic and Semantic Constraints"
 year = "2013"
-url = "http://aclweb.org/anthology/P/P13/P13-2118.pdf"
+url = "http://www.aclweb.org/anthology/P13-2118.pdf"
 venue = "ACL"
 author = "Will Radford, James R. Curran"
 
 [[citation]]
 title = "Parsing with Compositional Vector Grammars"
 year = "2013"
-url = "http://www.aclweb.org/anthology/P13-1045"
+url = "http://www.aclweb.org/anthology/P13-1045.pdf"
 venue = "ACL"
 author = "Richard Socher, John Bauer, Christopher D. Manning, Andrew Y. Ng"
 
@@ -71,14 +71,14 @@ author = "Hanna Fadida, Alon Itai, Shuly Wintner"
 [[citation]]
 title = "On the Elements of an Accurate Tree-to-String Machine Translation System"
 year = "2014"
-url = "http://www.aclweb.org/anthology/P14-2024"
+url = "http://www.aclweb.org/anthology/P14-2024.pdf"
 venue = "ACL"
 author = "Graham Neubig, Kevin Duh"
 
 [[citation]]
 title = "Parser Evaluation Using Derivation Trees: A Complement to evalb"
 year = "2014"
-url = "http://www.aclweb.org/anthology/P14-2109"
+url = "http://www.aclweb.org/anthology/P14-2109.pdf"
 venue = "ACL"
 author = "Seth Kulick, Ann Bies, Justin Mott, Anthony Kroch, Mark Liberman, Beatrice Santorini"
 
@@ -99,21 +99,21 @@ author = "Yonatan Belinkov, Tao Lei, Regina Barzilay, Amir Globerson"
 [[citation]]
 title = "Identifying Cascading Errors using Constraints in Dependency Parsing"
 year = "2015"
-url = "http://www.aclweb.org/anthology/P15-1111"
+url = "http://www.aclweb.org/anthology/P15-1111.pdf"
 venue = "ACL"
 author = "Dominick Ng, James R. Curran"
 
 [[citation]]
 title = "It Depends: Dependency Parser Comparison Using A Web-based Evaluation Tool"
 year = "2015"
-url = "http://www.aclweb.org/anthology/P15-1038"
+url = "http://www.aclweb.org/anthology/P15-1038.pdf"
 venue = "ACL"
 author = "Jinho D. Choi, Joel Tetreault, Amanda Stent"
 
 [[citation]]
 title = "Transition-based Neural Constituent Parsing"
 year = "2015"
-url = "http://www.aclweb.org/anthology/P15-1113"
+url = "http://www.aclweb.org/anthology/P15-1113.pdf"
 venue = "ACL"
 author = "Taro Watanabe, Eiichiro Sumita"
 
@@ -141,7 +141,7 @@ author = "Ergun Bicici"
 [[citation]]
 title = "An Evaluation of Parser Robustness for Ungrammatical Sentences"
 year = "2016"
-url = "https://aclweb.org/anthology/D16-1182"
+url = "https://www.aclweb.org/anthology/D16-1182.pdf"
 venue = "EMNLP"
 author = "Home B. Hashemi, Rebecca Hwa"
 
@@ -162,7 +162,7 @@ author = "Miryam de Lhoneux, Sara Stymne, Joakim Nivre"
 [[citation]]
 title = "PP Attachment: Where do We Stand?"
 year = "2017"
-url = "http://www.aclweb.org/anthology/E17-2050"
+url = "http://www.aclweb.org/anthology/E17-2050.pdf"
 venue = "EACL"
 author = "Dani\"{e}l de Kok, Jianqiang Ma, Corina Dima, Erhard Hinrichs"
 
@@ -176,28 +176,28 @@ author = "Luheng He, Kenton Lee, Mike Lewis, Luke Zettlemoyer"
 [[citation]]
 title = "Breaking {NLP}: {Using} {Morphosyntax}, {Semantics}, {Pragmatics} and {World} {Knowledge} to {Fool} {Sentiment} {Analysis} {Systems}"
 year = "2017"
-url = "http://aclweb.org/anthology/W/W17/W17-5405.pdf"
+url = "http://www.aclweb.org/anthology/W17-5405.pdf"
 venue = "{EMNLP} 2017 {Workshop} on {Building} {Linguistically} {Generalizable} {NLP} {Systems}"
 author = "Taylor Mahler, Willy Cheung, Micha Elsner, David King, Marie-Catherine de Marneffe, Cory Shain, Symon Stevens-Guille, Michael White"
 
 [[citation]]
 title = "A Simple Method for Clarifying Sentences with Coordination Ambiguities"
 year = "2017"
-url = "http://aclweb.org/anthology/W/W17/W17-3702.pdf"
+url = "http://www.aclweb.org/anthology/W17-3702.pdf"
 venue = "INLG"
 author = "Michael White, Manjuan Duan, David L. King"
 
 [[citation]]
 title = "Does String-Based Neural MT Learn Source Syntax?"
 year = "2016"
-url = "https://aclweb.org/anthology/D16-1159"
+url = "https://www.aclweb.org/anthology/D16-1159.pdf"
 venue = "EMNLP"
 author = "Xing Shi, Unkit Padhi, Kevin Knight"
 
 [[citation]]
 title = "Prepositional Phrase Attachment over Word Embedding Products"
 year = "2017"
-url = "http://www.aclweb.org/anthology/W17-6305"
+url = "http://www.aclweb.org/anthology/W17-6305.pdf"
 venue = "IWPT"
 author = "Pranava Swaroop Madhyastha, Xavier Carreras, Ariadna Quattoni"
 
@@ -218,14 +218,14 @@ author = "Vidur Joshi, Matthew Peters, Mark Hopkins"
 [[citation]]
 title = "Madly Ambiguous: A Game for Learning about Structural Ambiguity and Why It's Hard for Computers"
 year = "2018"
-url = "http://www.aclweb.org/anthology/N18-5011"
+url = "http://www.aclweb.org/anthology/N18-5011.pdf"
 venue = "NAACL (Demonstration)"
 author = "Ajda Gokcen, Ethan Hill, Michael White"
 
 [[citation]]
 title = "Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information"
 year = "2018"
-url = "http://www.aclweb.org/anthology/N18-1007"
+url = "http://www.aclweb.org/anthology/N18-1007.pdf"
 venue = "NAACL"
 author = "Trang Tran, Shubham Toshniwal, Mohit Bansal, Kevin Gimpel, Karen Livescu and Mari Ostendorf"
 
@@ -239,14 +239,14 @@ author = "Amin Sleimi, Nicolas Sannier, Mehrdad Sabetzadeh, Lionel Briand and Jo
 [[citation]]
 title = "An Empirical Investigation of Error Types in Vietnamese Parsing"
 year = "2018"
-url = "http://www.aclweb.org/anthology/C18-1260"
+url = "http://www.aclweb.org/anthology/C18-1260.pdf"
 venue = "CoLing"
 author = "Quy T. Nguyen, Yusuke Miyao, Hiroshi Noji, and Nhung T.H. Nguyen"
 
 [[citation]]
 title = "Sprucing up the trees - Error detection in treebanks"
 year = "2018"
-url = "http://www.aclweb.org/anthology/C18-1010"
+url = "http://www.aclweb.org/anthology/C18-1010.pdf"
 venue = "CoLing"
 author = "Ines Rehbein, Josef Ruppenhofer"
 
@@ -260,7 +260,7 @@ author = "Carlos Gomez-Rodriguez"
 [[citation]]
 title = "Constituent Parsing as Sequence Labeling"
 year = "2018"
-url = "http://aclweb.org/anthology/D18-1162"
+url = "http://www.aclweb.org/anthology/D18-1162.pdf"
 venue = "EMNLP"
 author = "Carlos Gomez-Rodriguez, David Vilares"
 

@@ -9,7 +9,7 @@ bibtex = """@InProceedings{acl12conversion,
   month     = {July},
   location  = {Jeju Island, South Korea},
   software  = {https://jkk.name/berkeley-ccg2pst/},
-  url       = {http://www.aclweb.org/anthology/P12-2021},
+  url       = {http://www.aclweb.org/anthology/P12-2021.pdf},
   slides    = {http://www.jkk.name/pub/acl12conversion_keynote.key},
   slidespdf = {http://www.jkk.name/pub/acl12conversion_slides.pdf},
 }
@@ -35,7 +35,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://www.aclweb.org/anthology/P12-2021"
+url_pdf = "http://www.aclweb.org/anthology/P12-2021.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
@@ -50,7 +50,7 @@ url_slides_pdf = "http://www.jkk.name/pub/acl12conversion_slides.pdf"
 [[citation]]
 title = "A Machine Learning Approach to Convert CCGbank to Penn Treebank"
 year = "2012"
-url = "http://aclweb.org/anthology/C/C12/C12-3067.pdf"
+url = "http://www.aclweb.org/anthology/C12-3067.pdf"
 venue = "CoLing"
 author = "Xiaotian Zhang, Hai Zhao, Cong Hui"
 

@@ -8,7 +8,8 @@ bibtex = """@Article{ieee19personal,
   journal   = {IEEE Intelligent Systems},
   volume    = {34},
   number    = {4},
-  url       = {https://sentic.net/personal-longitudinal-dialog-data.pdf},
+  pages     = {16--23},
+  url       = {https://ieeexplore.ieee.org/document/8844687},
 }
 """
 title = "Learning from Personal Longitudinal Dialog Data"
@@ -25,14 +26,14 @@ address = ""
 doi = ""
 issue = ""
 number = "4"
-pages = ""
+pages = "16--23"
 publisher = ""
 volume = "34"
 math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://sentic.net/personal-longitudinal-dialog-data.pdf"
+url_pdf = "https://ieeexplore.ieee.org/document/8844687"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""

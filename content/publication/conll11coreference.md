@@ -8,7 +8,7 @@ bibtex = """@InProceedings{conll11coreference,
   pages     = {102--106},
   month     = {June},
   location  = {Portland, Oregon, USA},
-  url       = {http://www.aclweb.org/anthology/W11-1916},
+  url       = {http://www.aclweb.org/anthology/W11-1916.pdf},
   poster    = {http://www.jkk.name/pub/conll11coreference_poster.pdf},
 }
 """
@@ -33,7 +33,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://www.aclweb.org/anthology/W11-1916"
+url_pdf = "http://www.aclweb.org/anthology/W11-1916.pdf"
 url_poster = "http://www.jkk.name/pub/conll11coreference_poster.pdf"
 url_interview = ""
 url_arxiv = ""
@@ -73,7 +73,7 @@ author = "Maryam Nazaridoust, Behrouz Minaie Bidgoli, Siavash Nazaridoust"
 [[citation]]
 title = "Removing the Training Wheels: A Coreference Dataset that Entertains Humans and Challenges Computers"
 year = "2015"
-url = "http://aclweb.org/anthology/N/N15/N15-1117.pdf"
+url = "http://www.aclweb.org/anthology/N15-1117.pdf"
 venue = "NAACL"
 author = "Anupam Guha, Mohit Iyyer, Danny Bouman, Jordan Boyd-Graber"
 

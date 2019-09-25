@@ -9,7 +9,7 @@ bibtex = """@InProceedings{acl13analysis,
   month     = {August},
   year      = {2013},
   software  = {https://jkk.name/berkeley-parser-analyser/},
-  url       = {http://www.aclweb.org/anthology/P13-2018},
+  url       = {http://www.aclweb.org/anthology/P13-2018.pdf},
   slides    = {http://www.jkk.name/pub/acl13analysis_keynote.key},
   slidespdf = {http://www.jkk.name/pub/acl13analysis_slides.pdf},
 }
@@ -35,7 +35,7 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://www.aclweb.org/anthology/P13-2018"
+url_pdf = "http://www.aclweb.org/anthology/P13-2018.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
@@ -64,14 +64,14 @@ author = "Hanna Fadida, Alon Itai, Shuly Wintner"
 [[citation]]
 title = "Two Knives Cut Better Than One: Chinese Word Segmentation with Dual Decomposition"
 year = "2014"
-url = "http://aclweb.org/anthology/P/P14/P14-2032.pdf"
+url = "http://www.aclweb.org/anthology/P14-2032.pdf"
 venue = "ACL"
 author = "Mengqiu Wang, Rob Voigt, Christopher D. Manning"
 
 [[citation]]
 title = "Joint POS Tagging and Transition-based Constituent Parsing in Chinese with Non-local Features"
 year = "2014"
-url = "http://aclweb.org/anthology/P/P14/P14-1069.pdf"
+url = "http://www.aclweb.org/anthology/P14-1069.pdf"
 venue = "ACL"
 author = "Zhiguo Wang, Nianwen Xue"
 
@@ -85,7 +85,7 @@ author = "Dongchen Li, Xiantao Zhang, Xihong Wu"
 [[citation]]
 title = "Parsing Chinese with a Generalized Categorial Grammar"
 year = "2015"
-url = "http://aclweb.org/anthology/W15-3304"
+url = "http://www.aclweb.org/anthology/W15-3304.pdf"
 venue = "Proceedings of the Grammar Engineering Across Frameworks (GEAF) 2015 Workshop"
 author = "Manjuan Duan, William Schuler"
 
@@ -99,7 +99,7 @@ author = "Jingyi Li, Lingling Mu, Hongying Zan, Kunli Zhang"
 [[citation]]
 title = "Does String-Based Neural MT Learn Source Syntax?"
 year = "2016"
-url = "https://aclweb.org/anthology/D16-1159"
+url = "https://www.aclweb.org/anthology/D16-1159.pdf"
 venue = "EMNLP"
 author = "Xing Shi, Unkit Padhi, Kevin Knight"
 
