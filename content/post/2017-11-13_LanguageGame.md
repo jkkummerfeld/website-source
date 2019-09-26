@@ -20,7 +20,7 @@ caption = ""
 
 In reference games, two players communicate in a shared world with the goal of one learning what the other is referring to.
 Their small scale and clear success criteria make them a convenient testbed for dialogue agents, going back decades, with recent work focusing on neural approaches.
-This paper considers a simple game and constrains models in various ways to improve performance and see how their communication varies, a line of work also appearing in recent papers by Jacob Andreas ([ACL 2017](http://aclweb.org/anthology/P/P17/P17-1022.pdf), [EMNLP 2017](https://aclanthology.info/pdf/D/D17/D17-1310.pdf)).
+This paper considers a simple game and constrains models in various ways to improve performance and see how their communication varies, a line of work also appearing in recent papers by Jacob Andreas ([ACL 2017](https://www.aclweb.org/anthology/P17-1022.pdf), [EMNLP 2017](https://www.aclweb.org/anthology/D17-1311.pdf)).
 
 The game in this case is to find out two properties of an object, where there are three possible properties, each with four possible values.
 Given enough flexibility, models will explicitly encode every possible structure of the world as a separate symbol, which does not generalise well.

@@ -28,7 +28,7 @@ This paper shows two interesting new approaches to this issue:
 
 The first is straightforward, and further demonstrates the effectiveness of ELMo.
 To give a sense of how much this helps, the Charniak parser goes from 92 on the WSJ to 85 on the Brown corpus, while this model goes from 94 to 90.
-The second idea takes advantage of [a recent parsing model](https://aclanthology.info/papers/P17-1076/p17-1076) with a simple approach:
+The second idea takes advantage of [a recent parsing model](https://www.aclweb.org/anthology/P17-1076.pdf) with a simple approach:
 
 1. Independently assign a score to every span of a sentence, indicating whether it is part of the parse.
 2. Find the maximum scoring set of spans using a dynamic program.
