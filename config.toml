@@ -139,43 +139,63 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "envelope"
+    name = "E-Mail"
     icon_pack = "fa"
     link = "mailto:jkummerf@umich.edu"
 
   [[params.social]]
     icon = "google-scholar"
+    name = "Google Scholar"
     icon_pack = "ai"
     link = "//scholar.google.com/citations?user=OsoNG9AAAAAJ"
 
   [[params.social]]
     icon = "github"
+    name = "Github"
     icon_pack = "fa"
     link = "//github.com/jkkummerfeld"
 
   [[params.social]]
     icon = "twitter"
+    name = "Twitter"
     icon_pack = "fa"
     link = "//twitter.com/jkkummerfeld"
 
   [[params.social]]
     icon = "medium"
+    name = "Medium"
     icon_pack = "fa"
     link = "//medium.com/@jkkummerfeld"
 
   [[params.social]]
     icon = "arxiv"
+    name = "ArXiv"
     icon_pack = "ai"
     link = "//arxiv.org/a/kummerfeld_j_1"
 
   [[params.social]]
     icon = "orcid"
+    name = "OrcID"
     icon_pack = "ai"
     link = "//orcid.org/0000-0001-5030-3016"
 
   [[params.social]]
     icon = "linkedin"
+    name = "LinkedIn"
     icon_pack = "fa"
     link = "//linkedin.com/in/jkkummerfeld/"
+
+  [[params.social]]
+    icon = "dblp"
+    name = "dblp"
+    icon_pack = "ai"
+    link = "//dblp.uni-trier.de/pers/hd/k/Kummerfeld:Jonathan_K="
+
+  [[params.social]]
+    icon = "semantic-scholar"
+    name = "Semantic Scholar"
+    icon_pack = "ai"
+    link = "//semanticscholar.org/author/Jonathan-K.-Kummerfeld/1727211"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

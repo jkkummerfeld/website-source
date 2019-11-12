@@ -42,6 +42,12 @@ url_slides = ""
 url_video = ""
 url_blog = ""
 
+[[citation]]
+title = "Extracting Dialog Structure and Latent Beliefs from Dialog Corpus"
+year = "2019"
+url = ""
+venue = "LaCATODA-BtG Workshop"
+author = "Aishwarya Chhabra, Pratik Saini, Chandrasekhar Anantaram"
 
 
 +++

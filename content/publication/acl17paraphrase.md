@@ -95,5 +95,19 @@ url = ""
 venue = "Personalization in Long-Term Human-Robot Interaction"
 author = "Phoebe Liu, Malcolm Doering, Dylan F. Glas, Takayuki Kanda, Dana Kulic, Hiroshi Ishiguro"
 
+[[citation]]
+title = "PKU Paraphrase Bank: A Sentence-Level Paraphrase Corpus for Chinese"
+year = "2019"
+url = ""
+venue = "Natural Language Processing and Chinese Computing"
+author = "Bowei Zhang, Weiwei Sun, Xiaojun Wan, Zongming Guo"
+
+[[citation]]
+title = "Efficient Elicitation Approaches to Estimate Collective Crowd Answers"
+year = "2019"
+url = ""
+venue = "CSCW"
+author = "John Joon Young Chung, Jean Y. Song, Sindhu Kutty, Sungsoo (Ray) Hong, Juho Kim, Walter S. Lasecki"
+
 
 +++

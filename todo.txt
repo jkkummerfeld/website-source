@@ -1,3 +1,24 @@
+Update blog post on conferences:
+- https://twitter.com/jkkummerfeld/status/1175843866878066689
+
+Claim and add link to:
+https://dl.acm.org/author_page.cfm?id=81470655916
+
+
+Add links to:
+- ACL anthology profile https://www.aclweb.org/anthology/people/j/jonathan-k-kummerfeld/
+Change links to also say the name of the place:
+Twitter [image]
+Google [image]
+etc
+
+
+
+
+
+
+
+
 Change paging of lists of posts, so they don't get updated every time a post is added. Maybe switch to year-month specific pages?
 
 Add "more posts" after the last post in 'recent posts'

@@ -107,5 +107,19 @@ url = ""
 venue = "Syntaxfest"
 author = "William Dyer"
 
+[[citation]]
+title = "Comparing the Performance of Feature Representations for the Categorization of the Easy-to-Read Variety vs Standard Language"
+year = "2019"
+url = ""
+venue = "NoDaLiDa"
+author = "Marina Santini, Benjamin Danielsson, Arne Jonsson"
+
+[[citation]]
+title = "A Metrological Framework for Evaluating Crowd-powered Instruments"
+year = "2019"
+url = "https://www.humancomputation.com/assets/papers/140.pdf"
+venue = "HComp"
+author = "Chris Welty, Lora Aroyo, Praveen Paritosh"
+
 
 +++

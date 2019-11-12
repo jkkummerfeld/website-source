@@ -126,5 +126,12 @@ year = "2020"
 url = ""
 author = "Andrei Queiroz Lima, Brian Keegan"
 
+[[citation]]
+title = "The Art and Craft of Fraudulent App Promotion in Google Play"
+year = "2019"
+url = ""
+venue = "CCS"
+author = "Mizanur Rahman, Nestor Hernandez, Ruben Recabarren, Syed Ishtiaque Ahmed, Bogdan Carbunar"
+
 
 +++

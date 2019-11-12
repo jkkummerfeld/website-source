@@ -64,5 +64,12 @@ url = "http://croma.eecs.umich.edu/pubs/ManyThoughts_CSCW2019.pdf"
 venue = "CSCW"
 author = "John Joon Young Chung, Jean Y. Song, Sindhu Kutty, Sungsoo (Ray) Hong, Juho Kim, Walter S. Lasecki"
 
+[[citation]]
+title = "Efficient Elicitation Approaches to Estimate Collective Crowd Answers"
+year = "2019"
+url = ""
+venue = "CSCW"
+author = "John Joon Young Chung, Jean Y. Song, Sindhu Kutty, Sungsoo (Ray) Hong, Juho Kim, Walter S. Lasecki"
+
 
 +++
