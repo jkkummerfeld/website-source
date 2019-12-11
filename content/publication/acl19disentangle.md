@@ -13,6 +13,7 @@ bibtex = """@InProceedings{acl19disentangle,
   software  = {https://jkk.name/irc-disentanglement},
   data      = {https://jkk.name/irc-disentanglement},
   blog_post = {/post/2019-07-10_disentanglement/},
+  supplementary = {https://www.aclweb.org/anthology/attachments/P19-1374.Supplementary.pdf},
 }
 """
 title = "A Large-Scale Corpus for Conversation Disentanglement"
@@ -47,6 +48,7 @@ url_slides = ""
 url_video = ""
 url_blog = ""
 url_blog_post = "/post/2019-07-10_disentanglement/"
+url_supplementary = "https://www.aclweb.org/anthology/attachments/P19-1374.Supplementary.pdf"
 
 [[citation]]
 title = "Multi-level Context Response Matching in Retrieval-Based Dialog Systems"
@@ -128,16 +130,23 @@ author = "Jia-Chen Gu, Zhen-Hua Ling, Yu-Ping Ruan and Quan Liu1"
 [[citation]]
 title = "Query-Focused Scenario Construction"
 year = "2019"
-url = ""
+url = "https://www.aclweb.org/anthology/D19-1273/"
 venue = "EMNLP"
 author = "Su Wang, Greg Durrett, Katrin Erk"
 
 [[citation]]
 title = "Constructing Interpretive Spatio-Temporal Features for Multi-Turn Responses Selection"
 year = "2019"
-url = "https://www.aclweb.org/anthology/P19-1006.pdf"
+url = "https://www.aclweb.org/anthology/P19-1006/"
 venue = "ACL"
 author = "Junyu Lu, Chenbin Zhang, Zeying Xie, Guang Ling, Tom Chao Zhou, Zenglin Xu"
+
+[[citation]]
+title = "Who did They Respond to? Conversation Structure Modeling using Masked Hierarchical Transformer"
+year = "2020"
+url = ""
+venue = "AAAI"
+author = "Henghui Zhu, Feng Nan, Zhiguo Wang, Ramesh Nallapati, Bing Xiang"
 
 
 +++

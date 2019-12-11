@@ -10,6 +10,7 @@ bibtex = """@InProceedings{acl17paraphrase,
   pages     = {103--109},
   url       = {http://www.aclweb.org/anthology/P17-2017.pdf},
   data      = {http://aclweb.org/anthology/attachments/P/P17/P17-2017.Datasets.zip},
+  slidespdf = {https://www.aclweb.org/anthology/attachments/P17-2017.Presentation.pdf},
   video     = {https://vimeo.com/234958413},
   arxiv     = {https://arxiv.org/abs/1704.05753},
 }
@@ -45,6 +46,7 @@ url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/234958413"
 url_blog = ""
+url_slides_pdf = "https://www.aclweb.org/anthology/attachments/P17-2017.Presentation.pdf"
 
 [[citation]]
 title = "Effective Crowdsourced Generation of Training Data for Chatbots Natural Language Understanding"

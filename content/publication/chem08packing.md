@@ -198,5 +198,19 @@ url = "https://www.nature.com/articles/s41467-019-10031-4"
 venue = "Nature Communicationsvolume"
 author = "Nathan A. Mahynski, Evan Pretti, Vincent K. Shen, Jeetain Mittal"
 
+[[citation]]
+title = "The Influence of Softness on the Stability of Binary Colloidal Crystals"
+year = "2019"
+url = ""
+venue = "ACS Nano"
+author = "R. Allen LaCour, Carl Simon Adorf, Julia Dshemuchadse, Sharon C Glotzer"
+
+[[citation]]
+title = "Effect of surface texture, size ratio and large particle volume fraction on packing density of binary spherical mixtures"
+year = "2019"
+url = ""
+venue = "Granular Matter"
+author = "Chamod Hettiarachchi, W. K. Mampearachchi"
+
 
 +++

@@ -12,6 +12,7 @@ bibtex = """@InProceedings{acl18sql,
   arxiv     = {https://arxiv.org/abs/1806.09029},
   software  = {https://jkk.name/text2sql-data},
   data      = {https://jkk.name/text2sql-data},
+  poster    = {https://www.aclweb.org/anthology/attachments/P18-1033.Poster.pdf},
 }
 """
 title = "Improving Text-to-SQL Evaluation Methodology"
@@ -36,7 +37,7 @@ highlight = false
 image_preview = ""
 selected = false
 url_pdf = "http://www.aclweb.org/anthology/P18-1033.pdf"
-url_poster = ""
+url_poster = "https://www.aclweb.org/anthology/attachments/P18-1033.Poster.pdf"
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1806.09029"
 url_code = "https://jkk.name/text2sql-data"
@@ -108,6 +109,34 @@ year = "2019"
 url = ""
 venue = "EMNLP"
 author = "Ziyu Yao, Yu Su, Huan Sun, Wen-tau Yih"
+
+[[citation]]
+title = "Leveraging Adjective-Noun Phrasing Knowledge for Comparison Relation Prediction in Text-to-{SQL}"
+year = "2019"
+url = "https://www.aclweb.org/anthology/D19-1356"
+venue = "EMNLP"
+author = "Haoyan Liu, Lei Fang, Qian Liu, Bei Chen, Jian-Guang LOU, Zhoujun Li"
+
+[[citation]]
+title = "Graph Enhanced Cross-Domain Text-to-{SQL} Generation"
+year = "2019"
+url = "https://www.aclweb.org/anthology/D19-5319"
+venue = "TextGraphs Workshop"
+author = "Siyu Huo, Tengfei Ma, Jie Chen, Maria Chang, Lingfei Wu, Michael Witbrock"
+
+[[citation]]
+title = "A Comprehensive Exploration on Spider with Fuzzy Decision Text-to-SQL Model"
+year = "2019"
+url = ""
+venue = "IEEE Transactions on Industrial Informatics"
+author = "Q. Li, L. Li, Q. Li, J. Hong"
+
+[[citation]]
+title = "Domain Adaptation for Low-Resource Neural Semantic Parsing"
+year = "2019"
+url = ""
+venue = "ALTA"
+author = "Alvin Kennardi, Gabriela Ferraro, Qing Wang"
 
 
 +++

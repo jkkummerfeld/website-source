@@ -133,5 +133,18 @@ url = ""
 venue = "CCS"
 author = "Mizanur Rahman, Nestor Hernandez, Ruben Recabarren, Syed Ishtiaque Ahmed, Bogdan Carbunar"
 
+[[citation]]
+title = "Casino Royale: A Deep Exploration of Illegal Online Gambling"
+year = "2019"
+url = ""
+venue = "Proceedings of the 35th Annual Computer Security Applications Conference"
+author = "Hao Yang, Kun Du, Yubao Zhang, Shuang Hao, Zhou Li, Mingxuan Liu, Haining Wang, Haixin Duan, Yazhou Shi, Xiaodong Su, Guang Liu, Zhifeng Geng, Jianping Wu"
+
+[[citation]]
+title = "Challenges Within the Industry 4.0 Setup"
+year = "2020"
+url = ""
+author = "Akshi Kumar, Divya Gupta"
+
 
 +++

@@ -121,5 +121,12 @@ url = "https://www.humancomputation.com/assets/papers/140.pdf"
 venue = "HComp"
 author = "Chris Welty, Lora Aroyo, Praveen Paritosh"
 
+[[citation]]
+title = "Tkol, Httt, and r/radiohead: High Affinity Terms in {R}eddit Communities"
+year = "2019"
+url = "https://www.aclweb.org/anthology/D19-5508"
+venue = "W-NUT"
+author = "Abhinav Bhandari, Caitrin Armstrong"
+
 
 +++

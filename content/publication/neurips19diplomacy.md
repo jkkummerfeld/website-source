@@ -6,9 +6,11 @@ bibtex = """@InProceedings{neurips19diplomacy,
   booktitle = {Advances in Neural Information Processing Systems 32},
   year      = {2019},
   month     = {December},
-  pages     = {},
-  url       = {},
+  pages     = {4476--4487},
+  url       = {https://papers.nips.cc/paper/8697-no-press-diplomacy-modeling-multi-agent-gameplay},
+  supplementary = {https://papers.nips.cc/paper/8697-no-press-diplomacy-modeling-multi-agent-gameplay-supplemental.zip},
   arxiv     = {https://arxiv.org/abs/1909.02128},
+  blog_post = {http://localhost:1313/post/2019-09-13_diplomacynopress/},
 }
 """
 title = "No-Press Diplomacy: Modeling Multi-Agent Gameplay"
@@ -25,14 +27,14 @@ address = ""
 doi = ""
 issue = ""
 number = ""
-pages = ""
+pages = "4476--4487"
 publisher = ""
 volume = ""
 math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "https://arxiv.org/abs/1909.02128"
+url_pdf = "https://papers.nips.cc/paper/8697-no-press-diplomacy-modeling-multi-agent-gameplay"
 url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1909.02128"
@@ -42,6 +44,8 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_blog = ""
+url_blog_post = "http://localhost:1313/post/2019-09-13_diplomacynopress/"
+url_supplementary = "https://papers.nips.cc/paper/8697-no-press-diplomacy-modeling-multi-agent-gameplay-supplemental.zip"
 
 
 

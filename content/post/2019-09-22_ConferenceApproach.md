@@ -36,7 +36,7 @@ Pro: Easy to spend more or less time on each poster.
 Con: Easy to start skimming titles and figures without learning much (particularly when tired).
 3. Talk to people.
 Pro: A great way to (1) learn about what other people are doing / thinking about right now, (2) make connections / network, (3) make specific people aware of your own work.
-Con: Sometimes conversations become just small talk, which is not always worthwhile. It can also be hard to approach new people.
+Con: Sometimes conversations become just small talk, which is not always worthwhile (Edit: see clarification in the postscript). It can also be hard to approach new people.
 4. Relax.
 Pro: Being focused and engaged is tiring, a break can be rejuvenating.
 Con: Missing out on work being presented.
@@ -106,4 +106,36 @@ I am eager to see how the changes work out and also hope that having stepped bac
 While putting this together I found this series of tweets from Chinmay Kulkarni interesting.
 Our opinions differ on certain points, so check them out: [https://twitter.com/chinmay/status/988410612316286976?s=20](https://twitter.com/chinmay/status/988410612316286976?s=20)
 
+## Postscript: Responses
+
+After [sharing this](https://twitter.com/jkkummerfeld/status/1175843866878066689) on Twitter, there was some interesting discussion.
+For posterity, I'm summarising that and other comments I got here:
+
+General
+
+- Be willing to leave a poster, talk, or conversation. It may feel polite to stay, but time is valuable, so once something no longer seems interesting, move on to something else. This is one reason to sit on the aisle in a talk.
+
+- Note taking is important because there is simply too much happening to remember. One suggestion was to track who you talked to and what it was about.
+
+- Consider going to random things and trying to understand them. This can lead to unexpected links to your own work and may be more interesting (as everything is new).
+
+- I clarified my small talk point above. I definitely see it is valuable, but if every conversation is small talk then you are missing an opportunity to have a conversation you couldn't have outside of a conference.
+
+- People vary in their preferences regarding staying up late or not. Some see it is valuable time to connect. Others get the same from morning activities like running groups.
+
+Talks vs. Posters
+
+- Talks can give a lot of content in a brief period and convey the presenter's view of the most important idea.
+
+- Staying for a complete talk session can expose you to work that is relevant to your interests, but you might have otherwise missed.
+
+- Talks are often recorded now, so you can watch them later instead (but be honest with yourself about whether you will).
+
+- Demos and Industry track presentations may have content not in the paper.
+
+- Attending a talk is a nice way to connect with someone. It means you are guaranteed to find them and there is a starting place for conversation.
+
+- Interactions at posters can make you feel part of the community in a way talks don't.
+
+- As the community grows we may need to explore other structures. For example, at RSS, work is presented as both a four minute talk and a poster session (NAACL tried a 1-minute-madness at least once, which is a similar idea).
 

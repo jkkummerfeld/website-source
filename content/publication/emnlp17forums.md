@@ -11,6 +11,7 @@ bibtex = """@InProceedings{emnlp17forums,
   url       = {https://www.aclweb.org/anthology/D17-1275.pdf},
   pages     = {2588--2597},
   software  = {https://evidencebasedsecurity.org/forums/},
+  supplementary = {https://www.aclweb.org/anthology/attachments/D17-1275.Attachment.zip},
 }
 """
 title = "Identifying Products in Online Cybercrime Marketplaces: A Dataset for Fine-grained Domain Adaptation"
@@ -44,6 +45,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_blog = ""
+url_supplementary = "https://www.aclweb.org/anthology/attachments/D17-1275.Attachment.zip"
 
 [[citation]]
 title = "You Are Your Photographs: Detecting Multiple Identities of Vendors in the Darknet Marketplaces"
@@ -79,6 +81,13 @@ year = "2019"
 url = ""
 venue = "Proceedings of the Ninth ACM Conference on Data and Application Security and Privacy"
 author = "Zhibo Sun, Carlos E. Rubio-Medrano, Ziming Zhao, Tiffany Bao, Adam Doupe and Gail-Joon Ahn"
+
+[[citation]]
+title = "Casino Royale: A Deep Exploration of Illegal Online Gambling"
+year = "2019"
+url = ""
+venue = "Proceedings of the 35th Annual Computer Security Applications Conference"
+author = "Hao Yang, Kun Du, Yubao Zhang, Shuang Hao, Zhou Li, Mingxuan Liu, Haining Wang, Haixin Duan, Yazhou Shi, Xiaodong Su, Guang Liu, Zhifeng Geng, Jianping Wu"
 
 
 +++
