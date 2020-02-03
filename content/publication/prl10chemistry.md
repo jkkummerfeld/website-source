@@ -306,5 +306,12 @@ url = ""
 venue = "Nature Materials"
 author = "Celia Lozano, Juan Ruben Gomez-Solano, Clemens Bechinger"
 
+[[citation]]
+title = "Attractive versus truncated repulsive supercooled liquids: The dynamics is encoded in the pair correlation function"
+year = "2020"
+url = ""
+venue = "Physical Review E"
+author = "Francois P. Landes, Giulio Biroli, Olivier Dauchot, Andrea Liu, David Reichman"
+
 
 +++

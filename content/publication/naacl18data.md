@@ -72,5 +72,12 @@ url = ""
 venue = "Personalization in Long-Term Human-Robot Interaction"
 author = "Phoebe Liu, Malcolm Doering, Dylan F. Glas, Takayuki Kanda, Dana Kulic, Hiroshi Ishiguro"
 
+[[citation]]
+title = "MA-DST: Multi-Attention-Based Scalable Dialog State Tracking"
+year = "2019"
+url = ""
+venue = "The 3rd NeurIPS workshop on Conversational AI: Today's Practice and Tomorrow's Potential"
+author = "Adarsh Kumar, Peter Ku, Anuj Kumar Goyal, Angeliki Metallinou, Dilek Hakkani-tur"
+
 
 +++

@@ -128,5 +128,12 @@ url = "https://www.aclweb.org/anthology/D19-5508"
 venue = "W-NUT"
 author = "Abhinav Bhandari, Caitrin Armstrong"
 
+[[citation]]
+title = "Ideological Drifts in the U.S. Constitution: Detecting Areas of Contention with Models of Semantic Change"
+year = "2019"
+url = ""
+venue = "NeurIPS Joint Workshop on AI for Social Good"
+author = "Abdul Z. Abdulrahim"
+
 
 +++

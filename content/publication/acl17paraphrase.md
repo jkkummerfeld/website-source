@@ -111,5 +111,12 @@ url = ""
 venue = "CSCW"
 author = "John Joon Young Chung, Jean Y. Song, Sindhu Kutty, Sungsoo (Ray) Hong, Juho Kim, Walter S. Lasecki"
 
+[[citation]]
+title = "Optimizing for Happiness and Productivity: Modeling Opportune Moments for Transitions and Breaks at Work"
+year = "2020"
+url = ""
+venue = "CHI"
+author = "Harmanpreet Kaur, Alex C. Williams, Daniel McDuff, Mary Czerwinski, Jaime Teevan, Shamsi Iqbal"
+
 
 +++

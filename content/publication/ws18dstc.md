@@ -4,7 +4,7 @@ bibtex = """@InProceedings{ws18dstc,
   title     = {Dialog System Technology Challenge 7},
   author    = {Koichiro Yoshino and Chiori Hori and Julien Perez and Luis Fernando D'Haro and Lazaros Polymenakos and Chulaka Gunasekara and Walter S. Lasecki and Jonathan K. Kummerfeld and Michel Galley and Chris Brockett and Jianfeng Gao and Bill Dolan and Xiang Gao and Huda Alamari and Tim K. Marks and Devi Parikh and Dhruv Batra},
   year      = {2018},
-  booktitle = {NeurIPS Workshop: The 2nd Conversational AI: "Today's Practice and Tomorrow's Potential"},
+  booktitle = {NeurIPS Workshop: The 2nd Conversational AI: Today's Practice and Tomorrow's Potential},
   url       = {https://arxiv.org/abs/1901.03461},
   location  = {Montreal, Quebec, Canada},
   month     = {December},
@@ -17,7 +17,7 @@ draft = false
 preprint = false
 authors = ["Koichiro Yoshino", "Chiori Hori", "Julien Perez", "Luis Fernando D'Haro", "Lazaros Polymenakos", "Chulaka Gunasekara", "Walter S. Lasecki", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Michel Galley", "Chris Brockett", "Jianfeng Gao", "Bill Dolan", "Xiang Gao", "Huda Alamari", "Tim K. Marks", "Devi Parikh", "Dhruv Batra"]
 publication_types = ["1"]
-publication = "NeurIPS Workshop: The 2nd Conversational AI: 'Today's Practice and Tomorrow's Potential'"
+publication = "NeurIPS Workshop: The 2nd Conversational AI: Today's Practice and Tomorrow's Potential"
 publication_short = "ConvAI Workshop"
 abstract = "This paper introduces the Seventh Dialog System Technology Challenges (DSTC), which use shared datasets to explore the problem of building dialog systems. Recently, end-to-end dialog modeling approaches have been applied to various dialog tasks. The seventh DSTC (DSTC7) focuses on developing technologies related to end-to-end dialog systems for (1) sentence selection, (2) sentence generation and (3) audio visual scene aware dialog. This paper summarizes the overall setup and results of DSTC7, including detailed descriptions of the different tracks and provided datasets. We also describe overall trends in the submitted systems and the key results. Each track introduced new datasets and participants achieved impressive results using state-of-the-art end-to-end technologies."
 abstract_short = "This paper introduces the Seventh Dialog System Technology Challenges (DSTC), which use shared datasets to explore the problem of building dialog systems. Recently, end-to-end dialog modeling approaches have been applied to various dialog tasks. The seventh DSTC (DSTC7) focuses on developing technologies related to end-to-end dialog systems for (1) sentence selection, (2) sentence generation and (3) audio visual scene aware dialog. This paper summarizes the overall setup and results of DSTC7, including detailed descriptions of the different tracks and provided datasets. We also describe overall trends in the submitted systems and the key results. Each track introduced new datasets and participants achieved impressive results using state-of-the-art end-to-end technologies."
@@ -161,6 +161,13 @@ year = "2019"
 url = ""
 venue = "Proceedings of the 42Nd International ACM SIGIR Conference on Research and Development in Information Retrieval"
 author = "Abhinav Rastogi, Alexandros Papangelis, Rahul Goel, Chandra Khatri"
+
+[[citation]]
+title = "Context and Knowledge Aware Conversational Model and System Combination for Grounded Response Generation"
+year = "2020"
+url = ""
+venue = "Computer Speech & Language"
+author = "Ryota Tanaka, Akihide Ozeki, Shugo Kato, Akinobu Lee"
 
 
 +++

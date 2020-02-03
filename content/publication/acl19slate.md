@@ -44,6 +44,12 @@ url_slides = ""
 url_video = ""
 url_blog = ""
 
+[[citation]]
+title = "An extensive review of tools for manual annotation of documents"
+year = "2019"
+url = ""
+venue = "Briefings in Bioinformatics"
+author = "Mariana Neves, Jurica Ševa"
 
 
 +++

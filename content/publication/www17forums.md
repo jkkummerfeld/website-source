@@ -4,6 +4,7 @@ bibtex = """@InProceedings{www17forums,
   title     = {Tools for Automated Analysis of Cybercriminal Markets},
   author    = {Rebecca S. Portnoff and Sadia Afroz and Greg Durrett and Jonathan K. Kummerfeld and Taylor Berg-Kirkpatrick and Damon McCoy and Kirill Levchenko and Vern Paxson},
   booktitle = {Proceedings of 26th International World Wide Web conference},
+  pages     = {657--666},
   month     = {April},
   year      = {2017},
   location  = {Perth, Australia},
@@ -25,7 +26,7 @@ address = ""
 doi = ""
 issue = ""
 number = ""
-pages = ""
+pages = "657--666"
 publisher = ""
 volume = ""
 math = true
@@ -145,6 +146,27 @@ title = "Challenges Within the Industry 4.0 Setup"
 year = "2020"
 url = ""
 author = "Akshi Kumar, Divya Gupta"
+
+[[citation]]
+title = "REST: A thread embedding approach for identifying and classifying user-specified information in security forums"
+year = "2020"
+url = ""
+venue = "ICWSM"
+author = "Joobin Gharibshah, Evangelos E. Papalexakis, Michalis Faloutsos"
+
+[[citation]]
+title = "Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains"
+year = "2019"
+url = ""
+venue = "IEEE APWG Symposium on Electronic Crime Research"
+author = "Rasika Bhalerao, Maxwell Aliapoulios, Ilia Shumailov, Sadia Afroz, Damon McCoy"
+
+[[citation]]
+title = "The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends"
+year = "2020"
+url = ""
+venue = "IEEE Access"
+author = "Javier Pastor-Galindo, Pantaleone Nespoli, Felix Gomez Marmol, Gregorio Martinez Perez"
 
 
 +++

@@ -89,5 +89,12 @@ url = ""
 venue = "Proceedings of the 35th Annual Computer Security Applications Conference"
 author = "Hao Yang, Kun Du, Yubao Zhang, Shuang Hao, Zhou Li, Mingxuan Liu, Haining Wang, Haixin Duan, Yazhou Shi, Xiaodong Su, Guang Liu, Zhifeng Geng, Jianping Wu"
 
+[[citation]]
+title = "Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains"
+year = "2019"
+url = ""
+venue = "IEEE APWG Symposium on Electronic Crime Research"
+author = "Rasika Bhalerao, Maxwell Aliapoulios, Ilia Shumailov, Sadia Afroz, Damon McCoy"
+
 
 +++

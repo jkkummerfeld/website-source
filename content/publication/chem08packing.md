@@ -212,5 +212,12 @@ url = ""
 venue = "Granular Matter"
 author = "Chamod Hettiarachchi, W. K. Mampearachchi"
 
+[[citation]]
+title = "Observation of 9-Fold Coordinated Amorphous TiO2 at High Pressure"
+year = "2019"
+url = ""
+venue = "The Journal of Physical Chemistry Letters"
+author = "Yu Shu, Yoshio Kono, Itaru Ohira, Quanjun Li, Rostislav Hrubiak, Changyong Park, Curtis Kenney-Benson, Yaanbin Wang, Guoyin Shen"
+
 
 +++

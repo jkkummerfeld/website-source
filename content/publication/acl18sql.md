@@ -138,5 +138,12 @@ url = ""
 venue = "ALTA"
 author = "Alvin Kennardi, Gabriela Ferraro, Qing Wang"
 
+[[citation]]
+title = "Measuring Compositional Generalization: a Comprehensive Method on Realistic Data"
+year = "2020"
+url = "https://arxiv.org/pdf/1912.09713.pdf"
+venue = "ICLR"
+author = "Daniel Keysers, Nathanael Schärli, Nathan Scales, Hylke Buisman, Daniel Furrer, Sergii Kashubin, Nikola Momchev, Danila Sinopalnikov, Lukasz Stafiniak, Tibor Tihon, Dmitry Tsarkov, Xiao Wang, Marc van Zee, Olivier Bousquet"
+
 
 +++
