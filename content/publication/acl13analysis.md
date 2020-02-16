@@ -18,6 +18,7 @@ title = "An Empirical Examination of Challenges in Chinese Parsing"
 date = "2013-08-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Daniel Tse", "James R. Curran", "Dan Klein"]
 publication_types = ["1"]
 publication = "Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)"

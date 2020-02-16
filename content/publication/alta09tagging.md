@@ -18,6 +18,7 @@ title = "Faster parsing and supertagging model estimation"
 date = "2009-12-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Jessika Roesner", "James R. Curran"]
 publication_types = ["1"]
 publication = "Proceedings of the Australasian Language Technology Association Workshop 2009"

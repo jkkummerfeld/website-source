@@ -17,6 +17,7 @@ title = "Classification of Verb Particle Constructions with the Google Web1T Cor
 date = "2008-12-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "James R. Curran"]
 publication_types = ["1"]
 publication = "Proceedings of the Australasian Language Technology Association Workshop 2008"

@@ -16,6 +16,7 @@ title = "Tools for Automated Analysis of Cybercriminal Markets"
 date = "2017-04-01"
 draft = false
 preprint = false
+archival = true
 authors = ["Rebecca S. Portnoff", "Sadia Afroz", "Greg Durrett", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Taylor Berg-Kirkpatrick", "Damon McCoy", "Kirill Levchenko", "Vern Paxson"]
 publication_types = ["1"]
 publication = "Proceedings of 26th International World Wide Web conference"
@@ -167,6 +168,13 @@ year = "2020"
 url = ""
 venue = "IEEE Access"
 author = "Javier Pastor-Galindo, Pantaleone Nespoli, Felix Gomez Marmol, Gregorio Martinez Perez"
+
+[[citation]]
+title = "REST: A thread embedding approach for identifying and classifying user-specified information in security forums"
+year = "2020"
+url = ""
+venue = "ICWSM"
+author = "Joobin Gharibshah, Evangelos E. Papalexakis, Michalis Faloutsos"
 
 
 +++

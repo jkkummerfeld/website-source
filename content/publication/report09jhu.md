@@ -16,6 +16,7 @@ title = "Large-Scale Syntactic Processing: Parsing the Web"
 date = "2009-01-01"
 draft = false
 preprint = false
+archival = false
 authors = ["Stephen Clark", "Ann Copestake", "James R. Curran", "Yue Zhang", "Aurelie Herbelot", "James Haggerty", "Byung-Gyu Ahn", "Curt Van Wyk", "Jessika Roesner", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Tim Dawborn"]
 publication_types = ["4"]
 publication = "Johns Hopkins University"

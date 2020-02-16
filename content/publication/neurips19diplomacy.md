@@ -17,6 +17,7 @@ title = "No-Press Diplomacy: Modeling Multi-Agent Gameplay"
 date = "2019-12-01"
 draft = false
 preprint = false
+archival = true
 authors = ["Philip Paquette", "Yuchen Lu", "Steven Bocco", "Max O. Smith", "Satya Ortiz-Gagn&eacute;", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Joelle Pineau", "Satinder Singh", "Aaron Courville"]
 publication_types = ["1"]
 publication = "Advances in Neural Information Processing Systems 32"

@@ -19,6 +19,7 @@ title = "Understanding Task Design Trade-offs in Crowdsourced Paraphrase Collect
 date = "2017-07-01"
 draft = false
 preprint = false
+archival = true
 authors = ["Youxuan Jiang", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Walter S. Lasecki"]
 publication_types = ["1"]
 publication = "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)"

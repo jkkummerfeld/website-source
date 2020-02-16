@@ -17,6 +17,7 @@ title = "Look Who's Talking: Inferring Speaker Attributes from Personal Longitud
 date = "2019-04-01"
 draft = false
 preprint = false
+archival = true
 authors = ["Charles Welch", "Ver&oacute;nica P&eacute;rez-Rosas", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Rada Mihalcea"]
 publication_types = ["1"]
 publication = "Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing)"

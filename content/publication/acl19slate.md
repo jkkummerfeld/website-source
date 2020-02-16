@@ -10,12 +10,14 @@ bibtex = """@InProceedings{acl19slate,
   pages     = {7--12},
   url       = {https://www.aclweb.org/anthology/P19-3002.pdf},
   software  = {https://jkk.name/slate},
+  poster    = {http://www.jkk.name/pub/acl19slate_poster.pdf},
 }
 """
 title = "SLATE: A Super-Lightweight Annotation Tool for Experts"
 date = "2019-07-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>"]
 publication_types = ["1"]
 publication = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations"
@@ -34,7 +36,7 @@ highlight = false
 image_preview = ""
 selected = false
 url_pdf = "https://www.aclweb.org/anthology/P19-3002.pdf"
-url_poster = ""
+url_poster = "http://www.jkk.name/pub/acl19slate_poster.pdf"
 url_interview = ""
 url_arxiv = ""
 url_code = "https://jkk.name/slate"

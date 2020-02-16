@@ -19,6 +19,7 @@ title = "Parsing with Traces: An O($n^4$) Algorithm and a Structural Representat
 date = "2017-01-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Dan Klein"]
 publication_types = ["1"]
 publication = "Transactions of the Association for Computational Linguistics"

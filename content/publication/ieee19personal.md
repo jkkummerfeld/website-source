@@ -16,6 +16,7 @@ title = "Learning from Personal Longitudinal Dialog Data"
 date = "2019-01-01"
 draft = false
 preprint = false
+archival = true
 authors = ["Charles Welch", "Ver&oacute;nica P&eacute;rez-Rosas", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Rada Mihalcea"]
 publication_types = ["2"]
 publication = "IEEE Intelligent Systems"
@@ -44,6 +45,12 @@ url_slides = ""
 url_video = ""
 url_blog = ""
 
+[[citation]]
+title = "The Four Dimensions of Social Network Analysis: An Overview of Research Methods, Applications, and Software Tools"
+year = "2020"
+url = ""
+venue = "Information Fusion"
+author = "David Camacho, Angel Panizo-LLedot, Gema Bello-Orgaz, Antonio Gonzalez-Pardo, Erik Cambria"
 
 
 +++

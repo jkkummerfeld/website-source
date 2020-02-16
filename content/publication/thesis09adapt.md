@@ -23,6 +23,7 @@ title = "Adaptive Supertagging for Faster Parsing"
 date = "2009-01-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>"]
 publication_types = ["4"]
 publication = "The University of Sydney"

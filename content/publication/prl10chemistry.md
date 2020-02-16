@@ -20,6 +20,7 @@ title = "Spatiotemporal Hierarchy of Relaxation Events, Dynamical Heterogeneitie
 date = "2010-09-01"
 draft = false
 preprint = false
+archival = true
 authors = ["Raphael Candelier", "Asaph Widmer-Cooper", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Olivier Dauchot", "Giulio Biroli", "Peter Harrowell", "David R. Reichman"]
 publication_types = ["2"]
 publication = "Physical Review Letters"
@@ -312,6 +313,20 @@ year = "2020"
 url = ""
 venue = "Physical Review E"
 author = "Francois P. Landes, Giulio Biroli, Olivier Dauchot, Andrea Liu, David Reichman"
+
+[[citation]]
+title = "Elucidation of the Nature of Structural Relaxation in Glassy D-Sorbitol"
+year = "2020"
+url = ""
+venue = "The Journal of Physical Chemistry B"
+author = "Marcin Krynski, Felix C.  Mocanu, Stephen R.  Elliott"
+
+[[citation]]
+title = "Diffusion of Anisotropic Particles in Random Energy Landscapes—An Experimental Study"
+year = "2020"
+url = ""
+venue = "Frontiers in Physics"
+author = "Juan Pablo Segovia-Gutiérrez, Manuel A. Escobedo-Sánchez, Erick Sarmiento-Gómez, Stefan U. Egelhaaf"
 
 
 +++

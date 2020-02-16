@@ -18,6 +18,7 @@ title = "Parser Showdown at the Wall Street Corral: An Empirical Investigation o
 date = "2012-07-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "David Hall", "James R. Curran", "Dan Klein"]
 publication_types = ["1"]
 publication = "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning"

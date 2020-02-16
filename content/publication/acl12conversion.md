@@ -18,6 +18,7 @@ title = "Robust Conversion of CCG Derivations to Phrase Structure Trees"
 date = "2012-07-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Dan Klein", "James R. Curran"]
 publication_types = ["1"]
 publication = "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)"

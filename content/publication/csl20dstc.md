@@ -9,13 +9,14 @@ bibtex = """@article{csl20dstc,
   doi       = {https://doi.org/10.1016/j.csl.2020.101068},
   url       = {http://www.jkk.name/csl20dstc.pdf},
   alt-url   = {http://www.sciencedirect.com/science/article/pii/S0885230820300012},
-  author    = {Luis Fernando D'Haro, Koichiro Yoshino, Chiori Hori, Tim K. Marks, Lazaros Polymenakos, Jonathan K. Kummerfeld, Michel Galley, Xiang Gao},
+  author    = {Luis Fernando D'Haro and Koichiro Yoshino and Chiori Hori and Tim K. Marks and Lazaros Polymenakos and Jonathan K. Kummerfeld and Michel Galley and Xiang Gao},
 }
 """
 title = "Overview of the seventh Dialog System Technology Challenge: DSTC7"
 date = "2020-01-01"
 draft = false
 preprint = false
+archival = true
 authors = ["Luis Fernando D'Haro", "Koichiro Yoshino", "Chiori Hori", "Tim K. Marks", "Lazaros Polymenakos", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Michel Galley", "Xiang Gao"]
 publication_types = ["2"]
 publication = "Computer Speech & Language"

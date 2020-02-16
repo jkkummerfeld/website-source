@@ -16,6 +16,7 @@ title = "Data Collection for a Production Dialogue System: A Startup Perspective
 date = "2018-06-01"
 draft = false
 preprint = false
+archival = true
 authors = ["Yiping Kang", "Yunqi Zhang", "<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Parker Hill", "Johann Hauswald", "Michael A. Laurenzano", "Lingjia Tang", "Jason Mars"]
 publication_types = ["1"]
 publication = "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 3 (Industry Papers)"

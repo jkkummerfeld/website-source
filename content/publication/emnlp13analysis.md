@@ -18,6 +18,7 @@ title = "Error-Driven Analysis of Challenges in Coreference Resolution"
 date = "2013-10-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Dan Klein"]
 publication_types = ["1"]
 publication = "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing"

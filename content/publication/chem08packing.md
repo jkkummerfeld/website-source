@@ -16,6 +16,7 @@ title = "The densest packing of AB binary hard-sphere homogeneous compounds acro
 date = "2008-08-01"
 draft = false
 preprint = false
+archival = true
 authors = ["<span style='text-decoration:underline;'>Jonathan K. Kummerfeld</span>", "Toby S Hudson", "Peter Harrowell"]
 publication_types = ["2"]
 publication = "The Journal of Physical Chemistry B"
