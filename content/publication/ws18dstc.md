@@ -170,5 +170,26 @@ url = ""
 venue = "Computer Speech & Language"
 author = "Ryota Tanaka, Akihide Ozeki, Shugo Kato, Akinobu Lee"
 
+[[citation]]
+title = "Sequential Neural Networks for Noetic End-to-End Response Selection"
+year = "2020"
+url = ""
+venue = "CSL"
+author = "Qian Chen, Wen Wang"
+
+[[citation]]
+title = "End-to-End Response Selection Based on Multi-Level Context Response Matching"
+year = "2020"
+url = ""
+venue = "CSL"
+author = "Basma El Amel Boussaha, Nicolas Hernandez, Christine Jacquin, Emmanuel Morin"
+
+[[citation]]
+title = "Distilling Knowledge for Fast Retrieval-based Chat-bots"
+year = "2020"
+url = ""
+venue = "SIGIR"
+author = "Amir Vakili Tahami, Kamyar Ghajar, Azadeh Shakery"
+
 
 +++

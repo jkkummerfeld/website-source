@@ -46,6 +46,12 @@ url_slides = ""
 url_video = ""
 url_blog = ""
 
+[[citation]]
+title = "User Utterance Acquisition for Training Task-Oriented Bots: A Review of Challenges, Techniques and Opportunities"
+year = "2020"
+url = ""
+venue = "IEEE Internet Computing"
+author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Fabio Casati, Moshe Chai Barukh, Shayan Zamanirad"
 
 
 +++

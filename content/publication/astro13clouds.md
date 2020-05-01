@@ -60,5 +60,12 @@ url = ""
 venue = "Journal of High Energy Astrophysics"
 author = "E. Arshilava, M. Gogilashvili, V. Loladze, I. Jokhadze, B. Modrekiladze, N.L. Shatashvili, A.G. Tevzadze"
 
+[[citation]]
+title = "How runaway stars boost galactic outflows"
+year = "2020"
+url = ""
+venue = "Monthly Notices of the Royal Astronomical Society"
+author = "Eric P. Andersson, Oscar Agertz, Florent Renaud"
+
 
 +++

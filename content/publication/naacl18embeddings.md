@@ -136,5 +136,33 @@ url = ""
 venue = "NeurIPS Joint Workshop on AI for Social Good"
 author = "Abdul Z. Abdulrahim"
 
+[[citation]]
+title = "Learning Variable-Length Representation of Words"
+year = "2020"
+url = ""
+venue = "Pattern Recognition"
+author = "Debasis Ganguly"
+
+[[citation]]
+title = "Understanding the Downstream Instability of Word Embeddings"
+year = "2020"
+url = ""
+venue = "MLSys"
+author = "Megan Leszczynski, Avner May, Jian Zhang, Sen Wu, Christopher Aberger, Christopher Re"
+
+[[citation]]
+title = "Automated Event Identification from System Logs Using Natural Language Processing"
+year = "2020"
+url = ""
+venue = "International Conference on Computing, Networking and Communications"
+author = "Abhishek Dwaraki, Shachi Kumary, Tilman Wolf"
+
+[[citation]]
+title = "Revisiting the Context Window for Cross-lingual Word Embeddings"
+year = "2020"
+url = ""
+venue = "ACL"
+author = "Ryokan Ri, Yoshimasa Tsuruoka"
+
 
 +++

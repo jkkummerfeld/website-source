@@ -50,5 +50,19 @@ url = ""
 venue = "LaCATODA-BtG Workshop"
 author = "Aishwarya Chhabra, Pratik Saini, Chandrasekhar Anantaram"
 
+[[citation]]
+title = "Sequential Neural Networks for Noetic End-to-End Response Selection"
+year = "2020"
+url = ""
+venue = "CSL"
+author = "Qian Chen, Wen Wang"
+
+[[citation]]
+title = "End-to-End Response Selection Based on Multi-Level Context Response Matching"
+year = "2020"
+url = ""
+venue = "Computer Speech & Language"
+author = "Basma El Amel Boussaha, Nicolas Hernandez, Christine Jacquin, Emmanuel Morin"
+
 
 +++

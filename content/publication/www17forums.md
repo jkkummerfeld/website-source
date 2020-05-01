@@ -176,5 +176,11 @@ url = ""
 venue = "ICWSM"
 author = "Joobin Gharibshah, Evangelos E. Papalexakis, Michalis Faloutsos"
 
+[[citation]]
+title = "Cybercrimes: Critical Issues in a Global Context"
+year = "2020"
+url = ""
+author = "Anita Lavorgna"
+
 
 +++

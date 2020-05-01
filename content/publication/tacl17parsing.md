@@ -56,6 +56,13 @@ venue = "IWPT"
 author = "Robin Kurtz, Marco Kuhlmann"
 
 [[citation]]
+title = "The Interplay Between Loss Functions and Structural Restrictions in Semantic Dependency Parsing"
+year = "2018"
+url = ""
+venue = "Proceedings of the Seventh Swedish Language Technology Conference (SLTC)"
+author = "Robin Kurtz, Marco Kuhlmann"
+
+[[citation]]
 title = "An Analysis of Plane Task Text Ellipticity and the Possibility of Ellipses Reconstructing Based on Cognitive Modeling Geometric Objects and Actions"
 year = "2018"
 url = "http://ceur-ws.org/Vol-2303/paper3.pdf"
@@ -65,9 +72,16 @@ author = "Xenia Naidenova, Sergei Kurbatov, Vjacheslav Ganapol'skii"
 [[citation]]
 title = "AGRR-2019: A Corpus for Gapping Resolution in Russian"
 year = "2019"
-url = "https://arxiv.org/abs/1906.04099"
+url = "https://www.aclweb.org/anthology/W19-3705.pdf"
 venue = "The 7th Workshop on Balto-Slavic Natural Language Processing"
 author = "Maria Ponomareva, Kira Droganova, Ivan Smurov, Tatiana Shavrina"
+
+[[citation]]
+title = "PTB Graph Parsing with Tree Approximation"
+year = "2019"
+url = "https://www.aclweb.org/anthology/P19-1530.pdf"
+venue = "ACL"
+author = "Yoshihide Kato, Shigeki Matsubara"
 
 
 +++

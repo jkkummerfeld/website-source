@@ -80,5 +80,19 @@ url = ""
 venue = "The 3rd NeurIPS workshop on Conversational AI: Today's Practice and Tomorrow's Potential"
 author = "Adarsh Kumar, Peter Ku, Anuj Kumar Goyal, Angeliki Metallinou, Dilek Hakkani-tur"
 
+[[citation]]
+title = "User Utterance Acquisition for Training Task-Oriented Bots: A Review of Challenges, Techniques and Opportunities"
+year = "2020"
+url = ""
+venue = "IEEE Internet Computing"
+author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Fabio Casati, Moshe Chai Barukh, Shayan Zamanirad"
+
+[[citation]]
+title = "Dynamic word recommendation to obtain diverse crowdsourced paraphrases of user utterances"
+year = "2020"
+url = ""
+venue = "IUI"
+author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Fabio Casati, Moshe Chai Barukh, Shayan Zamanirad"
+
 
 +++

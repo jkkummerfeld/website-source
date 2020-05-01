@@ -146,5 +146,12 @@ url = "https://arxiv.org/pdf/1912.09713.pdf"
 venue = "ICLR"
 author = "Daniel Keysers, Nathanael Schärli, Nathan Scales, Hylke Buisman, Daniel Furrer, Sergii Kashubin, Nikola Momchev, Danila Sinopalnikov, Lukasz Stafiniak, Tibor Tihon, Dmitry Tsarkov, Xiao Wang, Marc van Zee, Olivier Bousquet"
 
+[[citation]]
+title = "Text-to-SQL Generation for Question Answering on Electronic Medical Records"
+year = "2020"
+url = ""
+venue = "WWW"
+author = "Ping Wang, Tian Shi, Chandan K. Reddy"
+
 
 +++

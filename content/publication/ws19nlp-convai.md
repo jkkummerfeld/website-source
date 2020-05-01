@@ -43,6 +43,12 @@ url_slides = ""
 url_video = ""
 url_blog = ""
 
+[[citation]]
+title = "Sequential Neural Networks for Noetic End-to-End Response Selection"
+year = "2020"
+url = ""
+venue = "CSL"
+author = "Qian Chen, Wen Wang"
 
 
 +++

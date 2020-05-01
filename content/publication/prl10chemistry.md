@@ -328,5 +328,26 @@ url = ""
 venue = "Frontiers in Physics"
 author = "Juan Pablo Segovia-Gutiérrez, Manuel A. Escobedo-Sánchez, Erick Sarmiento-Gómez, Stefan U. Egelhaaf"
 
+[[citation]]
+title = "Application of machine learning approach in disordered materials"
+year = "2020"
+url = ""
+venue = "SCIENTIA SINICA Physica, Mechanica & Astronomica"
+author = "JiaQi Wu, YiTao Sun, WeiHua Wang, MaoZhi Li"
+
+[[citation]]
+title = "Collective diffusion within the superionic regime of Bi2O3"
+year = "2020"
+url = ""
+venue = "Phys. Rev. B"
+author = "Chris E. Mohn, Marcin Krynski"
+
+[[citation]]
+title = "Unveiling the predictive power of static structure in glassy systems"
+year = "2020"
+url = ""
+venue = "Nature Physics"
+author = "V. Bapst, T. Keck, A. Grabska-Barwinska, C. Donner, E. D. Cubuk, S. S. Schoenholz, A. Obika, A. W. R. Nelson, T. Back, D. Hassabis, P. Kohli"
+
 
 +++

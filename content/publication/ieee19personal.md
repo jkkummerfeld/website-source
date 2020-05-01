@@ -52,5 +52,12 @@ url = ""
 venue = "Information Fusion"
 author = "David Camacho, Angel Panizo-LLedot, Gema Bello-Orgaz, Antonio Gonzalez-Pardo, Erik Cambria"
 
+[[citation]]
+title = "A Quantum-Like multimodal network framework for modeling interaction dynamics in multiparty conversational sentiment analysis"
+year = "2020"
+url = ""
+venue = "Information Fusion"
+author = "Yazhou Zhang, Dawei Song, Xiang Li, Peng Zhang, Panpan Wang, Lu Rong, Guangliang Yu, Bo Wang"
+
 
 +++

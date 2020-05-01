@@ -46,6 +46,12 @@ url_slides = ""
 url_video = ""
 url_blog = ""
 
+[[citation]]
+title = "Extracting Personal Information from Conversations"
+year = "2020"
+url = ""
+venue = "WWW"
+author = "Anna Tigunova"
 
 
 +++

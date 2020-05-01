@@ -72,5 +72,12 @@ url = ""
 venue = "CSCW"
 author = "John Joon Young Chung, Jean Y. Song, Sindhu Kutty, Sungsoo (Ray) Hong, Juho Kim, Walter S. Lasecki"
 
+[[citation]]
+title = "Towards Hybrid Human-AI Workflowsfor Unknown Unknown Detection"
+year = "2020"
+url = ""
+venue = "WWW"
+author = "Anthony Z. Liu, Santiago Guerra, Isaac Fung, Gabriel Matute, Ece Kamar, Walter S. Lasecki"
+
 
 +++

@@ -80,5 +80,26 @@ url = "https://www.aclweb.org/anthology/D19-1060"
 venue = "EMNLP"
 author = "Mingda Chen, Zewei Chu, Kevin Gimpel"
 
+[[citation]]
+title = "Sequential Neural Networks for Noetic End-to-End Response Selection"
+year = "2020"
+url = ""
+venue = "CSL"
+author = "Qian Chen, Wen Wang"
+
+[[citation]]
+title = "End-to-End Response Selection Based on Multi-Level Context Response Matching"
+year = "2020"
+url = ""
+venue = "CSL"
+author = "Basma El Amel Boussaha, Nicolas Hernandez, Christine Jacquin, Emmanuel Morin"
+
+[[citation]]
+title = "Software-related Slack Chats with Disentangled Conversations"
+year = "2020"
+url = ""
+venue = "International Conference on Mining Software Repositories: Data Showcase Track"
+author = "Preetha Chatterjee, Kostadin Damevski, Nicholas A. Kraft, and Lori Pollock"
+
 
 +++
