@@ -59,5 +59,12 @@ url = ""
 venue = "Information Fusion"
 author = "Yazhou Zhang, Dawei Song, Xiang Li, Peng Zhang, Panpan Wang, Lu Rong, Guangliang Yu, Bo Wang"
 
+[[citation]]
+title = "Intent Classification for Dialogue Utterances"
+year = "2019"
+url = ""
+venue = "IEEE Intelligent Systems"
+author = "Jetze Schuurmans, Flavius Frasincar"
+
 
 +++

@@ -173,5 +173,19 @@ url = "https://www.ijcai.org/proceedings/2019/0700.pdf"
 venue = "IJCAI"
 author = "Kong Fang, Fu Jian"
 
+[[citation]]
+title = "Automated Generation of Test Suites for Error Analysis of Concept Recognition Systems"
+year = "2014"
+url = "https://www.aclweb.org/anthology/U14-1004/"
+venue = "ALTA"
+author = "Tudor Groza, Karin Verspoor"
+
+[[citation]]
+title = "Graph-Based Lexicon Regularization for PCFG With Latent Annotations"
+year = "2015"
+url = ""
+venue = "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+author = "Xiaodong Zeng, Derek F. Wong, Lidia S. Chao, Isabel Trancoso"
+
 
 +++

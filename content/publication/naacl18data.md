@@ -94,5 +94,19 @@ url = ""
 venue = "IUI"
 author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Fabio Casati, Moshe Chai Barukh, Shayan Zamanirad"
 
+[[citation]]
+title = "Data Query Language and Corpus Tools for Slot-Filling and Intent Classification Data"
+year = "2020"
+url = ""
+venue = "LREC"
+author = "Stefan Larson, Eric Guldan, Kevin Leach"
+
+[[citation]]
+title = "More Diverse Dialogue Datasets via Diversity-Informed Data Collection"
+year = "2020"
+url = ""
+venue = "ACL"
+author = "Katherine Stasaski, Grace Hui Yang, and Marti A. Hearst"
+
 
 +++

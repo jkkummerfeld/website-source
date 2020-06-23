@@ -220,5 +220,12 @@ url = ""
 venue = "The Journal of Physical Chemistry Letters"
 author = "Yu Shu, Yoshio Kono, Itaru Ohira, Quanjun Li, Rostislav Hrubiak, Changyong Park, Curtis Kenney-Benson, Yaanbin Wang, Guoyin Shen"
 
+[[citation]]
+title = "Phase Diagram and Structure Map of Binary Nanoparticle Superlattices from a Lennard-Jones Model"
+year = "2020"
+url = ""
+venue = "ACS Nano"
+author = "Shang Ren, Yang Sun*, Feng Zhang*, Alex Travesset, Cai-Zhuang Wang, and Kai-Ming Ho"
+
 
 +++

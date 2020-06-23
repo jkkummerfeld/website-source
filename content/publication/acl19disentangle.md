@@ -101,5 +101,19 @@ url = ""
 venue = "International Conference on Mining Software Repositories: Data Showcase Track"
 author = "Preetha Chatterjee, Kostadin Damevski, Nicholas A. Kraft, and Lori Pollock"
 
+[[citation]]
+title = "RAP-Net: Recurrent Attention Pooling Networks for Dialogue Response Selection"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Chao-Wei Huang, Ting-Rui Chiang, Shang-Yu Su, Yun-Nung Chen"
+
+[[citation]]
+title = "Learning Multi-Level Information for Dialogue Response Selection by Highway Recurrent Transformer"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Ting-Rui Chiang, Chao-Wei Huang, Shang-Yu Su, Yun-Nung Chen"
+
 
 +++

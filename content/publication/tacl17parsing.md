@@ -83,5 +83,33 @@ url = "https://www.aclweb.org/anthology/P19-1530.pdf"
 venue = "ACL"
 author = "Yoshihide Kato, Shigeki Matsubara"
 
+[[citation]]
+title = "Mind the Gap: Data Enrichment in Dependency Parsing of Elliptical Constructions"
+year = "2018"
+url = "https://www.aclweb.org/anthology/W18-6006"
+venue = "Workshop on Universal Dependencies"
+author = "Kira Droganova, Filip Ginter, Jenna Kanerva, Daniel Zeman"
+
+[[citation]]
+title = "Generalized chart constraints for efficient PCFG and TAG parsing"
+year = "2018"
+url = "https://www.aclweb.org/anthology/P18-2099"
+venue = "ACL"
+author = "Stefan Grünewald, Sophie Henning, Alexander Koller"
+
+[[citation]]
+title = "Sentences with Gapping: Parsing and Reconstructing Elided Predicates"
+year = "2018"
+url = "https://www.aclweb.org/anthology/N18-1105"
+venue = "NAACL"
+author = "Sebastian Schuster, Joakim Nivre, Christopher D. Manning"
+
+[[citation]]
+title = "Global Transition-based Non-projective Dependency Parsing"
+year = "2018"
+url = "https://www.aclweb.org/anthology/P18-1248"
+venue = "ACL"
+author = "Carlos G&oacute;mez-Rodr&iacute;guez, Shi, Tianze Shi, Lillian Lee"
+
 
 +++

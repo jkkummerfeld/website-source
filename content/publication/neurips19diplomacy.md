@@ -48,6 +48,26 @@ url_blog = ""
 url_blog_post = "http://localhost:1313/post/2019-09-13_diplomacynopress/"
 url_supplementary = "https://papers.nips.cc/paper/8697-no-press-diplomacy-modeling-multi-agent-gameplay-supplemental.zip"
 
+[[citation]]
+title = "It Takes Two to Lie: One to Lie, and One to Listen"
+year = "2020"
+url = ""
+venue = "ACL"
+author = "Denis Peskov, Benny Cheng, Ahmed Elgohary, Joe Barrow, Cristian Danescu-Niculescu-Mizil and Jordan Boyd-Graber"
+
+[[citation]]
+title = "Learning to Play No-Press Diplomacy with Best Response Policy Iteration"
+year = "2020"
+url = "https://arxiv.org/abs/2006.04635"
+venue = "arXiv"
+author = "T. C. Anthony, Tom Eccles, Andrea Tacchetti, J&aacute;nos Kram&aacute;r, Ian Gemp, Thomas C. Hudson, Nicolas Porcel, Marc Lanctot, Julien P&eacute;rolat, Richard L. Everett, Satinder Singh, Thore Graepel, Yoram Bachrach"
+
+[[citation]]
+title = "Learning to Resolve Alliance Dilemmas in Many-Player Zero-Sum Games"
+year = "2020"
+url = ""
+venue = "AAMAS"
+author = "Edward Hughes, Thomas W. Anthony, Tom Eccles, Joel Z. Leibo, David Balduzzi, Yoram Bachrach"
 
 
 +++

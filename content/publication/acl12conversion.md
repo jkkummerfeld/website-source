@@ -55,5 +55,12 @@ url = "http://www.aclweb.org/anthology/C12-3067.pdf"
 venue = "CoLing"
 author = "Xiaotian Zhang, Hai Zhao, Cong Hui"
 
+[[citation]]
+title = "Automatic Generation of High Quality {CCG}banks for Parser Domain Adaptation"
+year = "2019"
+url = "https://www.aclweb.org/anthology/P19-1013"
+venue = "ACL"
+author = "Masashi Yoshikawa, Hiroshi Noji, Koji Mineshima, Daisuke Bekki"
+
 
 +++

@@ -1,6 +1,6 @@
 +++
-bibkey = "ws19dstc"
-bibtex = """@InProceedings{ws19dstc,
+bibkey = "ws-neurips-convai19dstc"
+bibtex = """@InProceedings{ws-neurips-convai19dstc,
   title     = {The Eighth Dialog System Technology Challenge},
   author    = {Seokhwan Kim, Michel Galley, Chulaka Gunasekara, Sungjin Lee, Adam Atkinson, Baolin Peng, Hannes Schulz, Jianfeng Gao, Jinchao Li, Mahmoud Adada, Minlie Huang, Luis Lastras, Jonathan K. Kummerfeld, Walter S. Lasecki, Chiori Hori, Anoop Cherian, Tim K. Marks, Abhinav Rastogi, Xiaoxue Zang, Srinivas Sunkara, Raghav Gupta},
   year      = {2019},
@@ -9,6 +9,7 @@ bibtex = """@InProceedings{ws19dstc,
   location  = {Vancouver, Canada},
   month     = {December},
   arxiv     = {https://arxiv.org/abs/1911.06394},
+  data      = {https://github.com/dstc8-track2/NOESIS-II/},
 }
 """
 title = "The Eighth Dialog System Technology Challenge"
@@ -38,7 +39,7 @@ url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1911.06394"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://github.com/dstc8-track2/NOESIS-II/"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -50,6 +51,27 @@ year = "2020"
 url = ""
 venue = "DSTC"
 author = "Yun-Wei Chu, Kuan-Yen Lin, Chao-Chun Hsu, Lun-Wei Ku"
+
+[[citation]]
+title = "Is Your Goal-Oriented Dialog Model Performing Really Well? Empirical Analysis of System-wise Evaluation"
+year = "2020"
+url = ""
+venue = "SigDial"
+author = "Ryuichi Takanobu, Qi Zhu, Jinchao Li, Baolin Peng, Jianfeng Gao, Minlie Huang"
+
+[[citation]]
+title = "End-to-End Neural Pipeline for Goal-Oriented Dialogue System using GPT-2"
+year = "2019"
+url = ""
+venue = "ACL"
+author = "Donghoon Ham, Jeong-Gwan Lee, Youngsoo Jang, Kee-Eung Kim"
+
+[[citation]]
+title = "Adaptability as a skill for goal-oriented dialog systems"
+year = "2020"
+url = ""
+venue = "Traitement Automatique des Langues Naturelles"
+author = "Oralie Cattan"
 
 
 +++

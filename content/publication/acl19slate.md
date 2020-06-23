@@ -53,5 +53,12 @@ url = ""
 venue = "Briefings in Bioinformatics"
 author = "Mariana Neves, Jurica Ševa"
 
+[[citation]]
+title = "Eras: Improving the quality control in the annotation process for Natural Language Processing tasks"
+year = "2020"
+url = ""
+venue = "Information Systems"
+author = "Jonatas S. Grosman, Pedro H.T. Furtado, Ariane M.B. Rodrigues, Guilherme G. Schardong, Simone D.J. Barbosa, Helio C.V. Lopes"
+
 
 +++

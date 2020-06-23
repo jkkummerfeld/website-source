@@ -7,8 +7,9 @@ bibtex = """@article{csl20dstc,
   year      = {2020},
   issn      = {0885-2308},
   doi       = {https://doi.org/10.1016/j.csl.2020.101068},
-  url       = {http://www.jkk.name/csl20dstc.pdf},
+  url       = {http://www.jkk.name/pub/csl20dstc.pdf},
   alt-url   = {http://www.sciencedirect.com/science/article/pii/S0885230820300012},
+  data      = {https://ibm.github.io/dstc-noesis/public/index.html},
   author    = {Luis Fernando D'Haro and Koichiro Yoshino and Chiori Hori and Tim K. Marks and Lazaros Polymenakos and Jonathan K. Kummerfeld and Michel Galley and Xiang Gao},
 }
 """
@@ -34,17 +35,58 @@ math = true
 highlight = false
 image_preview = ""
 selected = false
-url_pdf = "http://www.jkk.name/csl20dstc.pdf"
+url_pdf = "http://www.jkk.name/pub/csl20dstc.pdf"
 url_poster = ""
 url_interview = ""
 url_arxiv = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://ibm.github.io/dstc-noesis/public/index.html"
 url_project = ""
 url_slides = ""
 url_video = ""
 url_blog = ""
 
+[[citation]]
+title = "RAP-Net: Recurrent Attention Pooling Networks for Dialogue Response Selection"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Chao-Wei Huang, Ting-Rui Chiang, Shang-Yu Su, Yun-Nung Chen"
+
+[[citation]]
+title = "Learning Multi-Level Information for Dialogue Response Selection by Highway Recurrent Transformer"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Ting-Rui Chiang, Chao-Wei Huang, Shang-Yu Su, Yun-Nung Chen"
+
+[[citation]]
+title = "Knowledge-Grounded Response Generation with Deep Attentional Latent-Variable Model"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Hao-Tong Ye, Kai-Lin Lo, Shang-Yu Su, Yun-Nung Chen"
+
+[[citation]]
+title = "Cluster-based beam search for pointer-generator chatbot grounded by knowledge"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Yik-Cheung Tam"
+
+[[citation]]
+title = "Investigating Topics, Audio Representations and Attention for Multimodal Scene-Aware Dialog"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Shachi H Kumar, Eda Okur, Saurav Sahay, Jonathan Huang, Lama Nachman"
+
+[[citation]]
+title = "Treating Dialogue Quality Evaluation as an Anomaly Detection Problem"
+year = "2020"
+url = ""
+venue = "LREC"
+author = "Rostislav Nedelchev, Ricardo Usbeck and Jens Lehmann"
 
 
 +++

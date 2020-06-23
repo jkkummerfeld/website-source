@@ -53,5 +53,26 @@ url = ""
 venue = "IEEE Internet Computing"
 author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Fabio Casati, Moshe Chai Barukh, Shayan Zamanirad"
 
+[[citation]]
+title = "Data Query Language and Corpus Tools for Slot-Filling and Intent Classification Data"
+year = "2020"
+url = ""
+venue = "LREC"
+author = "Stefan Larson, Eric Guldan, Kevin Leach"
+
+[[citation]]
+title = "Out-of-Domain Detection for Natural Language Understanding in Dialog Systems"
+year = "2020"
+url = ""
+venue = "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+author = "Yinhe Zheng, Guanyi Chen, Minlie Huang"
+
+[[citation]]
+title = "\"None of the Above\": Measure Uncertainty in Dialog Response Retrieval"
+year = "2020"
+url = "https://www.aclweb.org/anthology/2020.acl-main.182"
+venue = "ACL"
+author = "Yulan Feng, Shikib Mehri, Maxine Eskenazi, Tiancheng Zhao"
+
 
 +++

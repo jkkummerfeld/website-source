@@ -266,13 +266,6 @@ venue = "EMNLP"
 author = "Carlos Gomez-Rodriguez, David Vilares"
 
 [[citation]]
-title = "Natural Language Parsing: Progress and Challenges"
-year = "2018"
-url = ""
-venue = "Boletin de Estadistica e Investigacion Operativa"
-author = "Carlos Gomez-Rodriguez"
-
-[[citation]]
 title = "The status of function words in dependency grammar: A critique of Universal Dependencies (UD)"
 year = "2019"
 url = "http://doi.org/10.5334/gjgl.537"
@@ -299,6 +292,118 @@ year = "2017"
 url = ""
 venue = "The Prague Bulletin of Mathematical Linguistics"
 author = "Anita Ramm, Riccardo Superbo, Dimitar Shterionov, Tony O'Dowd, Alexander Fraser"
+
+[[citation]]
+title = "Using Prosody to Improve Dependency Parsing"
+year = "2020"
+url = ""
+venue = "International Conference on Speech Prosody"
+author = "Hussein Ghaly, Michael Mandel"
+
+[[citation]]
+title = "Travatar: A Forest-to-String Machine Translation Engine based on Tree Transducers"
+year = "2013"
+url = "https://www.aclweb.org/anthology/P13-4016/"
+venue = "ACL"
+author = "Graham Neubig"
+
+[[citation]]
+title = "Behavior Analysis of NLI Models: Uncovering the Influence of Three Factors on Robustness"
+year = "2018"
+url = "https://www.aclweb.org/anthology/N18-1179/"
+venue = "NAACL"
+author = "Vicente Ivan Sanchez Carmona, Jeff Mitchell, Sebastian Riedel"
+
+[[citation]]
+title = "Better, Faster, Stronger Sequence Tagging Constituent Parsers"
+year = "2019"
+url = "https://www.aclweb.org/anthology/N19-1341/"
+venue = "NAACL"
+author = "David Vilares, Mostafa Abdou, Anders Sogaard"
+
+[[citation]]
+title = "Semi-supervised Relation Extraction from Monolingual Dictionary for Russian WordNet"
+year = "2017"
+url = ""
+venue = "CICLing"
+author = "Daniil Alexeyevsky"
+
+[[citation]]
+title = "A New Tool for Benchmarking and Assessing Arabic Syntactic Parsers"
+year = "2017"
+url = ""
+venue = "ICALP: Arabic Language Processing: From Theory to Practice"
+author = "Younes JaafarEmail authorKarim Bouzoubaa"
+
+[[citation]]
+title = "Improving Shift‐Reduce Phrase‐Structure Parsing with Constituent Boundary Information"
+year = "2016"
+url = ""
+venue = "Computational Intelligence"
+author = "Wenliang Chen, Muhua Zhu, Min Zhang, Yue Zhang, Jingbo Zhu"
+
+[[citation]]
+title = "Unlexicalized Transition-based Discontinuous Constituency Parsing"
+year = "2019"
+url = "https://www.aclweb.org/anthology/Q19-1005/"
+venue = "TACL"
+author = "Maximin Coavoux, Benoît Crabbé and Shay B. Cohen"
+
+[[citation]]
+title = "Neural Reranking Improves Subjective Quality of Machine Translation: NAIST at WAT2015"
+year = "2015"
+url = ""
+venue = "WAT"
+author = "Graham Neubig, Makoto Morishita, Satoshi Nakamura"
+
+[[citation]]
+title = "Modeling Selectional Preferences of Verbs and Nouns in String-to-Tree Machine Translation"
+year = "2016"
+url = "https://www.aclweb.org/anthology/W16-2204/"
+venue = "CMT"
+author = "Maria Nădejde, Alexandra Birch, Philipp Koehn"
+
+[[citation]]
+title = "Towards Replicability in Parsing"
+year = "2017"
+url = "https://www.aclweb.org/anthology/R17-1026/"
+venue = "RANLP"
+author = "Daniel Dakota, Sandra Kübler"
+
+[[citation]]
+title = "Automated Generation of Test Suites for Error Analysis of Concept Recognition Systems"
+year = "2014"
+url = "https://www.aclweb.org/anthology/U14-1004/"
+venue = "ALTA"
+author = "Tudor Groza, Karin Verspoor"
+
+[[citation]]
+title = "Graph-Based Lexicon Regularization for PCFG With Latent Annotations"
+year = "2015"
+url = ""
+venue = "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+author = "Xiaodong Zeng, Derek F. Wong, Lidia S. Chao, Isabel Trancoso"
+
+[[citation]]
+title = "Embedding Syntax and Semantics of Prepositions via Tensor Decomposition"
+year = "2018"
+url = "https://www.aclweb.org/anthology/N18-1082"
+venue = "NAACL"
+author = "Hongyu Gong, Suma Bhat, Pramod Viswanath"
+
+[[citation]]
+title = "Valency-Augmented Dependency Parsing"
+year = "2018"
+url = "https://www.aclweb.org/anthology/D18-1159"
+venue = "EMNLP"
+author = "Tianze Shi, Lillian Lee"
+
+[[citation]]
+title = "Distributional regularities of verbs and verbal adjectives: Treebank evidence and broader implications"
+year = "2017"
+url = "https://www.aclweb.org/anthology/W17-7603"
+venue = "IWTLT"
+author = "Daniël de Kok, Patricia Fischer, Corina Dima, Erhard Hinrichs"
 
 
 +++

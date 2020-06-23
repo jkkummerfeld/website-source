@@ -1,6 +1,6 @@
 +++
-bibkey = "dstc19task1"
-bibtex = """@InProceedings{dstc19task1,
+bibkey = "ws-aaai-dstc19task1"
+bibtex = """@InProceedings{ws-aaai-dstc19task1,
   title     = {DSTC7 Task 1: Noetic End-to-End Response Selection},
   author    = {Chulaka Gunasekara and Jonathan K. Kummerfeld and Lazaros Polymenakos and Walter S. Lasecki},
   year      = {2019},
@@ -8,6 +8,7 @@ bibtex = """@InProceedings{dstc19task1,
   month     = {January},
   url       = {http://www.jkk.name/pub/ws18dstc_task1.pdf},
   alt-url   = {http://workshop.colips.org/dstc7/papers/dstc7_task1_final_report.pdf},
+  data      = {https://ibm.github.io/dstc-noesis/public/index.html},
 }
 """
 title = "DSTC7 Task 1: Noetic End-to-End Response Selection"
@@ -37,7 +38,7 @@ url_poster = ""
 url_interview = ""
 url_arxiv = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://ibm.github.io/dstc-noesis/public/index.html"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -63,6 +64,41 @@ year = "2020"
 url = ""
 venue = "Computer Speech & Language"
 author = "Basma El Amel Boussaha, Nicolas Hernandez, Christine Jacquin, Emmanuel Morin"
+
+[[citation]]
+title = "Learning Multi-Level Information for Dialogue Response Selection by Highway Recurrent Transformer"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Ting-Rui Chiang, Chao-Wei Huang, Shang-Yu Su, Yun-Nung Chen"
+
+[[citation]]
+title = "Learning Multi-Level Information for Dialogue Response Selection by Highway Recurrent Transformer"
+year = "2020"
+url = ""
+venue = "Computer Speech and Language"
+author = "Ting-Rui Chiang, Chao-Wei Huang, Shang-Yu Su, Yun-Nung Chen"
+
+[[citation]]
+title = "Evaluating Dialogue Generation Systems via Response Selection"
+year = "2020"
+url = ""
+venue = "ACL"
+author = "Shiki Sato, Reina Akama, Hiroki Ouchi, Jun Suzuki, Kentaro Inui"
+
+[[citation]]
+title = "\"None of the Above\": Measure Uncertainty in Dialog Response Retrieval"
+year = "2020"
+url = "https://www.aclweb.org/anthology/2020.acl-main.182"
+venue = "ACL"
+author = "Yulan Feng, Shikib Mehri, Maxine Eskenazi, Tiancheng Zhao"
+
+[[citation]]
+title = "Experiences and Insights for Collaborative Industry–Academic Research in Artificial Intelligence"
+year = "2020"
+url = ""
+venue = "AI Magazine"
+author = "Lisa Amini, Ching-Hua Chen, David Cox, Aude Oliva, Antonio Torralba"
 
 
 +++

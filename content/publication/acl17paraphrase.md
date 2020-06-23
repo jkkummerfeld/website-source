@@ -140,5 +140,19 @@ url = ""
 venue = "IEEE Internet Computing"
 author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Fabio Casati, Moshe Chai Barukh, Shayan Zamanirad"
 
+[[citation]]
+title = "Emotional Speech Corpus for Persuasive Dialogue System"
+year = "2020"
+url = ""
+venue = "LREC"
+author = "Sara Asai, Koichiro Yoshino, Seitaro Shinagawa, Sakriani Sakti, Satoshi Nakamura"
+
+[[citation]]
+title = "C-Reference: Improving 2D to 3D Object Pose Estimation Accuracy via Crowdsourced Joint Object Estimation"
+year = "2020"
+url = ""
+venue = "CSCW"
+author = "Jean Y. Song, John Joon Young Chung, David F. Fouhey, Walter S. Lasecki"
+
 
 +++

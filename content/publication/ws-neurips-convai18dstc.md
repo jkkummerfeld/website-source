@@ -1,6 +1,6 @@
 +++
-bibkey = "ws18dstc"
-bibtex = """@InProceedings{ws18dstc,
+bibkey = "ws-neurips-convai18dstc"
+bibtex = """@InProceedings{ws-neurips-convai18dstc,
   title     = {Dialog System Technology Challenge 7},
   author    = {Koichiro Yoshino and Chiori Hori and Julien Perez and Luis Fernando D'Haro and Lazaros Polymenakos and Chulaka Gunasekara and Walter S. Lasecki and Jonathan K. Kummerfeld and Michel Galley and Chris Brockett and Jianfeng Gao and Bill Dolan and Xiang Gao and Huda Alamari and Tim K. Marks and Devi Parikh and Dhruv Batra},
   year      = {2018},
@@ -9,6 +9,7 @@ bibtex = """@InProceedings{ws18dstc,
   location  = {Montreal, Quebec, Canada},
   month     = {December},
   arxiv     = {https://arxiv.org/abs/1901.03461},
+  data      = {https://ibm.github.io/dstc-noesis/public/index.html},
 }
 """
 title = "Dialog System Technology Challenge 7"
@@ -38,7 +39,7 @@ url_poster = ""
 url_interview = ""
 url_arxiv = "https://arxiv.org/abs/1901.03461"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://ibm.github.io/dstc-noesis/public/index.html"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -190,6 +191,13 @@ year = "2020"
 url = ""
 venue = "SIGIR"
 author = "Amir Vakili Tahami, Kamyar Ghajar, Azadeh Shakery"
+
+[[citation]]
+title = "Is this Dialogue Coherent? Learning from Dialogue Acts and Entities"
+year = "2020"
+url = ""
+venue = "SigDial"
+author = "Alessandra Cervone, Giuseppe Riccardi"
 
 
 +++

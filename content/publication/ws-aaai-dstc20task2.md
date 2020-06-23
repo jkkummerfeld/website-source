@@ -1,12 +1,13 @@
 +++
-bibkey = "dstc20task2"
-bibtex = """@InProceedings{dstc20task2,
+bibkey = "ws-aaai-dstc20task2"
+bibtex = """@InProceedings{ws-aaai-dstc20task2,
   title     = {NOESIS II: Predicting Responses, Identifying Success, and Managing Complexity in Task-Oriented Dialogue},
   author    = {Chulaka Gunasekara and Jonathan K. Kummerfeld and Luis Lastras and and Walter S. Lasecki},
   year      = {2020},
   booktitle = {8th Edition of the Dialog System Technology Challenges at AAAI 2019},
   month     = {January},
   url       = {http://www.jkk.name/pub/dstc20task2.pdf},
+  data      = {https://github.com/dstc8-track2/NOESIS-II/},
 }
 """
 title = "NOESIS II: Predicting Responses, Identifying Success, and Managing Complexity in Task-Oriented Dialogue"
@@ -36,7 +37,7 @@ url_poster = ""
 url_interview = ""
 url_arxiv = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://github.com/dstc8-track2/NOESIS-II/"
 url_project = ""
 url_slides = ""
 url_video = ""

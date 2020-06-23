@@ -1,6 +1,6 @@
 +++
-bibkey = "ws19voids"
-bibtex = """@InProceedings{ws19voids,
+bibkey = "ws-cscw19voids"
+bibtex = """@InProceedings{ws-cscw19voids,
   title     = {Training Data Voids: Novel Attacks Against NLP Content Moderation},
   author    = {Jordan S. Huffaker and Jonathan K. Kummerfeld and Walter S. Lasecki and Mark S. Ackerman},
   year      = {2019},

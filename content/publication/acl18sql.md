@@ -153,5 +153,33 @@ url = ""
 venue = "WWW"
 author = "Ping Wang, Tian Shi, Chandan K. Reddy"
 
+[[citation]]
+title = "Syntactic Question Abstraction and Retrieval for Data-Scarce Semantic Parsing"
+year = "2020"
+url = ""
+venue = "AKBC"
+author = "Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Minjoon Seo"
+
+[[citation]]
+title = "Recent Advances in SQL Query Generation: A Survey"
+year = "2020"
+url = ""
+venue = "17th International Conference on Informatics and Information Technologies"
+author = "Jovan Kalajdjieski, Martina Toshevska and Frosina Stojanovska"
+
+[[citation]]
+title = "DBPal: A Fully Pluggable NL2SQL Training Pipeline"
+year = "202"
+url = ""
+venue = "Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data"
+author = "Nathaniel Weir, Prasetya Utama, Alex Galakatos, Andrew Crotty, Amir Ilkhechi, Shekar Ramaswamy, Rohin Bhushan, Nadja Geisler, Benjamin H{\"a}ttasch, Steffen Eger, Ugur Çetintemel, Carsten Binnig"
+
+[[citation]]
+title = "Efficient Deployment ofC onversational Natural Language Interfaces over Databases"
+year = "2020"
+url = ""
+venue = "ACL Workshop on NLI"
+author = "Anthony Colas, Trung Bui, Franck Dernoncourt, Moumita Sinha, Doo Soon Kim"
+
 
 +++

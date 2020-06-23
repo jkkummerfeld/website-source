@@ -164,5 +164,33 @@ url = ""
 venue = "ACL"
 author = "Ryokan Ri, Yoshimasa Tsuruoka"
 
+[[citation]]
+title = "Towards Understanding the Instability of Network Embedding"
+year = "2020"
+url = ""
+venue = "Transactions on Knowledge and Data Engineering"
+author = "Chenxu Wang, Wei Rao, Wenna Guo, Pinghui Wang, Jun Liu, Xiaohong Guan"
+
+[[citation]]
+title = "Stolen Probability: A Structural Weakness of Neural Language Models"
+year = "2020"
+url = ""
+venue = "ACL"
+author = "David Demeter, Gregory Kimmel, Doug Downey"
+
+[[citation]]
+title = "On the Influence of Coreference Resolution on Word Embeddings in Lexical-semantic Evaluation Tasks"
+year = "2020"
+url = ""
+venue = "LREC"
+author = "Alexander Henlein, Alexander Mehler"
+
+[[citation]]
+title = "SAMPO: Unsupervised Knowledge Base Construction for Opinions and Implications"
+year = "2020"
+url = ""
+venue = "AKBC"
+author = "Nikita Bhutani, Aaron Traylor, Chen Chen, Xiaolan Wang, Behzad Golshan, Wang-Chiew Tan"
+
 
 +++

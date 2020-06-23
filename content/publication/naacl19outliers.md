@@ -53,5 +53,19 @@ url = ""
 venue = "IEEE Internet Computing"
 author = "Mohammad-Ali Yaghoub-Zadeh-Fard, Boualem Benatallah, Fabio Casati, Moshe Chai Barukh, Shayan Zamanirad"
 
+[[citation]]
+title = "Treating Dialogue Quality Evaluation as an Anomaly Detection Problem"
+year = "2020"
+url = ""
+venue = "LREC"
+author = "Rostislav Nedelchev, Ricardo Usbeck and Jens Lehmann"
+
+[[citation]]
+title = "More Diverse Dialogue Datasets via Diversity-Informed Data Collection"
+year = "2020"
+url = ""
+venue = "ACL"
+author = "Katherine Stasaski, Grace Hui Yang, and Marti A. Hearst"
+
 
 +++

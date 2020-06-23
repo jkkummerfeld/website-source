@@ -1,6 +1,6 @@
 +++
-bibkey = "ws19nlp-convai"
-bibtex = """@InProceedings{ws19nlp-convai,
+bibkey = "ws-acl-convai19dstc7"
+bibtex = """@InProceedings{ws-acl-convai19dstc7,
   title     = {DSTC7 Task 1: Noetic End-to-End Response Selection},
   author    = {Chulaka Gunasekara and Jonathan K. Kummerfeld and Lazaros Polymenakos and Walter S. Lasecki},
   year      = {2019},
@@ -8,6 +8,7 @@ bibtex = """@InProceedings{ws19nlp-convai,
   url       = {http://www.jkk.name/pub/ws19nlp-convai.pdf},
   location  = {Florence, Italy},
   month     = {July},
+  data      = {https://ibm.github.io/dstc-noesis/public/index.html},
 }
 """
 title = "DSTC7 Task 1: Noetic End-to-End Response Selection"
@@ -37,7 +38,7 @@ url_poster = ""
 url_interview = ""
 url_arxiv = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://ibm.github.io/dstc-noesis/public/index.html"
 url_project = ""
 url_slides = ""
 url_video = ""

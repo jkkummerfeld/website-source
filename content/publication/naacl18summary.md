@@ -79,5 +79,12 @@ url = ""
 venue = "WWW"
 author = "Anthony Z. Liu, Santiago Guerra, Isaac Fung, Gabriel Matute, Ece Kamar, Walter S. Lasecki"
 
+[[citation]]
+title = "C-Reference: Improving 2D to 3D Object Pose Estimation Accuracy via Crowdsourced Joint Object Estimation"
+year = "2020"
+url = ""
+venue = "CSCW"
+author = "Jean Y. Song, John Joon Young Chung, David F. Fouhey, Walter S. Lasecki"
+
 
 +++
