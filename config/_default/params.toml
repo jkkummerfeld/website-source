@@ -244,6 +244,12 @@ plugins_js  = []
   #   2: Algolia (https://www.algolia.com)
   engine = 1
 
+  page_name = "Jonathan K. Kummerfeld's HomePage"
+  author = "Jonathan K. Kummerfeld"
+
+  # A short description
+  description = "I am a Postdoctoral Research Fellow, working at the University of Michigan, in Computer Science and Engineering on projects at the intersection of Natural Language Processing and Crowdsourcing."
+
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]

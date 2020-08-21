@@ -18,6 +18,10 @@ copyright = "&copy; {year} Jonathan K. Kummerfeld"
 ## Advanced options below ##
 ############################
 
+# Stuff for search engines
+enableRobotsTXT = true
+canonifyURLs = true
+
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
