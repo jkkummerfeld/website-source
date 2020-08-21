@@ -1,36 +1,14 @@
-Update blog post on conferences:
-- https://twitter.com/jkkummerfeld/status/1175843866878066689
-
-Claim and add link to:
-https://dl.acm.org/author_page.cfm?id=81470655916
 
 
 Add links to:
 - ACL anthology profile https://www.aclweb.org/anthology/people/j/jonathan-k-kummerfeld/
-Change links to also say the name of the place:
-Twitter [image]
-Google [image]
-etc
-
-
-
-
-
-
-
+- ACM (also claim the profile?) https://dl.acm.org/author_page.cfm?id=81470655916
 
 Change paging of lists of posts, so they don't get updated every time a post is added. Maybe switch to year-month specific pages?
-
-Add "more posts" after the last post in 'recent posts'
-
-Finish adding links to citations
 
 Look into an affix menu for publication years:
 https://getbootstrap.com/docs/3.3/javascript/#affix-events
 
-Try to add a small menu at the top of publications, to filter to a particular year, like in the projects widget or in the publications section.
-
-
-This is a nice blog post about an approach to reading papers that fits what I am doing:
-http://www.theexclusive.org/2017/11/read-a-paper.html
+Try to add a small menu at the top of publications, to filter to a particular
+year, like in the projects widget or in the publications section.
 
