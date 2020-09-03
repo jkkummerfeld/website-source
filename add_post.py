@@ -15,7 +15,7 @@ args = parser.parse_args()
 
 # Determine name based on current date
 now = datetime.datetime.now()
-name = "{}-{:>02}-{:>02}_{}.md".format(now.year, now.month, now.day, args.name)
+name = "{}-{:>02}-{:>02}_{}".format(now.year, now.month, now.day, args.name)
 
 # Get bib file from online
 assert(args.bib.startswith("file:///") or args.bib.startswith("http"))
@@ -30,7 +30,7 @@ if 'link' in current:
     url = current['link']
 
 # Make 
-filename = subprocess.run(["hugo", "new", "post/"+ name], stdout=subprocess.PIPE, encoding="ascii").stdout
+filename = subprocess.run(["hugo", "new", "post/"+ name +"/index.md"], stdout=subprocess.PIPE, encoding="ascii").stdout
 filename = filename.strip().split()[0]
 content = open(filename).readlines()
 

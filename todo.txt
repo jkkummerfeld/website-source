@@ -1,7 +1,6 @@
 
 
 Add links to:
-- ACL anthology profile https://www.aclweb.org/anthology/people/j/jonathan-k-kummerfeld/
 - ACM (also claim the profile?) https://dl.acm.org/author_page.cfm?id=81470655916
 
 Change paging of lists of posts, so they don't get updated every time a post is added. Maybe switch to year-month specific pages?
@@ -9,6 +8,4 @@ Change paging of lists of posts, so they don't get updated every time a post is 
 Look into an affix menu for publication years:
 https://getbootstrap.com/docs/3.3/javascript/#affix-events
 
-Try to add a small menu at the top of publications, to filter to a particular
-year, like in the projects widget or in the publications section.
-
+Update links to arxiv papers in blog posts where there is a conference version now
