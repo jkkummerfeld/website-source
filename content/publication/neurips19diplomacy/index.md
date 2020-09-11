@@ -19,7 +19,7 @@ authors:
 - Yuchen Lu
 - Steven Bocco
 - Max O. Smith
-- Satya Ortiz-Gagn&eacute;
+- Satya Ortiz-Gagné
 - admin
 - Joelle Pineau
 - Satinder Singh
@@ -96,7 +96,7 @@ citations:
   year: 2020
   url: "https://arxiv.org/abs/2006.04635"
   venue: arXiv
-  authors: T. C. Anthony, Tom Eccles, Andrea Tacchetti, J&aacute;nos Kram&aacute;r, Ian Gemp, Thomas C. Hudson, Nicolas Porcel, Marc Lanctot, Julien P&eacute;rolat, Richard L. Everett, Satinder Singh, Thore Graepel, Yoram Bachrach
+  authors: T. C. Anthony, Tom Eccles, Andrea Tacchetti, János Kramár, Ian Gemp, Thomas C. Hudson, Nicolas Porcel, Marc Lanctot, Julien Pérolat, Richard L. Everett, Satinder Singh, Thore Graepel, Yoram Bachrach
 - title: Learning to Resolve Alliance Dilemmas in Many-Player Zero-Sum Games
   year: 2020
   url: 

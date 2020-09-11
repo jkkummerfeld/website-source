@@ -199,7 +199,7 @@ citations:
   year: 2017
   url: "https://www.aclweb.org/anthology/W17-1502"
   venue: "Workshop on Coreference Resolution Beyond {O}nto{N}otes"
-  authors: Ander Soraluze, Olatz Arregi, Xabier Arregi, Arantza D&iacute;az de Ilarraza
+  authors: Ander Soraluze, Olatz Arregi, Xabier Arregi, Arantza Díaz de Ilarraza
 - title: Examining the Impact of Coreference Resolution on Quote Attribution
   year: 2013
   url: "https://www.aclweb.org/anthology/U13-1007"

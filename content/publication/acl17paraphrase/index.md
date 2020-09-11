@@ -77,7 +77,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1704.05753
 
-citation_count: 17
+citation_count: 18
 citations:
 - title: Effective Crowdsourced Generation of Training Data for Chatbots Natural Language Understanding
   year: 2018
@@ -164,6 +164,11 @@ citations:
   url: "https://www.aclweb.org/anthology/D19-5503"
   venue: W-NUT
   authors: Christian Federmann, Oussama Elachqar, Chris Quirk
+- title: A chatbot response generation system
+  year: 2020
+  url: 
+  venue: Conference on Mensch und Computer
+  authors: Jasper Feine, Stefan Morana, Alexander D. Maedche
 
 
 ---

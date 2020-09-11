@@ -82,7 +82,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1708.09609
 
-citation_count: 9
+citation_count: 10
 citations:
 - title: "You Are Your Photographs: Detecting Multiple Identities of Vendors in the Darknet Marketplaces"
   year: 2018
@@ -125,6 +125,11 @@ citations:
   venue: IMC
   authors: Sergio Pastrana, Alice Hutchings, Daniel R. Thomas, Juan E. E. Tapiador
 - title: "Proactively Identifying Emerging Hacker Threats from the Dark Web: A Diachronic Graph Embedding Framework (D-GEF)"
+  year: 2020
+  url: 
+  venue: ACM Transactions on Privacy and Security (TOPS)
+  authors: Sagar Samtani, Hongyi Zhu, Hsinchun Chen
+- title: Proactively Identifying Emerging Hacker Threats from the Dark Web
   year: 2020
   url: 
   venue: ACM Transactions on Privacy and Security (TOPS)

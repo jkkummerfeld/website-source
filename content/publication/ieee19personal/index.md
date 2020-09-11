@@ -16,7 +16,7 @@ archival: true
 
 authors: 
 - Charles Welch
-- Ver&oacute;nica P&eacute;rez-Rosas
+- Verónica Pérez-Rosas
 - admin
 - Rada Mihalcea
 

@@ -74,7 +74,7 @@ url_blog:
 
 links: 
 
-citation_count: 16
+citation_count: 17
 citations:
 - title: Improving mention detection for Basque based on a deep error analysis
   year: 2016
@@ -119,6 +119,11 @@ citations:
   url: 
   venue: LREC
   authors: Chris Madge, Massimo Poesio, Udo Kruschwitz and Jon Chamberlain
+- title: Mention Detection Using Pointer Networks for Coreference Resolution
+  year: 2017
+  url: 
+  venue: ETRI Journal
+  authors: Cheoneum Park, Changki Lee, Soojong Lim
 - title: "Annotating a broad range of anaphoric phenomena, in a variety of genres: the ARRAU Corpus"
   year: 2020
   url: 

@@ -75,7 +75,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1804.09692
 
-citation_count: 33
+citation_count: 34
 citations:
 - title: "Subcharacter information in japanese embeddings: when is it worth it?"
   year: 2018
@@ -96,7 +96,7 @@ citations:
   year: 2019
   url: "https://www.aclweb.org/anthology/W19-0510.pdf"
   venue: Proceedings of the 13th International Conference on Computational Semantics - Short Papers
-  authors: B&eacute;n&eacute;dicte Pierrejean, Ludovic Tanguy
+  authors: Bénédicte Pierrejean, Ludovic Tanguy
 - title: "Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection"
   year: 2019
   url: "https://www.aclweb.org/anthology/W19-2501.pdf"
@@ -176,7 +176,7 @@ citations:
   year: 2020
   url: "https://www.aclweb.org/anthology/2020.acl-main.51"
   venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
-  authors: Hila Gonen, Ganesh Jawahar, Djam&eacute; Seddah, Yoav Goldberg
+  authors: Hila Gonen, Ganesh Jawahar, Djamé Seddah, Yoav Goldberg
 - title: The Influence of Down-Sampling Strategies on SVD Word Embedding Stability
   year: 2019
   url: "https://www.aclweb.org/anthology/W19-2003"
@@ -242,6 +242,11 @@ citations:
   url: 
   venue: 
   authors: Johannes Hellrich
+- title: Medical Information Extraction in the Age of Deep Learning
+  year: 2020
+  url: 
+  venue: Yearbook of Medical Informatics
+  authors: Udo Hahn, Michel Oleynik
 
 
 ---

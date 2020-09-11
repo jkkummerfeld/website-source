@@ -122,7 +122,7 @@ citations:
   year: 2018
   url: "https://www.aclweb.org/anthology/P18-1248"
   venue: ACL
-  authors: Carlos G&oacute;mez-Rodr&iacute;guez, Shi, Tianze Shi, Lillian Lee
+  authors: Carlos Gómez-Rodríguez, Shi, Tianze Shi, Lillian Lee
 
 
 ---
