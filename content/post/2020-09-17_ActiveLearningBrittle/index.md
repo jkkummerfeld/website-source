@@ -46,6 +46,7 @@ This is still an interesting result, but I'm left with a few questions:
 - What about using a hybrid approach, with some data sampled iid and other data sampled randomly?
 
 Overall, what I take away from this work is that active learning may not be the right choice for building a small dataset in NLP.
+For large datasets, building models, or other tasks and domains the conclusions are less clear, though it is certainly worth being aware of the risk that a dataset made with active learning may not be equally useful to all models.
 
 ## Citation
 
