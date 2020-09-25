@@ -5,8 +5,8 @@ title: "Practical Obstacles to Deploying Active Learning (Lowell, et al., EMNLP 
 subtitle: ""
 summary: "Training models requires massive amounts of labeled data.  We usually sample data iid from the target domain (e.g. newspapers), but it seems intuitive that this means we wast effort labeling samples that are obvious or easy and so not informative during training.  Active Learning follows that intuition, labeling data incrementally, selecting the next example(s) to label based on what a model considers uncertain.  Lots of work has shown this can be effective for that model, but if the labeled dataset is then used to train another model will it also do well?"
 authors: []
-tags: []
-categories: ["paper", "annotation"]
+tags: ["paper", "annotation"]
+categories: []
 date: 2020-09-17T15:08:35-05:00
 lastmod: 2020-09-17T15:08:35-05:00
 featured: false
