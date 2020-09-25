@@ -69,6 +69,8 @@ Maybe targeted re-annotation could be used to add them to PropBank (identifying 
 
 [Code](https://github.com/plroit/qasrl-gs)
 
+[My Tweet](https://twitter.com/jkkummerfeld/status/1309592830537543681?s=20)
+
 ```bibtex
 @inproceedings{roit-etal-2020-controlled,
     title = "Controlled Crowdsourcing for High-Quality {QA}-{SRL} Annotation",
