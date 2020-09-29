@@ -83,7 +83,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1909.02027
 
-citation_count: 5
+citation_count: 7
 citations:
 - title: "User Utterance Acquisition for Training Task-Oriented Bots: A Review of Challenges, Techniques and Opportunities"
   year: 2020
@@ -110,6 +110,16 @@ citations:
   url: 
   venue: "ICML Workshop: Uncertainty and Robustness in Deep Learning"
   authors: Shreyas Padhy, Zachary Nado, Jie Ren, Jeremiah Liu, Jasper Snoek, Balaji Lakshminarayanan
+- title: "KLOOS: KL Divergence-based Out-of-Scope Intent Detection in Human-to-Machine Conversations"
+  year: 2020
+  url: 
+  venue: SIGIR
+  authors: Eyup Halit Yilmaz, Cagri Toraman
+- title: "Using Optimal Embeddings to Learn New Intents with Few Examples: An Application in the Insurance Domain"
+  year: 2020
+  url: 
+  venue: "KDD: Workshop on Conversational Systems Towards Mainstream Adoption"
+  authors: Shailesh Acharya, Glenn Fung
 
 
 ---

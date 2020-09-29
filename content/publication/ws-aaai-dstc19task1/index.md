@@ -74,7 +74,7 @@ url_blog:
 
 links: 
 
-citation_count: 9
+citation_count: 10
 citations:
 - title: Extracting Dialog Structure and Latent Beliefs from Dialog Corpus
   year: 2019
@@ -121,6 +121,11 @@ citations:
   url: 
   venue: KDD Workshop on Conversational Systems Towards Mainstream Adoption
   authors: Gustavo Penha, Claudia Hauff
+- title: Distilling Knowledge for Fast Retrieval-based Chat-bots
+  year: 2020
+  url: 
+  venue: SIGIR
+  authors: Amir Vakili Tahami, Kamyar Ghajar, Azadeh Shakery
 
 
 ---

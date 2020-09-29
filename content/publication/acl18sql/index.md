@@ -79,7 +79,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1806.09029
 
-citation_count: 41
+citation_count: 42
 citations:
 - title: Dependency-based Hybrid Trees for Semantic Parsing
   year: 2018
@@ -286,6 +286,11 @@ citations:
   url: 
   venue: IJCAI
   authors: Yu Zeng, Yan Gao, Jiaqi Guo, Bei Chen, Qian Liu, Jian-Guang Lou, Fei Teng, Dongmei Zhang
+- title: "Automatic Extraction of Legal Norms: Evaluation of Natural Language Processing Tools"
+  year: 2019
+  url: 
+  venue: New Frontiers in Artificial Intelligence
+  authors: Gabriela Ferraro, Ho-Pun Lam, Silvano Colombo Tosatto, Francesco Olivieri, Mohammad Badiul Islam, Nick van Beest, Guido Governatori
 
 
 ---

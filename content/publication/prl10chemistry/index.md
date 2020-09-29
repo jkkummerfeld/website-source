@@ -79,7 +79,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/0912.0193
 
-citation_count: 43
+citation_count: 44
 citations:
 - title: "Structural phases in non-additive soft-disk mixtures: Glasses, substitutional order, and random tilings"
   year: 2011
@@ -295,6 +295,11 @@ citations:
   url: 
   venue: Nature Physics
   authors: V. Bapst, T. Keck, A. Grabska-Barwinska, C. Donner, E. D. Cubuk, S. S. Schoenholz, A. Obika, A. W. R. Nelson, T. Back, D. Hassabis, P. Kohli
+- title: Local Dynamics of Excitations in Glassy Liquids
+  year: 2020
+  url: 
+  venue: Journal of the Korean Physical Society
+  authors: H. T. Lee, J. Landy, J. U. Kim, Y. S. Jho
 
 
 ---
