@@ -30,7 +30,7 @@ projects: []
 
 This paper explores two questions.
 First, what is the impact of a few key design decisions for word embeddings in language models?
-Second, based on the first answer, how can we improve results in the situation where we have 50 million+ words of text, but only 1 GPU for training?
+Second, based on the first answer, how can we improve results in the situation where we have 10 million+ words of text, but only 1 GPU for training?
 
 ## The impact of tying, freezing, and pretraining
 
