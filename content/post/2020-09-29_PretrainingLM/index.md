@@ -61,7 +61,9 @@ Freezing the output embeddings, even with a good embedding space, leads to terri
 In contrast, freezing input embeddings is fine if they are pretrained, and has a far smaller impact when they are random.
 
 Evaluating with rare words, the big picture is mostly the same, but pretraining has a bigger impact.
-Not only that, but when pretraining data is used it is better to freeze the input embeddings (if everything else is the same).
+One interesting difference is that the top five models all use pretrained input embeddings, with a large gap from there to the next results.
+At the same time, pretraining the output embeddings seems to have only a small impact (when holding all other variables fixed).
+Finally, the best results freeze the input embeddings.
 Our explanation is that embeddings become inconsistent when they aren't frozen.
 The vectors for words in the training set are moved but the ones seen only in pretraining stay where they are, leading to an inconsistent embedding space.
 
@@ -78,7 +80,7 @@ So if your application works with BPE this finding isn't useful, but for word-le
 
 A few notes about this work:
 
-- A natural next step would be to explore ways to train the langauge model with more data.
+- A natural next step would be to explore ways to train the language model with more data.
 Modifying the AWD-LSTM code to support training sets larger than GPU memory could render pretraining unnecessary (though at the cost of much longer training).
 In some experiments (not in the paper), we found that when the pretraining set and training set were the same, pretraining didn't improve performance, but it did speed up training.
 - Properties of evaluation datasets have shaped the direction of work on language modeling.
@@ -112,20 +114,6 @@ In particular, reviewers need to give something of substance to be responded to 
 
 ## Tables in written form
 
-### Final results table
-
-Models with word level evaluation, giving development results then test results:
-- N-Gram, 92.3, 95.0
-- Baseline AWD-LSTM, 52.8, 53.5
-- Our approach, 49.0, 49.4
-
-Models with BPE evaluation:
-- N-Gram, 56.7, 55.3
-- GPT-2 (112m), 46.4, 43.8
-- Baseline AWD-LSTM, 37.8, 36.7
-- Our approach, 38.3, 37.2
-- GPT-2 (774m), 32.5, 33.7
-
 ### Table with training variations
 
 Each section is presented separately below, with the model described using five words followed by the result on the standard data and the result on the data with rare words.
@@ -157,6 +145,20 @@ Fourth section:
 - tied   unfrozen dice  unfrozen dice, 61.3, 112  
 - untied frozen   train unfrozen dice, 61.1, 98.1 
 - tied   unfrozen train unfrozen train, 59.8, 98.7 
+
+### Final results table
+
+Models with word level evaluation, giving development results then test results:
+- N-Gram, 92.3, 95.0
+- Baseline AWD-LSTM, 52.8, 53.5
+- Our approach, 49.0, 49.4
+
+Models with BPE evaluation:
+- N-Gram, 56.7, 55.3
+- GPT-2 (112m), 46.4, 43.8
+- Baseline AWD-LSTM, 37.8, 36.7
+- Our approach, 38.3, 37.2
+- GPT-2 (774m), 32.5, 33.7
 
 ## Acknowledgements
 
