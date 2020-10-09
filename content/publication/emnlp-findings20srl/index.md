@@ -23,7 +23,7 @@ authors:
 
 publication_types: ["1"]
 
-publication: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing
+publication: "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings"
 
 publication_short: Findings of EMNLP
 

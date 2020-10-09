@@ -57,7 +57,7 @@ url_poster:
 
 url_interview: 
 
-url_arxiv: 
+url_arxiv: "https://arxiv.org/abs/2009.14109"
 
 url_code: 
 
@@ -72,8 +72,15 @@ url_video:
 url_blog: 
 
 links: 
+- name: Blog Post
+  url: /post/2020-09-29_PretrainingLM/
+- name: Supplementary Material
+  url: http://www.jkk.name/pub/emnlp20lm-supp.pdf
+- name: ArXiv
+  url: https://arxiv.org/abs/2009.14109
 
 citation_count: 0
+citations:
 
 
 ---

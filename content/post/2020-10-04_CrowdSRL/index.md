@@ -59,6 +59,8 @@ Second, combining with ideas from other work, such as having a model deciding wh
 
 [Paper](http://www.jkk.name/pub/emnlp-findings20srl.pdf)
 
+[My Tweet](https://twitter.com/jkkummerfeld/status/1314632048070594560)
+
 ```bibtex
 @InProceedings{emnlp-findings20srl,
   title     = {A Novel Workflow for Accurately and Efficiently Crowdsourcing Predicate Senses and Argument Labels},

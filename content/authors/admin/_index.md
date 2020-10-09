@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoc working on Natural Language Processing and Crowdsourcing.
+bio: Postdoc working on Natural Language Processing.
 
 interests:
 - Computational Linguistics / Natural Language Processing
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computer Science
     institution: University of California, Berkeley
     year: 2016
   - course: BSc (Adv) (Hons I) and Medal in Computer Science
@@ -109,8 +109,8 @@ My email address is: jkummerf@umich.edu
 
 My {{% staticref "doc/jonathan-kummerfeld-cv.pdf" %}}CV{{% /staticref %}} is available as a pdf.
 
-I am a Postdoctoral Research Fellow, working at the [University of Michigan](https://www.umich.edu/), in [Computer Science and Engineering](https://www.cse.umich.edu/).
-I work on a range of projects at the intersection of Natural Language Processing and Crowdsourcing.
+I am a Postdoctoral Research Fellow, working on Natural Language Processing at the [University of Michigan](https://www.umich.edu/), in [Computer Science and Engineering](https://www.cse.umich.edu/).
+While at Michigan I have worked on a range of sub-areas including Crowdsourcing, Code Generation and Dialogue.
 
 I completed my PhD in the [UC Berkeley NLP Group](http://nlp.cs.berkeley.edu/), advised by [Dan Klein](http://www.cs.berkeley.edu/~klein), with a thesis on new algorithms related to syntactic parsing: error analysis, formalism conversion, and graph parsing.
 I completed my BSc (Adv) with honours and medal in the University of Sydney Schwa Lab advised by [James Curran](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/james-r-curran.html), with a thesis on an algorithm for faster CCG parsing.

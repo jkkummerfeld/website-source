@@ -1,10 +1,10 @@
 ---
 
-bibkey: emnlp20taboo
+bibkey: coling20personal
 
-title: Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness
+title: Exploring the Value of Personalized Word Embeddings
 
-date: "2020-09-01"
+date: "2020-10-01"
 
 year: 2020
 
@@ -15,19 +15,16 @@ preprint: false
 archival: true
 
 authors: 
-- Stefan Larson amd Anthony Zheng
-- Anish Mahendran
-- Rishi Tekriwal
-- Adrian Cheung
-- Eric Guldan
-- Kevin Leach
+- Charles Welch
 - admin
+- Verónica Pérez-Rosas
+- Rada Mihalcea
 
 publication_types: ["1"]
 
-publication: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing
+publication: The 28th International Conference on Computational Linguistics
 
-publication_short: EMNLP (short)
+publication_short: CoLing (short)
 
 abstract: TBA
 
@@ -55,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf: 
+url_pdf:
 
 url_poster: 
 

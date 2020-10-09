@@ -1,10 +1,10 @@
 ---
 
-bibkey: emnlp20taboo
+bibkey: coling20svp
 
-title: Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness
+title: "Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods"
 
-date: "2020-09-01"
+date: "2020-10-01"
 
 year: 2020
 
@@ -15,19 +15,17 @@ preprint: false
 archival: true
 
 authors: 
-- Stefan Larson amd Anthony Zheng
-- Anish Mahendran
-- Rishi Tekriwal
+- Stefan Larson
 - Adrian Cheung
-- Eric Guldan
+- Anish Mahendran
 - Kevin Leach
 - admin
 
 publication_types: ["1"]
 
-publication: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing
+publication: The 28th International Conference on Computational Linguistics
 
-publication_short: EMNLP (short)
+publication_short: CoLing
 
 abstract: TBA
 

@@ -83,7 +83,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1909.02027
 
-citation_count: 7
+citation_count: 8
 citations:
 - title: "User Utterance Acquisition for Training Task-Oriented Bots: A Review of Challenges, Techniques and Opportunities"
   year: 2020
@@ -120,6 +120,11 @@ citations:
   url: 
   venue: "KDD: Workshop on Conversational Systems Towards Mainstream Adoption"
   authors: Shailesh Acharya, Glenn Fung
+- title: "HINT3: Raising the bar for Intent Detection in the Wild"
+  year: 2020
+  url: 
+  venue: EMNLP Insights Workshop
+  authors: Gaurav Arora, Chirag Jain, Manas Chaturvedi, Krupal Modi
 
 
 ---

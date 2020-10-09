@@ -85,7 +85,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1810.11118
 
-citation_count: 25
+citation_count: 26
 citations:
 - title: Query-Focused Scenario Construction
   year: 2019
@@ -212,6 +212,11 @@ citations:
   url: 
   venue: IJCAI
   authors: Hui Liu, Zhan Shi, Jia-Chen Gu, Quan Liu, Si Wei, Xiaodan Zhu
+- title: Detection of hidden feature requests from massive chat messages via deep siamese network
+  year: 2020
+  url: 
+  venue: Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering
+  authors: Lin Shi, Mingzhe Xing, Mingyang Li, Yawen Wang, Shoubin Li, Qing Wang
 
 
 ---

@@ -74,13 +74,18 @@ url_blog:
 
 links: 
 
-citation_count: 1
+citation_count: 2
 citations:
 - title: Sequential Neural Networks for Noetic End-to-End Response Selection
   year: 2020
   url: 
   venue: CSL
   authors: Qian Chen, Wen Wang
+- title: Dialog Modelling Experiments with Finnish One-to-One Chat Data
+  year: 2020
+  url: 
+  venue: Conference on Artificial Intelligence and Natural Language
+  authors: Janne Kauttonen, Lili Aunimo
 
 
 ---
