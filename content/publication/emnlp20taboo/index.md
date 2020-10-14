@@ -15,7 +15,8 @@ preprint: false
 archival: true
 
 authors: 
-- Stefan Larson amd Anthony Zheng
+- Stefan Larson
+- Anthony Zheng
 - Anish Mahendran
 - Rishi Tekriwal
 - Adrian Cheung
