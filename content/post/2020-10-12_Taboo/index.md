@@ -82,7 +82,7 @@ I'm hopeful that our more general version will be useful in a range of crowdsour
 ```bibtex
 @InProceedings{emnlp20taboo,
   title     = {Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness},
-  author    = {Stefan Larson amd Anthony Zheng and Anish Mahendran and Rishi Tekriwal and Adrian Cheung and Eric Guldan and Kevin Leach and Jonathan K. Kummerfeld},
+  author    = {Stefan Larson and Anthony Zheng and Anish Mahendran and Rishi Tekriwal and Adrian Cheung and Eric Guldan and Kevin Leach and Jonathan K. Kummerfeld},
   booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
   month     = {November},
   year      = {2020},
