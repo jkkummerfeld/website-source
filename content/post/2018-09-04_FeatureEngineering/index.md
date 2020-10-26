@@ -41,7 +41,7 @@ However, there are a few more values I would have liked to see:
 
 ```bibtex
 @InProceedings{Wu:2018:EMNLP,
-  author    = {Minghao Wu, Fei Liu and Trevor Cohn},
+  author    = {Wu, Minghao and Liu, Fei and Cohn, Trevor},
   title     = {Evaluating the Utility of Hand-crafted Features in Sequence Labelling},
   booktitle = {EMNLP},
   year      = {2018},

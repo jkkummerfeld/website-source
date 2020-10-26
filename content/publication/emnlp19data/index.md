@@ -25,7 +25,7 @@ authors:
 - Kevin Leach
 - Michael A. Laurenzano
 - Lingjia Tang
-- and Jason Mars
+- Jason Mars
 
 publication_types: ["1"]
 
@@ -39,7 +39,7 @@ abstract_short: Task-oriented dialog systems need to know when a query falls out
 
 address: 
 
-doi: 
+doi: 10.18653/v1/D19-1131
 
 issue: 
 

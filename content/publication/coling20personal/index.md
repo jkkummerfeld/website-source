@@ -52,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf:
+url_pdf: 
 
 url_poster: 
 

@@ -179,7 +179,7 @@ citations:
   year: 2013
   url: 
   venue: Proceedings of the National Academy of Sciences
-  authors: Eduardo Sanz, Chantal Valeriani, Emanuela Zaccarelli, Wilson C. K. Poon, Michael E. Cates and Peter N. Pusey
+  authors: Eduardo Sanz, Chantal Valeriani, Emanuela Zaccarelli, Wilson C. K. Poon, Michael E. Cates, Peter N. Pusey
 - title: Distributions of single-molecule properties as tools for the study of dynamical heterogeneities in nanoconfined water
   year: 2014
   url: 
@@ -239,7 +239,7 @@ citations:
   year: 2017
   url: 
   venue: Science
-  authors: E. D. Cubuk, R. J. S. Ivancic, S. S. Schoenholz, D. J. Strickl, A. Basu, Z. S. Davidson, J. Fontaine, J. L. Hor, Y.-R. Huang, Y. Jiang, N. C. Keim, K. D. Koshigan, J. A. Lefever, T. Liu, X.-G. Ma, D. J. Magagnosc, E. Morrow, C. P. Ortiz, J. M. Rieser, A. Shavit, T. Still, Y. Xu, Y. Zhang, K. N. Nordstrom, P. E. Arratia, R. W. Carpick, D. J. Durian, Z. Fakhraai, D. J. Jerolmack, Daeyeon Lee, Ju Li, R. Riggleman, K. T. Turner, A. G. Yodh, D. S. Gianola and rea J. Liu
+  authors: E. D. Cubuk, R. J. S. Ivancic, S. S. Schoenholz, D. J. Strickl, A. Basu, Z. S. Davidson, J. Fontaine, J. L. Hor, Y.-R. Huang, Y. Jiang, N. C. Keim, K. D. Koshigan, J. A. Lefever, T. Liu, X.-G. Ma, D. J. Magagnosc, E. Morrow, C. P. Ortiz, J. M. Rieser, A. Shavit, T. Still, Y. Xu, Y. Zhang, K. N. Nordstrom, P. E. Arratia, R. W. Carpick, D. J. Durian, Z. Fakhraai, D. J. Jerolmack, Daeyeon Lee, Ju Li, R. Riggleman, K. T. Turner, A. G. Yodh, D. S. Gianola, rea J. Liu
 - title: "Continuous-time random-walk approach to supercooled liquids: Self-part of the van Hove function and related quantities"
   year: 2018
   url: 
@@ -249,17 +249,17 @@ citations:
   year: 2019
   url: 
   venue: Physical Review Letters
-  authors: Xiaoguang Ma, Zoey S. Davidson, Tim Still, Robert J. S. Ivancic, S. S. Schoenholz, A. J. Liu and A. G. Yodh
+  authors: Xiaoguang Ma, Zoey S. Davidson, Tim Still, Robert J. S. Ivancic, S. S. Schoenholz, A. J. Liu, A. G. Yodh
 - title: The Glassy Dynamics Predicted by the Mutual Role of the Free and Activation Volumes
   year: 2019
   url: 
   venue: Soft Matter
-  authors: Wycliffe Kiprop Kipnusu, Mohamed Elsayed, Ciprian Iacob, Sebastian Pawlus, Reinhard Krause Rehberg, and Marian Paluch
+  authors: Wycliffe Kiprop Kipnusu, Mohamed Elsayed, Ciprian Iacob, Sebastian Pawlus, Reinhard Krause Rehberg, Marian Paluch
 - title: Multiscale Coherent Excitations in Microscopic Acoustic Wave Turbulence of Cold Dusty Plasma Liquids
   year: 2019
   url: 
   venue: Physical Review Letters
-  authors: Hu, Hao-Wei and Wang, Wen and I, Lin
+  authors: Hu, Hao-Wei, Wang, Wen, I, Lin
 - title: Active particles sense micromechanical properties of glasses
   year: 2019
   url: 

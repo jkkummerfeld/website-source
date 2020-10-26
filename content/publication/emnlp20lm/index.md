@@ -4,7 +4,7 @@ bibkey: emnlp20lm
 
 title: Improving Low Compute Language Modeling with In-Domain Embedding Initialisation
 
-date: "2020-09-01"
+date: "2020-10-10"
 
 year: 2020
 
@@ -59,7 +59,7 @@ url_interview:
 
 url_arxiv: "https://arxiv.org/abs/2009.14109"
 
-url_code: 
+url_code: "https://github.com/jkkummerfeld/emnlp20lm"
 
 url_dataset: 
 

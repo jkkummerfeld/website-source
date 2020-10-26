@@ -18,7 +18,7 @@ authors:
 - Chulaka Gunasekara
 - admin
 - Luis Lastras
-- and Walter S. Lasecki
+- Walter S. Lasecki
 
 publication_types: ["1"]
 

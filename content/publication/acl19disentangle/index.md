@@ -37,7 +37,7 @@ abstract_short: Disentangling conversations mixed together in a single stream of
 
 address: 
 
-doi: 
+doi: 10.18653/v1/P19-1374
 
 issue: 
 
@@ -85,7 +85,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1810.11118
 
-citation_count: 26
+citation_count: 27
 citations:
 - title: Query-Focused Scenario Construction
   year: 2019
@@ -126,7 +126,7 @@ citations:
   year: 2020
   url: 
   venue: "International Conference on Mining Software Repositories: Data Showcase Track"
-  authors: Preetha Chatterjee, Kostadin Damevski, Nicholas A. Kraft, and Lori Pollock
+  authors: Preetha Chatterjee, Kostadin Damevski, Nicholas A. Kraft, Lori Pollock
 - title: "RAP-Net: Recurrent Attention Pooling Networks for Dialogue Response Selection"
   year: 2019
   url: 
@@ -201,7 +201,7 @@ citations:
   year: 2019
   url: 
   venue: DSTC
-  authors: Jia-Chen Gu, Zhen-Hua Ling, Yu-Ping Ruan and Quan Liu1
+  authors: Jia-Chen Gu, Zhen-Hua Ling, Yu-Ping Ruan, Quan Liu1
 - title: Pre-Trained and Attention-Based Neural Networks for Building Noetic Task-Oriented Dialogue Systems
   year: 2020
   url: 
@@ -217,6 +217,11 @@ citations:
   url: 
   venue: Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering
   authors: Lin Shi, Mingzhe Xing, Mingyang Li, Yawen Wang, Shoubin Li, Qing Wang
+- title: Multi-turn Response Selection using Dialogue Dependency Relations
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Qi Jia, Yizhu Liu, Siyu Ren, Kenny Q. Zhu, Haifeng Tang
 
 
 ---

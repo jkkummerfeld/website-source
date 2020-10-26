@@ -48,7 +48,7 @@ If we restrict the test set to be novel queries (i.e. the model has to generalis
 
 ```bibtex
 @Article{Weber:2018:GenDeep,
-   author = {Noah Weber, Leena Shekhar, Niranjan Balasubramanian},
+  author    = {Weber, Noah and Shekhar, Leena and Balasubramanian, Niranjan},
     title = {The Fine Line between Linguistic Generalization and Failure in Seq2Seq-Attention Models},
   journal = {Workshop on New Forms of Generalization in Deep Learning and NLP (NAACL 2018)},
      year = {2018},

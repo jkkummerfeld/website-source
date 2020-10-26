@@ -4,7 +4,7 @@ bibkey: emnlp20demographics
 
 title: Compositional Demographic Word Embeddings
 
-date: "2020-09-01"
+date: "2020-10-10"
 
 year: 2020
 
@@ -26,9 +26,9 @@ publication: Proceedings of the 2020 Conference on Empirical Methods in Natural 
 
 publication_short: EMNLP
 
-abstract: TBA
+abstract: "Word embeddings are usually derived from corpora containing text from many individuals, thus leading to general purpose representations rather than individually personalized representations. While personalized embeddings can be useful to improve language model performance and other language processing tasks, they can only be computed for people with a large amount of longitudinal data, which is not the case for new users. We propose a new form of personalized word embeddings that use demographic-specific word representations derived compositionally from full or partial demographic information for a user (i.e., gender, age, location, religion). We show that the resulting demographic-aware word representations outperform generic word representations on two tasks for English: language modeling and word associations. We further explore the trade-off between the number of available attributes and their relative effectiveness and discuss the ethical implications of using them."
 
-abstract_short: TBA
+abstract_short: "Word embeddings are usually derived from corpora containing text from many individuals, thus leading to general purpose representations rather than individually personalized representations. While personalized embeddings can be useful to improve language model performance and other language processing tasks, they can only be computed for people with a large amount of longitudinal data, which is not the case for new users. We propose a new form of personalized word embeddings that use demographic-specific word representations derived compositionally from full or partial demographic information for a user (i.e., gender, age, location, religion). We show that the resulting demographic-aware word representations outperform generic word representations on two tasks for English: language modeling and word associations. We further explore the trade-off between the number of available attributes and their relative effectiveness and discuss the ethical implications of using them."
 
 address: 
 
@@ -52,13 +52,13 @@ image_preview:
 
 selected: false
 
-url_pdf: 
+url_pdf: "https://arxiv.org/abs/2010.02986"
 
 url_poster: 
 
 url_interview: 
 
-url_arxiv: 
+url_arxiv: "https://arxiv.org/abs/2010.02986"
 
 url_code: 
 
@@ -73,6 +73,10 @@ url_video:
 url_blog: 
 
 links: 
+- name: Blog Post
+  url: /post/2020-10-10_demographicembeddings/
+- name: ArXiv
+  url: https://arxiv.org/abs/2010.02986
 
 citation_count: 0
 citations:

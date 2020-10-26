@@ -41,7 +41,7 @@ One thing mentioned in passing is how this relates to a form of dropout (which c
 ```bibtex
 @inproceedings{45929,
 	title = {Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer},
-	author  = {Noam Shazeer and Azalia Mirhoseini and Krzysztof Maziarz and Andy Davis and Quoc Le and Geoffrey Hinton and Jeff Dean},
+  author    = {Shazeer, Noam and Mirhoseini, Azalia and Maziarz, Krzysztof and Davis, Andy and Le, Quoc and Hinton, Geoffrey and Dean, Jeff},
 	year  = {2017},
   booktitle = {ICLR},
 	URL = {https://openreview.net/pdf?id=B1ckMDqlg},

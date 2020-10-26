@@ -78,43 +78,43 @@ url_blog:
 
 links: 
 
-citation_count: 25
+citation_count: 27
 citations:
 - title: Ethical issues of research using datasets of illicit origin
   year: 2017
   url: "https://www.cl.cam.ac.uk/~drt24/papers/2017-ethical-issues.pdf"
   venue: IMC
-  authors: Daniel R. Thomas, Sergio Pastrana, Alice Hutchings, Richard Clayton, and Alastair R. Beresford
+  authors: Daniel R. Thomas, Sergio Pastrana, Alice Hutchings, Richard Clayton, Alastair R. Beresford
 - title: "CrimeBB: Enabling Cybercrime Research on Underground Forums at Scale"
   year: 2018
   url: "https://dl.acm.org/citation.cfm?doid=3178876.3186178"
   venue: WWW
-  authors: Sergio Pastrana, Daniel R. Thomas, Alice Hutchings, and Richard Clayton
+  authors: Sergio Pastrana, Daniel R. Thomas, Alice Hutchings, Richard Clayton
 - title: At-risk system identification via analysis of discussions on the darkweb
   year: 2018
   url: "https://ieeexplore.ieee.org/abstract/document/8376211/"
   venue: APWG Symposium on Electronic Crime Research (eCrime)
-  authors: Eric Nunes, Paulo Shakarian, and Gerardo I. Simari
+  authors: Eric Nunes, Paulo Shakarian, Gerardo I. Simari
 - title: "Systematically Understanding the Cyber Attack Business: A Survey"
   year: 2018
   url: "https://dl.acm.org/citation.cfm?id=3199674"
   venue: ACM Computing Surveys
-  authors: Keman Huang, Michael Siegel, and Stuart Madnick
+  authors: Keman Huang, Michael Siegel, Stuart Madnick
 - title: "Characterizing Eve: Analysing Cybercrime Actors in a Large Underground Forum"
   year: 2018
   url: 
   venue: International Symposium on Research in Attacks, Intrusions and Defenses
-  authors: Sergio Pastrana, Alice Hutchings, Andrew Caines, and Paula Buttery
+  authors: Sergio Pastrana, Alice Hutchings, Andrew Caines, Paula Buttery
 - title: Automatically identifying the function and intent of posts in underground forums
   year: 2018
   url: "https://doi.org/10.1186/s40163-018-0094-4"
   venue: Crime Science
-  authors: Andrew Caines, Sergio Pastrana, Alice Hutchings, and Paula J. Buttery
+  authors: Andrew Caines, Sergio Pastrana, Alice Hutchings, Paula J. Buttery
 - title: Analyzing and Identifying Data Breaches in Underground Forums
   year: 2019
   url: "https://ieeexplore.ieee.org/document/8686093"
   venue: IEEE Access
-  authors: Yong Fang, Yusong Guo, Cheng Huang, and Liang Liu
+  authors: Yong Fang, Yusong Guo, Cheng Huang, Liang Liu
 - title: Multistream Classification for Cyber Threat Data with Heterogeneous Feature Space
   year: 2019
   url: "http://doi.acm.org/10.1145/3308558.3313572"
@@ -147,7 +147,7 @@ citations:
   year: 2019
   url: "http://doi.acm.org/10.1145/3308560.3316501"
   venue: WWW
-  authors: Joobin Gharibshah, Zhabiz Gharibshah, Evangelos E. Papalexakis, and Michalis Faloutsos
+  authors: Joobin Gharibshah, Zhabiz Gharibshah, Evangelos E. Papalexakis, Michalis Faloutsos
 - title: "Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains"
   year: 2019
   url: 
@@ -181,7 +181,7 @@ citations:
   year: 2018
   url: 
   venue: IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)
-  authors: Yiming Zhang, Yujie Fan, Shifu Hou, Jian Liu, Yanfang Ye, and Thirimachos Bourlai
+  authors: Yiming Zhang, Yujie Fan, Shifu Hou, Jian Liu, Yanfang Ye, Thirimachos Bourlai
 - title: Extracting actionable information from Security Forums
   year: 2019
   url: 
@@ -202,6 +202,16 @@ citations:
   url: 
   venue: ACM SIGSAC Conference on Computer and Communications Security
   authors: Luca Allodi
+- title: "A tight scrape: methodological approaches to cybercrime research data collection in adversarial environments"
+  year: 2020
+  url: 
+  venue: IEEE European Symposium on Security and Privacy, Workshop on Attackers and Cyber-Crime Operations
+  authors: Kieron Turk, Sergio Pastrana, Ben Collier
+- title: "Turning Up the Dial: the Evolution of a Cybercrime Market Through Set-up, Stable, and Covid-19 Eras"
+  year: 2020
+  url: 
+  venue: ACM Internet Measurement Conference
+  authors: Anh V. Vu, Jack Hughes, Ildiko Pete, Ben Collier, Yi Ting Chua, Ilia Shumailov, Alice Hutchings
 
 
 ---

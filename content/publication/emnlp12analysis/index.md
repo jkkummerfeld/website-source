@@ -207,17 +207,17 @@ citations:
   year: 2018
   url: "http://www.aclweb.org/anthology/N18-1007.pdf"
   venue: NAACL
-  authors: Trang Tran, Shubham Toshniwal, Mohit Bansal, Kevin Gimpel, Karen Livescu and Mari Ostendorf
+  authors: Trang Tran, Shubham Toshniwal, Mohit Bansal, Kevin Gimpel, Karen Livescu, Mari Ostendorf
 - title: Automated Extraction of Semantic Legal Metadata Using Natural Language Processing
   year: 2018
   url: "http://hdl.handle.net/10993/36228"
   venue: The 26th IEEE International Requirements Engineering Conference
-  authors: Amin Sleimi, Nicolas Sannier, Mehrdad Sabetzadeh, Lionel Briand and John Dann
+  authors: Amin Sleimi, Nicolas Sannier, Mehrdad Sabetzadeh, Lionel Briand, John Dann
 - title: An Empirical Investigation of Error Types in Vietnamese Parsing
   year: 2018
   url: "http://www.aclweb.org/anthology/C18-1260.pdf"
   venue: CoLing
-  authors: Quy T. Nguyen, Yusuke Miyao, Hiroshi Noji, and Nhung T.H. Nguyen
+  authors: Quy T. Nguyen, Yusuke Miyao, Hiroshi Noji, Nhung T.H. Nguyen
 - title: Sprucing up the trees - Error detection in treebanks
   year: 2018
   url: "http://www.aclweb.org/anthology/C18-1010.pdf"
@@ -292,7 +292,7 @@ citations:
   year: 2019
   url: "https://www.aclweb.org/anthology/Q19-1005/"
   venue: TACL
-  authors: Maximin Coavoux, Benoît Crabbé and Shay B. Cohen
+  authors: Maximin Coavoux, Benoît Crabbé, Shay B. Cohen
 - title: "Neural Reranking Improves Subjective Quality of Machine Translation: NAIST at WAT2015"
   year: 2015
   url: 

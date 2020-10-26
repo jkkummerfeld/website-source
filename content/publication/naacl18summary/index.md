@@ -32,7 +32,7 @@ abstract_short: Most summarization research focuses on summarizing the entire gi
 
 address: 
 
-doi: 
+doi: 10.18653/v1/N18-2099
 
 issue: 
 
@@ -85,7 +85,7 @@ citations:
   year: 2019
   url: "https://www.aclweb.org/anthology/P19-3023.pdf"
   venue: ACL (demo)
-  authors: Prithviraj Sen, Yunyao Li, Eser Kogan, Yiwei Yang and Walter Lasecki
+  authors: Prithviraj Sen, Yunyao Li, Eser Kogan, Yiwei Yang, Walter Lasecki
 - title: Efficient Elicitation Approaches to Estimate Collective Crowd Answers
   year: 2019
   url: "http://croma.eecs.umich.edu/pubs/ManyThoughts_CSCW2019.pdf"

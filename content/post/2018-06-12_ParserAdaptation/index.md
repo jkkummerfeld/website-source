@@ -44,7 +44,7 @@ This gives dramatic gains across multiple datasets.
 
 ```bibtex
 @InProceedings{Joshi:2018:ACL,
-  author    = {Vidur Joshi, Matthew Peters, Mark Hopkins},
+  author    = {Joshi, Vidur and Peters, Matthew and Hopkins, Mark},
   title     = {Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples},
   booktitle = {ACL},
   year      = {2018},

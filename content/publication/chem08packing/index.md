@@ -204,7 +204,7 @@ citations:
   year: 2020
   url: 
   venue: ACS Nano
-  authors: Shang Ren, Yang Sun*, Feng Zhang*, Alex Travesset, Cai-Zhuang Wang, and Kai-Ming Ho
+  authors: Shang Ren, Yang Sun*, Feng Zhang*, Alex Travesset, Cai-Zhuang Wang, Kai-Ming Ho
 
 
 ---

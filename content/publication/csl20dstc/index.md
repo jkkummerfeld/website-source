@@ -109,7 +109,7 @@ citations:
   year: 2020
   url: 
   venue: LREC
-  authors: Rostislav Nedelchev, Ricardo Usbeck and Jens Lehmann
+  authors: Rostislav Nedelchev, Ricardo Usbeck, Jens Lehmann
 - title: Hierarchical multimodal attention for end-to-end audio-visual scene-aware dialogue response generation
   year: 2020
   url: 

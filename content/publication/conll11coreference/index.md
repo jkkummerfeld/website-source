@@ -113,12 +113,12 @@ citations:
   year: 2017
   url: "https://hal.inria.fr/hal-01558711/document"
   venue: Actes de la 24e Conference sur le Traitement Automatique des Langues Naturelles (TALN)
-  authors: Loic Grobol, Isabelle Tellier, Eric De La Clergerie, Marco Dinarelli, and Frederic Landragin
+  authors: Loic Grobol, Isabelle Tellier, Eric De La Clergerie, Marco Dinarelli, Frederic Landragin
 - title: Testing TileAttack with Three Key Audiences
   year: 2018
   url: 
   venue: LREC
-  authors: Chris Madge, Massimo Poesio, Udo Kruschwitz and Jon Chamberlain
+  authors: Chris Madge ,Massimo Poesio ,Udo Kruschwitz, Jon Chamberlain
 - title: Mention Detection Using Pointer Networks for Coreference Resolution
   year: 2017
   url: 
@@ -128,12 +128,12 @@ citations:
   year: 2020
   url: 
   venue: Natural Language Engineering
-  authors: Olga Uryupina, Ron Artstein, Antonella Bristot, Federica Cavicchio, Francesca Delogu, Kepa J. Rodriguez and Massimo Poesio
+  authors: Olga Uryupina, Ron Artstein, Antonella Bristot, Federica Cavicchio, Francesca Delogu, Kepa J. Rodriguez, Massimo Poesio
 - title: Detecting Non-reference and Non-anaphoricity
   year: 2016
   url: 
   venue: Anaphora Resolution
-  authors: Olga Uryupina, Mijail Kabadjov, and Massimo Poesio
+  authors: Olga Uryupina, Mijail Kabadjov, Massimo Poesio
 - title: Multilingual Mention Detection for Coreference Resolution
   year: 2013
   url: "https://www.aclweb.org/anthology/I13-1012"

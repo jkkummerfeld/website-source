@@ -36,7 +36,7 @@ abstract_short: "One weakness of machine-learned NLP models is that they typical
 
 address: 
 
-doi: 
+doi: 10.18653/v1/D17-1275
 
 issue: 
 
@@ -88,22 +88,22 @@ citations:
   year: 2018
   url: 
   venue: ASIA CCS
-  authors: Xiangwen Wang, Peng Peng, Chun Wang, and Gang Wang
+  authors: Xiangwen Wang, Peng Peng, Chun Wang, Gang Wang
 - title: "Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces"
   year: 2018
   url: "https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf"
   venue: USENIX
-  authors: Kan Yuan, Haoran Lu, Xiaojing Liao, and XiaoFeng Wang
+  authors: Kan Yuan, Haoran Lu, Xiaojing Liao, XiaoFeng Wang
 - title: Automatically identifying the function and intent of posts in underground forums
   year: 2018
   url: "https://doi.org/10.1186/s40163-018-0094-4"
   venue: Crime Science
-  authors: Andrew Caines, Sergio Pastrana, Alice Hutchings, and Paula J. Buttery
+  authors: Andrew Caines, Sergio Pastrana, Alice Hutchings, Paula J. Buttery
 - title: Understanding and Predicting Private Interactions in Underground Forums
   year: 2019
   url: 
   venue: Proceedings of the Ninth ACM Conference on Data and Application Security and Privacy
-  authors: Zhibo Sun, Carlos E. Rubio-Medrano, Ziming Zhao, Tiffany Bao, Adam Doupe and Gail-Joon Ahn
+  authors: Zhibo Sun, Carlos E. Rubio-Medrano, Ziming Zhao, Tiffany Bao, Adam Doupe, Gail-Joon Ahn
 - title: "Casino Royale: A Deep Exploration of Illegal Online Gambling"
   year: 2019
   url: 

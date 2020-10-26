@@ -31,7 +31,7 @@ abstract_short: Despite the convexity of structured max-margin objectives (Taska
 
 address: 
 
-doi: 
+doi: 10.18653/v1/D15-1032
 
 issue: 
 
@@ -109,12 +109,12 @@ citations:
   year: 2018
   url: "https://arxiv.org/pdf/1805.03228.pdf"
   venue: NAACL
-  authors: Ivan Vulić, Goran Glavaš, Nikola Mrkšić, and Anna Korhonen
+  authors: Ivan Vulić, Goran Glavaš, Nikola Mrkšić, Anna Korhonen
 - title: "DGeoSegmenter: A dictionary-based Chinese word segmenter for the geoscience domain"
   year: 2018
   url: "https://doi.org/10.1016/j.cageo.2018.08.006"
   venue: Computers and Geosciences
-  authors: Qinjun Qiu, Zhong Xie, Liang Wu and Wenjia Li
+  authors: Qinjun Qiu, Zhong Xie, Liang Wu, Wenjia Li
 - title: "Neural Word Segmentation Learning for {C}hinese"
   year: 2016
   url: "https://www.aclweb.org/anthology/P16-1039"

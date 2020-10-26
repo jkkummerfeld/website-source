@@ -103,7 +103,7 @@ In particular, reviewers need to give something of substance to be responded to 
 ```bibtex
 @InProceedings{emnlp20lm,
   title     = {Improving Low Compute Language Modeling with In-Domain Embedding Initialisation},
-  author    = {Charles Welch and Rada Mihalcea and Jonathan K. Kummerfeld},
+  author    = {Welch, Charles and Mihalcea, Rada and Kummerfeld, Jonathan K.},
   booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
   month     = {November},
   year      = {2020},

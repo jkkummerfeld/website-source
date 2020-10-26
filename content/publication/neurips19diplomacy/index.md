@@ -91,7 +91,7 @@ citations:
   year: 2020
   url: 
   venue: ACL
-  authors: Denis Peskov, Benny Cheng, Ahmed Elgohary, Joe Barrow, Cristian Danescu-Niculescu-Mizil and Jordan Boyd-Graber
+  authors: Denis Peskov, Benny Cheng, Ahmed Elgohary, Joe Barrow, Cristian Danescu-Niculescu-Mizil, Jordan Boyd-Graber
 - title: Learning to Play No-Press Diplomacy with Best Response Policy Iteration
   year: 2020
   url: "https://arxiv.org/abs/2006.04635"

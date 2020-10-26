@@ -4,7 +4,7 @@ bibkey: ws-acl-convai19dstc7
 
 title: "DSTC7 Task 1: Noetic End-to-End Response Selection"
 
-date: "2019-07-01"
+date: "2019-08-01"
 
 year: 2019
 
@@ -22,7 +22,7 @@ authors:
 
 publication_types: ["1"]
 
-publication: "ACL Workshop: NLP for Conversational AI"
+publication: Proceedings of the First Workshop on NLP for Conversational AI
 
 publication_short: "ACL Workshop: NLP for Conversational AI"
 
@@ -32,13 +32,13 @@ abstract_short:
 
 address: 
 
-doi: 
+doi: 10.18653/v1/W19-4107
 
 issue: 
 
 number: 
 
-pages: 
+pages: 60--67
 
 publisher: 
 
@@ -52,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/ws19nlp-convai.pdf"
+url_pdf: "https://www.aclweb.org/anthology/W19-4107"
 
 url_poster: 
 
@@ -74,7 +74,7 @@ url_blog:
 
 links: 
 
-citation_count: 2
+citation_count: 3
 citations:
 - title: Sequential Neural Networks for Noetic End-to-End Response Selection
   year: 2020
@@ -86,6 +86,11 @@ citations:
   url: 
   venue: Conference on Artificial Intelligence and Natural Language
   authors: Janne Kauttonen, Lili Aunimo
+- title: Multi-turn Response Selection using Dialogue Dependency Relations
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Qi Jia, Yizhu Liu, Siyu Ren, Kenny Q. Zhu, Haifeng Tang
 
 
 ---

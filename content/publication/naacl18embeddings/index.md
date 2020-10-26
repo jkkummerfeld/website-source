@@ -15,7 +15,7 @@ preprint: false
 archival: true
 
 authors: 
-- Laura Wendlandt
+- Laura Burdick
 - admin
 - Rada Mihalcea
 
@@ -31,7 +31,7 @@ abstract_short: Despite the recent popularity of word embedding methods, there i
 
 address: 
 
-doi: 
+doi: 10.18653/v1/N18-1190
 
 issue: 
 
@@ -75,23 +75,23 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1804.09692
 
-citation_count: 34
+citation_count: 35
 citations:
 - title: "Subcharacter information in japanese embeddings: when is it worth it?"
   year: 2018
   url: 
   venue: Proceedings of the Workshop on Relevance of Linguistic Structure in Neural Architectures for NLP (RELNLP)
-  authors: Marzena Karpinska, Bofang Li, Anna Rogers, and Aleksandr Drozd
+  authors: Marzena Karpinska, Bofang Li, Anna Rogers, Aleksandr Drozd
 - title: What's in Your Embedding, And How It Predicts Task Performance
   year: 2018
   url: 
   venue: CoLing
-  authors: Anna Rogers, Shashwath Hosur Ananthakrishna, and Anna Rumshisky
+  authors: Anna Rogers, Shashwath Hosur Ananthakrishna, Anna Rumshisky
 - title: "CluWords: Exploiting Semantic Word Clustering Representation for Enhanced Topic Modeling"
   year: 2019
   url: "https://doi.org/10.1145/3289600.3291032"
   venue: WSDM
-  authors: Felipe Viegas, Sergio D. Canuto, Christian Gomes, Washington Luiz, Thierson Rosa, Sabir Ribas, Leonardo C. da Rocha and Marcos Andre Goncalves
+  authors: Felipe Viegas, Sergio D. Canuto, Christian Gomes, Washington Luiz, Thierson Rosa, Sabir Ribas, Leonardo C. da Rocha, Marcos Andre Goncalves
 - title: Investigating the Stability of Concrete Nouns in Word Embeddings
   year: 2019
   url: "https://www.aclweb.org/anthology/W19-0510.pdf"
@@ -106,7 +106,7 @@ citations:
   year: 2019
   url: 
   venue: Entropy
-  authors: Sergei Koltcov, Vera Ignatenko and Olessia Koltsova
+  authors: Sergei Koltcov, Vera Ignatenko, Olessia Koltsova
 - title: A framework for anomaly detection using language modeling, and its applications to finance
   year: 2019
   url: "https://arxiv.org/abs/1908.09156"
@@ -226,7 +226,7 @@ citations:
   year: 2018
   url: 
   venue: IJCAI/ECAI Workshop on Explainable Artificial Intelligence
-  authors: Michaela Regneri, Malte Hoffmann, Jurij Kost, Niklas Pietsch, Timo Schulz, and Sabine Stamm
+  authors: Michaela Regneri, Malte Hoffmann, Jurij Kost, Niklas Pietsch, Timo Schulz, Sabine Stamm
 - title: Can prediction-based distributional semantic models predict typicality?
   year: 2019
   url: 
@@ -247,6 +247,11 @@ citations:
   url: 
   venue: Yearbook of Medical Informatics
   authors: Udo Hahn, Michel Oleynik
+- title: Understanding the stability of medical concept embeddings
+  year: 2020
+  url: 
+  venue: Association for Information Science and Technology
+  authors: Grace E. Lee, Aixin Sun
 
 
 ---

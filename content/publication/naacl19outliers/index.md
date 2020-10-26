@@ -37,7 +37,7 @@ abstract_short: "In a corpus of data, outliers are either errors: mistakes in th
 
 address: 
 
-doi: 
+doi: 10.18653/v1/N19-1051
 
 issue: 
 
@@ -92,12 +92,12 @@ citations:
   year: 2020
   url: 
   venue: LREC
-  authors: Rostislav Nedelchev, Ricardo Usbeck and Jens Lehmann
+  authors: Rostislav Nedelchev, Ricardo Usbeck, Jens Lehmann
 - title: More Diverse Dialogue Datasets via Diversity-Informed Data Collection
   year: 2020
   url: 
   venue: ACL
-  authors: Katherine Stasaski, Grace Hui Yang, and Marti A. Hearst
+  authors: Katherine Stasaski, Grace Hui Yang, Marti A. Hearst
 
 
 ---

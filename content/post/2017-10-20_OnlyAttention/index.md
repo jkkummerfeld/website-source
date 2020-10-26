@@ -57,7 +57,7 @@ they released.
 
 ```bibtex
 @article{arxiv:1706.03762,
-  author    = {Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin},
+  author    = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, Lukasz and Polosukhin, Illia},
   title     = {Attention Is All You Need},
   journal   = {ArXiv},
   year      = {2017},

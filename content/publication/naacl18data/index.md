@@ -36,7 +36,7 @@ abstract_short: Industrial dialogue systems such as Apple Siri and Google Assist
 
 address: 
 
-doi: 
+doi: 10.18653/v1/N18-3005
 
 issue: 
 
@@ -124,7 +124,7 @@ citations:
   year: 2020
   url: 
   venue: ACL
-  authors: Katherine Stasaski, Grace Hui Yang, and Marti A. Hearst
+  authors: Katherine Stasaski, Grace Hui Yang, Marti A. Hearst
 - title: Optimizing the Design and Cost for Crowdsourced Conversational Utterances
   year: 2019
   url: 

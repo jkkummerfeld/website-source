@@ -31,7 +31,7 @@ abstract_short: Linguistically diverse datasets are critical for training and ev
 
 address: 
 
-doi: 
+doi: 10.18653/v1/P17-2017
 
 issue: 
 
@@ -83,7 +83,7 @@ citations:
   year: 2018
   url: "https://link.springer.com/chapter/10.1007/978-3-319-91662-0_8"
   venue: ICWE
-  authors: R. Bapat, P. Kucherbaev, and A. Bozzon
+  authors: R. Bapat, P. Kucherbaev, A. Bozzon
 - title: "SPADE: Evaluation Dataset for Monolingual Phrase Alignment"
   year: 2018
   url: "http://www.lrec-conf.org/proceedings/lrec2018/pdf/502.pdf"
@@ -98,7 +98,7 @@ citations:
   year: 2018
   url: "http://dx.doi.org/10.1145/3234695.3236343"
   venue: ASSETS
-  authors: Raymond Fok, Harmanpreet Kaur, Skanda Palani, Martez E. Mott and Walter S. Lasecki
+  authors: Raymond Fok, Harmanpreet Kaur, Skanda Palani, Martez E. Mott, Walter S. Lasecki
 - title: A Study of Incorrect Paraphrases in Crowdsourced User Utterances
   year: 2019
   url: "https://www.aclweb.org/anthology/N19-1026.pdf"

@@ -93,7 +93,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1911.06394
 
-citation_count: 4
+citation_count: 5
 citations:
 - title: Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System
   year: 2020
@@ -115,6 +115,11 @@ citations:
   url: 
   venue: Traitement Automatique des Langues Naturelles
   authors: Oralie Cattan
+- title: Multi-turn Response Selection using Dialogue Dependency Relations
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Qi Jia, Yizhu Liu, Siyu Ren, Kenny Q. Zhu, Haifeng Tang
 
 
 ---

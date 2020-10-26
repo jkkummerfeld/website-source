@@ -39,7 +39,7 @@ However, rather than keeping it weekday-ly, I plan to do three times a week, at 
 ```bibtex
 @InProceedings{blah,
   title = {Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time},
-  author = {Ting-Hao (Kenneth) Huang, Joseph Chee Chang, and Jeffrey P. Bigham},
+  author    = {Huang, Ting-Hao (Kenneth) and Chang, Joseph Chee and Bigham, Jeffrey P.},
   booktitle = {CHI},
   year = {2018},
   url = {https://www.cs.cmu.edu/~tinghaoh/pdf/2018/2018_chi.pdf},

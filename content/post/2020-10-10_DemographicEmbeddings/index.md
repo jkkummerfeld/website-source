@@ -62,7 +62,7 @@ For more detailed discussion of these and other issues see the "Limitations and 
 ```bibtex
 @InProceedings{emnlp20demographics,
   title     = {Compositional Demographic Word Embeddings},
-  author    = {Charles Welch and Jonathan K. Kummerfeld and Ver{\'o}nica P{\'e}rez-Rosas and Rada Mihalcea},
+  author    = {Welch, Charles and Kummerfeld, Jonathan K. and P{\'e}rez-Rosas, Ver{\'o}nica and Mihalcea, Rada},
   booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
   month     = {November},
   year      = {2020},

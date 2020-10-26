@@ -35,7 +35,7 @@ abstract_short: To be informative, an evaluation must measure how well systems g
 
 address: Melbourne, Victoria, Australia
 
-doi: 
+doi: 10.18653/v1/P18-1033
 
 issue: 
 
@@ -90,7 +90,7 @@ citations:
   year: 2019
   url: "https://www.aclweb.org/anthology/D18-1265.pdf"
   venue: ACL
-  authors: Jiaqi Guo, Zecheng Zhan, Yan Gao, Yan Xiao, Jian-Guang Lou, Ting Liu, and Dongmei Zhang
+  authors: Jiaqi Guo, Zecheng Zhan, Yan Gao, Yan Xiao, Jian-Guang Lou, Ting Liu, Dongmei Zhang
 - title: Bootstrapping an End-to-End Natural Language Interface for Databases
   year: 2019
   url: 
@@ -150,7 +150,7 @@ citations:
   year: 2020
   url: "https://arxiv.org/pdf/1912.09713.pdf"
   venue: ICLR
-  authors: Daniel Keysers, Nathanael Schärli, Nathan Scales, Hylke Buisman, Daniel Furrer, Sergii Kashubin, Nikola Momchev, Danila Sinopalnikov, Lukasz Stafiniak, Tibor Tihon, Dmitry Tsarkov, Xiao Wang, Marc van Zee, Olivier Bousquet
+  authors: Daniel Keysers, Nathanael Schärli, Nathan Scales, Hylke Buisman, Daniel Furrer, Sergii Kashubin, Nikola Momchev, Danila Sinopalnikov, Lukasz Stafiniak, Tibor Tihon, Dmitry Tsarkov, Xiao Wang, Marc van Zee,  Olivier Bousquet
 - title: Text-to-SQL Generation for Question Answering on Electronic Medical Records
   year: 2020
   url: 
@@ -165,7 +165,7 @@ citations:
   year: 2020
   url: 
   venue: 17th International Conference on Informatics and Information Technologies
-  authors: Jovan Kalajdjieski, Martina Toshevska and Frosina Stojanovska
+  authors: Jovan Kalajdjieski, Martina Toshevska, Frosina Stojanovska
 - title: "DBPal: A Fully Pluggable NL2SQL Training Pipeline"
   year: 2020
   url: 
@@ -270,7 +270,7 @@ citations:
   year: 2019
   url: 
   venue: The 31st International Conference on Software Engineering & Knowledge Engineering
-  authors: Chunqi Chen, Yunxiang Xiong, Beijun Shen and Yuting Chen
+  authors: Chunqi Chen, Yunxiang Xiong, Beijun Shen, Yuting Chen
 - title: "Natural language to SQL: Where are we today?"
   year: 2020
   url: 
