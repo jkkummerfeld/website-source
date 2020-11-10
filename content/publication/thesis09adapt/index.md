@@ -49,9 +49,9 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/thesis09adapt_thesis.pdf"
+url_pdf: "https://www.jkk.name/pub/thesis09adapt_thesis.pdf"
 
-url_poster: "http://www.jkk.name/pub/thesis09adapt_poster.pdf"
+url_poster: "https://www.jkk.name/pub/thesis09adapt_poster.pdf"
 
 url_interview: 
 
@@ -71,7 +71,7 @@ url_blog:
 
 links: 
 - name: PDF Slides
-  url: http://www.jkk.name/pub/thesis09adapt_slides.pdf
+  url: https://www.jkk.name/pub/thesis09adapt_slides.pdf
 
 citation_count: 0
 citations:

@@ -57,7 +57,7 @@ The drop varied from 2 to 33 points, with a median of 9.
 This indicates that we are capturing ways of expressing these intents that are not well covered by the original data.
 
 Addressing this issue is simple - train on data collected with our method!
-Interestingly, this approach is complementary to the outlier-based approach from [our NAACL 2019 paper](http://jkk.name/publication/naacl19outliers/).
+Interestingly, this approach is complementary to the outlier-based approach from [our NAACL 2019 paper](https://www.jkk.name/publication/naacl19outliers/).
 Examples collected using one approach are hard for models trained on data from the other.
 Fortunately, training with data from a mix of the two leads to strong results on both.
 
@@ -77,7 +77,7 @@ I'm hopeful that our more general version will be useful in a range of crowdsour
 
 ## Citation
 
-[Paper](http://www.jkk.name/pub/emnlp20taboo.pdf)
+[Paper](https://www.jkk.name/pub/emnlp20taboo.pdf)
 
 ```bibtex
 @InProceedings{emnlp20taboo,
@@ -87,6 +87,6 @@ I'm hopeful that our more general version will be useful in a range of crowdsour
   month     = {November},
   year      = {2020},
   location  = {Online},
-  url       = {http://www.jkk.name/pub/emnlp20taboo.pdf},
+  url       = {https://www.jkk.name/pub/emnlp20taboo.pdf},
 }
 ```

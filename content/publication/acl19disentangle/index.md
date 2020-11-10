@@ -59,7 +59,7 @@ selected: false
 
 url_pdf: "https://www.aclweb.org/anthology/P19-1374.pdf"
 
-url_poster: "http://www.jkk.name/pub/acl19disentangle_poster.pdf"
+url_poster: "https://www.jkk.name/pub/acl19disentangle_poster.pdf"
 
 url_interview: 
 

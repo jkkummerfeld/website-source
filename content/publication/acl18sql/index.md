@@ -150,7 +150,7 @@ citations:
   year: 2020
   url: "https://arxiv.org/pdf/1912.09713.pdf"
   venue: ICLR
-  authors: Daniel Keysers, Nathanael Schärli, Nathan Scales, Hylke Buisman, Daniel Furrer, Sergii Kashubin, Nikola Momchev, Danila Sinopalnikov, Lukasz Stafiniak, Tibor Tihon, Dmitry Tsarkov, Xiao Wang, Marc van Zee,  Olivier Bousquet
+  authors: Daniel Keysers, Nathanael Schärli, Nathan Scales, Hylke Buisman, Daniel Furrer, Sergii Kashubin, Nikola Momchev, Danila Sinopalnikov, Lukasz Stafiniak, Tibor Tihon, Dmitry Tsarkov, Xiao Wang, Marc van Zee, Olivier Bousquet
 - title: Text-to-SQL Generation for Question Answering on Electronic Medical Records
   year: 2020
   url: 

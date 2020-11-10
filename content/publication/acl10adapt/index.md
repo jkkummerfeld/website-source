@@ -76,7 +76,7 @@ url_blog:
 
 links: 
 - name: PDF Slides
-  url: http://www.jkk.name/pub/acl10adapt_slides.pdf
+  url: https://www.jkk.name/pub/acl10adapt_slides.pdf
 
 citation_count: 12
 citations:

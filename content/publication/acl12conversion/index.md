@@ -65,7 +65,7 @@ url_dataset:
 
 url_project: 
 
-url_slides: "http://www.jkk.name/pub/acl12conversion_keynote.key"
+url_slides: "https://www.jkk.name/pub/acl12conversion_keynote.key"
 
 url_video: 
 
@@ -73,7 +73,7 @@ url_blog:
 
 links: 
 - name: PDF Slides
-  url: http://www.jkk.name/pub/acl12conversion_slides.pdf
+  url: https://www.jkk.name/pub/acl12conversion_slides.pdf
 
 citation_count: 2
 citations:

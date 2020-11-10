@@ -4,7 +4,7 @@ bibkey: emnlp-findings20srl
 
 title: A Novel Workflow for Accurately and Efficiently Crowdsourcing Predicate Senses and Argument Labels
 
-date: "2020-10-09"
+date: "2020-11-01"
 
 year: 2020
 
@@ -53,7 +53,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/emnlp-findings20srl.pdf"
+url_pdf: "https://www.jkk.name/pub/emnlp-findings20srl.pdf"
 
 url_poster: 
 

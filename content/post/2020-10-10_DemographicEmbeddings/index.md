@@ -3,7 +3,7 @@
 
 title: "Compositional Demographic Word Embeddings (Welch et al., EMNLP 2020)"
 subtitle: ""
-summary: "Most work in NLP uses datasets with a diverse set of speakers. In practise, everyone speaks / writes slightly differently and our models would be better if they accounted for that. This has been the motivation for a line of work by [Charlie Welch](http://cfwelch.com/) that I've been a collaborator on (in [CICLing 2019](http://jkk.name/publication/cicling19personal), [IEEE Intelligent Systems 2019](http://jkk.name/publication/ieee19personal/), [CoLing 2020](http://jkk.name/publication/coling20personal/), and this paper)."
+summary: "Most work in NLP uses datasets with a diverse set of speakers. In practise, everyone speaks / writes slightly differently and our models would be better if they accounted for that. This has been the motivation for a line of work by [Charlie Welch](http://cfwelch.com/) that I've been a collaborator on (in [CICLing 2019](https://www.jkk.name/publication/cicling19personal), [IEEE Intelligent Systems 2019](https://www.jkk.name/publication/ieee19personal/), [CoLing 2020](https://www.jkk.name/publication/coling20personal/), and this paper)."
 authors: []
 tags: ["paper", "word-embeddings", "language-model"]
 categories: []
@@ -31,9 +31,9 @@ projects: []
 Most work in NLP uses datasets with a diverse set of speakers.
 In practise, everyone speaks / writes slightly differently and our models would be better if they accounted for that.
 This has been the motivation for a line of work by [Charlie Welch](http://cfwelch.com/) that I've been a collaborator on (in
-[CICLing 2019](http://jkk.name/publication/cicling19personal),
-[IEEE Intelligent Systems 2019](http://jkk.name/publication/ieee19personal/),
-[CoLing 2020](http://jkk.name/publication/coling20personal/),
+[CICLing 2019](https://www.jkk.name/publication/cicling19personal),
+[IEEE Intelligent Systems 2019](https://www.jkk.name/publication/ieee19personal/),
+[CoLing 2020](https://www.jkk.name/publication/coling20personal/),
 and this paper).
 
 Here, the question is how to improve language modeling for a new user of a service who voluntarily provided some demographic information, but you have no other data for.

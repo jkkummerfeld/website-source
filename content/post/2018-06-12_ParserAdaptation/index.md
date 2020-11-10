@@ -19,7 +19,7 @@ caption = ""
 +++
 
 Virtually all systems trained using data have trouble when applied to datasets that differ even slightly - even switching from Wall Street Journal text to New York Times text can hurt parsing performance slightly.
-Extensive work has explored how to adapt to new domains (including [one of my own](http://jkk.name/publication/acl10adapt/)), but generally these approaches only made up a fraction of the gap in performance.
+Extensive work has explored how to adapt to new domains (including [one of my own](https://www.jkk.name/publication/acl10adapt/)), but generally these approaches only made up a fraction of the gap in performance.
 
 This paper shows two interesting new approaches to this issue:
 

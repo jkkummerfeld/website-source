@@ -54,7 +54,7 @@ selected: false
 
 url_pdf: "http://www.aclweb.org/anthology/W11-1916.pdf"
 
-url_poster: "http://www.jkk.name/pub/conll11coreference_poster.pdf"
+url_poster: "https://www.jkk.name/pub/conll11coreference_poster.pdf"
 
 url_interview: 
 

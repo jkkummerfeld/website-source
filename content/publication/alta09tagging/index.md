@@ -73,7 +73,7 @@ url_blog:
 
 links: 
 - name: PDF Slides
-  url: http://www.jkk.name/pub/alta09tagging_slides.pdf
+  url: https://www.jkk.name/pub/alta09tagging_slides.pdf
 
 citation_count: 0
 citations:

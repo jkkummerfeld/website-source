@@ -59,7 +59,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/report09jhu.pdf"
+url_pdf: "https://www.jkk.name/pub/report09jhu.pdf"
 
 url_poster: 
 

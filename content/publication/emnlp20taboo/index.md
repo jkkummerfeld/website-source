@@ -4,7 +4,7 @@ bibkey: emnlp20taboo
 
 title: Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness
 
-date: "2020-10-10"
+date: "2020-11-01"
 
 year: 2020
 
@@ -56,7 +56,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/emnlp20taboo.pdf"
+url_pdf: "https://www.jkk.name/pub/emnlp20taboo.pdf"
 
 url_poster: 
 

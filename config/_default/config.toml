@@ -9,7 +9,7 @@
 title = "Jonathan K. Kummerfeld"
 
 # The URL of your site.
-baseurl = "http://www.jkk.name/"
+baseurl = "https://www.jkk.name/"
 
 # Enter a copyright notice to display in the site footer.
 copyright = "&copy; {year} Jonathan K. Kummerfeld"

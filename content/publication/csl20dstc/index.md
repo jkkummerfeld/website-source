@@ -56,7 +56,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/csl20dstc.pdf"
+url_pdf: "https://www.jkk.name/pub/csl20dstc.pdf"
 
 url_poster: 
 

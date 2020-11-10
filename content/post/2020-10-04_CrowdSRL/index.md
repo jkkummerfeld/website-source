@@ -3,7 +3,7 @@
 
 title: "A Novel Workflow for Accurately and Efficiently Crowdsourcing Predicate Senses and Argument Labels (Jiang, et al., Findings of EMNLP 2020)"
 subtitle: ""
-summary: "My [previous post](http://jkk.name/post/2020-09-25_crowdqasrl/) discussed work on crowdsourcing QA-SRL, a way of capturing semantic roles in text by asking workers to answer questions. This post covers a paper I contributed to that also considers crowdsourcing SRL, but collects the more traditional form of annotation used in resources like Propbank."
+summary: "My [previous post](https://www.jkk.name/post/2020-09-25_crowdqasrl/) discussed work on crowdsourcing QA-SRL, a way of capturing semantic roles in text by asking workers to answer questions. This post covers a paper I contributed to that also considers crowdsourcing SRL, but collects the more traditional form of annotation used in resources like Propbank."
 authors: []
 tags: ["paper", "annotation", "crowdsourcing", "srl"]
 categories: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-My [previous post](http://jkk.name/post/2020-09-25_crowdqasrl/) discussed work on crowdsourcing QA-SRL, a way of capturing semantic roles in text by asking workers to answer questions.
+My [previous post](https://www.jkk.name/post/2020-09-25_crowdqasrl/) discussed work on crowdsourcing QA-SRL, a way of capturing semantic roles in text by asking workers to answer questions.
 This post covers a paper I contributed to that also considers crowdsourcing SRL, but collects the more traditional form of annotation used in resources like Propbank.
 
 The core new idea is a filtering process in which workers identify *incorrect* answers for a task.
@@ -57,7 +57,7 @@ Second, combining with ideas from other work, such as having a model deciding wh
 
 ## Citation
 
-[Paper](http://www.jkk.name/pub/emnlp-findings20srl.pdf)
+[Paper](https://www.jkk.name/pub/emnlp-findings20srl.pdf)
 
 [My Tweet](https://twitter.com/jkkummerfeld/status/1314632048070594560)
 
@@ -70,7 +70,7 @@ Second, combining with ideas from other work, such as having a model deciding wh
   month     = {November},
   year      = {2020},
   location  = {Online},
-  url       = {http://www.jkk.name/pub/emnlp-findings20srl.pdf},
+  url       = {https://www.jkk.name/pub/emnlp-findings20srl.pdf},
   abstract  = {Resources for Semantic Role Labeling (SRL) are typically annotated by experts at great expense. Prior attempts to develop crowdsourcing methods have either had low accuracy or required substantial expert annotation. We propose a new multi-stage crowd workflow that substantially reduces expert involvement without sacrificing accuracy. In particular, we introduce a unique filter stage based on the key observation that crowd workers are able to almost perfectly filter out incorrect options for labels. Our three-stage workflow produces annotations with 95\% accuracy for predicate labels and 93\% for argument labels, which is comparable to expert agreement. Compared to prior work on crowdsourcing for SRL, we decrease expert effort by 4x, from 56\% to 14\% of cases. Our approach enables more scalable annotation of SRL, and could enable annotation of NLP tasks that have previously been considered too complex to effectively crowdsource.},
 }
 ```

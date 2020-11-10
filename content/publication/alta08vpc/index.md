@@ -52,7 +52,7 @@ selected: false
 
 url_pdf: "http://www.aclweb.org/anthology/U08-1008.pdf"
 
-url_poster: "http://www.jkk.name/pub/alta08vpc_poster.eps"
+url_poster: "https://www.jkk.name/pub/alta08vpc_poster.eps"
 
 url_interview: 
 

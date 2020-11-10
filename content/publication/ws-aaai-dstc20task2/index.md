@@ -52,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/dstc20task2.pdf"
+url_pdf: "https://www.jkk.name/pub/dstc20task2.pdf"
 
 url_poster: 
 

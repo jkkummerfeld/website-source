@@ -64,7 +64,7 @@ url_dataset:
 
 url_project: 
 
-url_slides: "http://www.jkk.name/pub/emnlp13analysis_keynote.key"
+url_slides: "https://www.jkk.name/pub/emnlp13analysis_keynote.key"
 
 url_video: 
 
@@ -72,7 +72,7 @@ url_blog:
 
 links: 
 - name: PDF Slides
-  url: http://www.jkk.name/pub/emnlp13analysis_slides.pdf
+  url: https://www.jkk.name/pub/emnlp13analysis_slides.pdf
 
 citation_count: 31
 citations:

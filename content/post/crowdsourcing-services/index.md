@@ -54,7 +54,7 @@ Both are free, but have slightly different features:
 
 ## Annotation User Interfaces
 
-There are many annotation tools for NLP (e.g. my own, [SLATE](http://jkk.name/slate/)!), but these annotation tools are designed to integrate with providers above to collect annotations.
+There are many annotation tools for NLP (e.g. my own, [SLATE](https://www.jkk.name/slate/)!), but these annotation tools are designed to integrate with providers above to collect annotations.
 
 - [Prodigy](https://prodi.gy/), span classification (e.g. NER), multiple choice questions (which can be used to do a wide range of tasks), and relations (see [examples](https://prodi.gy/features/)). Cost is whatever you pay a crowd provider + 390 for a lifetime license, or 10k for a university-wide lifetime license, though they also often give free licenses to academics. One distinctive property is that you download and run it yourself, providing complete control over your data.
 - [LightTAG](https://www.lighttag.io/), span classification and links. Cost is 1c / annotation + the cost from a crowd provider, but there is an academic license that makes it free.

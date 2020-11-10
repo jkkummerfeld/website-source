@@ -4,7 +4,7 @@ bibkey: emnlp20lm
 
 title: Improving Low Compute Language Modeling with In-Domain Embedding Initialisation
 
-date: "2020-10-10"
+date: "2020-11-01"
 
 year: 2020
 
@@ -51,7 +51,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/emnlp20lm.pdf"
+url_pdf: "https://www.jkk.name/pub/emnlp20lm.pdf"
 
 url_poster: 
 
@@ -75,7 +75,7 @@ links:
 - name: Blog Post
   url: /post/2020-09-29_PretrainingLM/
 - name: Supplementary Material
-  url: http://www.jkk.name/pub/emnlp20lm-supp.pdf
+  url: https://www.jkk.name/pub/emnlp20lm-supp.pdf
 - name: ArXiv
   url: https://arxiv.org/abs/2009.14109
 

@@ -19,7 +19,7 @@ caption = ""
 +++
 
 The OntoNotes dataset, which is the focus of almost all coreference resolution research, had several compromises in its development (as is the case for any dataset).
-Some of these are discussed in my [CoNLL Shared Task submission paper](http://jkk.name/publication/conll11coreference/), the biggest being the choice to not annotate mentions that are not coreferent.
+Some of these are discussed in my [CoNLL Shared Task submission paper](https://www.jkk.name/publication/conll11coreference/), the biggest being the choice to not annotate mentions that are not coreferent.
 This paper describes a new dataset that has a different set of compromises, specifically:
 
 - A broader definition of coreference (e.g. appositives are coreferent)
@@ -31,7 +31,7 @@ The dataset is 10x the size of OntoNotes and freely available, which is fantasti
 The source text is 2/3rds the RACE dataset (English reading comprehension exams from China), and 1/3rd scraped websites.
 Measurements of annotator agreement suggest the annotations are not as consistent as OntoNotes, but still good enough to be a useful resource.
 I do disagree with one aspect of the paper's analysis - the results show a substantial gain in performance when providing gold mentions, suggesting to me that it remains an important challenge in coreference resolution.
-I'm also curious whether my [coreference analysis tool](http://jkk.name/publication/emnlp13analysis/) would find different patterns in errors on this dataset compared to OntoNotes.
+I'm also curious whether my [coreference analysis tool](https://www.jkk.name/publication/emnlp13analysis/) would find different patterns in errors on this dataset compared to OntoNotes.
 
 ## Citation
 

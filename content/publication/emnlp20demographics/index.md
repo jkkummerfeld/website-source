@@ -4,7 +4,7 @@ bibkey: emnlp20demographics
 
 title: Compositional Demographic Word Embeddings
 
-date: "2020-10-10"
+date: "2020-11-01"
 
 year: 2020
 

@@ -4,7 +4,7 @@ bibkey: coling20personal
 
 title: Exploring the Value of Personalized Word Embeddings
 
-date: "2020-10-01"
+date: "2020-12-01"
 
 year: 2020
 

@@ -49,7 +49,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.jkk.name/pub/hcomp20fair.pdf"
+url_pdf: "https://www.jkk.name/pub/hcomp20fair.pdf"
 
 url_poster: 
 
