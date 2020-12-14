@@ -9,6 +9,8 @@ for line in sys.stdin:
         content = line.strip()
         url = content.split()[1].split('"')[1][:-1] + ".pdf"
         name = content.split(" - ACL Anthology")[0].split(">")[-1]
+        if url.startswith('https'):
+            url = 'http' + url[5:]
         papers[name] = url
         print(name)
 
@@ -16,10 +18,15 @@ for line in sys.stdin:
 import io, requests
 PDFs = {}
 for name, url in papers.items():
-    r = requests.get(url, auth=('usrname', 'password'), verify=False,stream=True)
-    assert 200 <= r.status_code < 400
-    r.raw.decode_content = True
-    PDFs[name] = io.BytesIO(r.content)
+    r = requests.get(url, headers={"User-Agent": "Reading-a-set-of-papers"})
+    try:
+        assert 200 <= r.status_code < 400
+        r.raw.decode_content = True
+        PDFs[name] = io.BytesIO(r.content)
+    except AssertionError:
+        print(r.status_code)
+        print(r)
+        sys.exit(0)
 
 # Get the Introductions
 from PyPDF2 import PdfFileReader, PdfFileWriter
