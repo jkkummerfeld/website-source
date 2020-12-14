@@ -20,7 +20,7 @@ caption = ""
 
 Crowdsourcing, collecting annotations of data from a distributed group of people online, is a major source of data for AI research.
 The original idea involved people doing it as volunteers (e.g. Folding@home) or as a byproduct of some other goal (e.g. reCAPTCHA), but most of the data collected in AI today is from paid workers.
-Recently, [Hal Daumé III](http://users.umiacs.umd.edu/~hal/) mentioned on [Twitter](https://twitter.com/haldaume3/status/1113889907586535425) that Figure Eight, a paid crowdsourcing service, had removed their free licenses for academics, and asked for alternatives.
+Recently, [Hal Daumé III](http://users.umiacs.umd.edu/~hal/) mentioned on [Twitter](https://twitter.com/haldaume3/status/1113889907586535425) that Figure Eight, a paid crowdsourcing service, had removed their free licenses for academics, and asked for alternatives (Note, Figure Eight has since been acquired by Appen).
 A bunch of people had suggestions which I wanted to record for my own future reference, hence this blog post.
 
 These fell into a few categories:

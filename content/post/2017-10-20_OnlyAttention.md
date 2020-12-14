@@ -27,7 +27,7 @@ To explain the structure I put together the figure below, which captures the net
 
 ![Google Attention Network](/img/post/google-attention.png)
 
-There a few ideas being brought together here:
+There are a few ideas being brought together here:
 
 - *Positional encoding*, which is a vector of the same length as the word representation, but that depends only on the position in the input. Here they use $f(pos, dim) = sin(pos / 10000^{2 dim / d_w})$ for even dimensions and the cosine equivalent for odd dimensions (where $d_w$ is the number of dimensions.
 - *Multi-head attention*, where rather than running attention once on the full vector, multiple linear transforms are applied to get smaller vectors.
