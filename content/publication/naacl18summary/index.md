@@ -74,7 +74,7 @@ url_blog:
 
 links: 
 
-citation_count: 6
+citation_count: 7
 citations:
 - title: A Crowdsourcing Approach to Evaluate the Quality of Query-based Extractive Text Summaries
   year: 2019
@@ -106,6 +106,11 @@ citations:
   url: "https://www.aclweb.org/anthology/D19-1176"
   venue: EMNLP
   authors: Luke Breitfeller, Emily Ahn, David Jurgens, Yulia Tsvetkov
+- title: How we write with crowds
+  year: 2020
+  url: 
+  venue: CSCW
+  authors: Molly Q. Feldman, Brian McInnis
 
 
 ---

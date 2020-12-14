@@ -73,8 +73,13 @@ url_blog:
 
 links: 
 
-citation_count: 0
+citation_count: 1
 citations:
+- title: "NEMO: Frequentist Inference Approach to Constrained Linguistic Typology Feature Prediction in SIGTYP 2020 Shared Task"
+  year: 2020
+  url: 
+  venue: Workshop on Computational Research in Linguistic Typology
+  authors: Alexander Gutkin, Richard Sproat
 
 
 ---

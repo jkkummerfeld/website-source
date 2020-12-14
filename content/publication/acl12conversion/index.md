@@ -59,7 +59,7 @@ url_interview:
 
 url_arxiv: 
 
-url_code: "https://jkk.name/berkeley-ccg2pst/"
+url_code: "https://www.jkk.name/berkeley-ccg2pst/"
 
 url_dataset: 
 

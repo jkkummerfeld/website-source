@@ -78,7 +78,7 @@ url_blog:
 
 links: 
 
-citation_count: 27
+citation_count: 30
 citations:
 - title: Ethical issues of research using datasets of illicit origin
   year: 2017
@@ -166,6 +166,7 @@ citations:
 - title: "Cybercrimes: Critical Issues in a Global Context"
   year: 2020
   url: 
+  venue: Macmillan International Higher Education
   authors: Anita Lavorgna
 - title: "A tight scrape: methodological approaches to cybercrime research data collection in adversarial environments"
   year: 2020
@@ -202,16 +203,31 @@ citations:
   url: 
   venue: ACM SIGSAC Conference on Computer and Communications Security
   authors: Luca Allodi
-- title: "A tight scrape: methodological approaches to cybercrime research data collection in adversarial environments"
+- title: "SourceFinder: Finding Malware Source-Code from Publicly Available Repositories in GitHub"
   year: 2020
   url: 
-  venue: IEEE European Symposium on Security and Privacy, Workshop on Attackers and Cyber-Crime Operations
-  authors: Kieron Turk, Sergio Pastrana, Ben Collier
+  venue: International Symposium on Research in Attacks, Intrusions and Defenses
+  authors: Md Omar Faruk Rokon, Risul Islam, Ahmad Darki, Evangelos E. Papalexakis, Michalis Faloutsos
+- title: A Framework for Analysis Attackers’ Accounts
+  year: 2020
+  url: 
+  venue: Security, Privacy and User Interaction
+  authors: Hossein Siadati, Jay Koven, Christian Felix da Silva, Markus Jakobsson, Enrico Bertini, David Maimon, Nasir Memon
 - title: "Turning Up the Dial: the Evolution of a Cybercrime Market Through Set-up, Stable, and Covid-19 Eras"
   year: 2020
   url: 
-  venue: ACM Internet Measurement Conference
+  venue: Internet Measurement Conference
   authors: Anh V. Vu, Jack Hughes, Ildiko Pete, Ben Collier, Yi Ting Chua, Ilia Shumailov, Alice Hutchings
+- title: "HackerScope: The Dynamics of a Massive Hacker"
+  year: 2020
+  url: 
+  venue: Conference on Advances in Social Networks Analysis and Mining
+  authors: Online Ecosystem, Risul Islam, Md Omar Faruk Rokon, Ahmad Darki, Michalis Faloutsos
+- title: "TenFor: A Tensor-Based Tool to Extract Interesting Events from Security Forums"
+  year: 2020
+  url: 
+  venue: Conference on Advances in Social Networks Analysis and Mining
+  authors: Risul Islam, Md Omar Faruk Rokon, Evangelos E. Papalexakis, Michalis Faloutsos
 
 
 ---

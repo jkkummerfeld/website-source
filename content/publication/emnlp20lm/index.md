@@ -31,13 +31,13 @@ abstract_short: Many NLP applications, such as biomedical data and technical sup
 
 address: 
 
-doi: 
+doi: 10.18653/v1/2020.emnlp-main.696
 
 issue: 
 
 number: 
 
-pages: 
+pages: 8625--8634
 
 publisher: 
 
@@ -51,7 +51,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "https://www.jkk.name/pub/emnlp20lm.pdf"
+url_pdf: "https://www.aclweb.org/anthology/2020.emnlp-main.696"
 
 url_poster: 
 
@@ -69,13 +69,11 @@ url_slides:
 
 url_video: 
 
-url_blog: 
+url_blog: /post/2020-09-29_PretrainingLM/
 
 links: 
-- name: Blog Post
-  url: /post/2020-09-29_PretrainingLM/
 - name: Supplementary Material
-  url: https://www.jkk.name/pub/emnlp20lm-supp.pdf
+  url: https://www.aclweb.org/anthology/attachments/2020.emnlp-main.696.OptionalSupplementaryMaterial.zip
 - name: ArXiv
   url: https://arxiv.org/abs/2009.14109
 

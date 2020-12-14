@@ -75,17 +75,15 @@ url_slides:
 
 url_video: 
 
-url_blog: 
+url_blog: "http://localhost:1313/post/2019-09-13_diplomacynopress/"
 
 links: 
-- name: Blog Post
-  url: http://localhost:1313/post/2019-09-13_diplomacynopress/
 - name: Supplementary Material
   url: https://papers.nips.cc/paper/8697-no-press-diplomacy-modeling-multi-agent-gameplay-supplemental.zip
 - name: ArXiv
   url: https://arxiv.org/abs/1909.02128
 
-citation_count: 3
+citation_count: 4
 citations:
 - title: "It Takes Two to Lie: One to Lie, and One to Listen"
   year: 2020
@@ -102,6 +100,11 @@ citations:
   url: 
   venue: AAMAS
   authors: Edward Hughes, Thomas W. Anthony, Tom Eccles, Joel Z. Leibo, David Balduzzi, Yoram Bachrach
+- title: "Learning to Play: Reinforcement Learning and Games"
+  year: 2020
+  url: 
+  venue: Springer
+  authors: Aske Plaat
 
 
 ---

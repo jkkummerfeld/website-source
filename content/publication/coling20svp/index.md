@@ -23,13 +23,13 @@ authors:
 
 publication_types: ["1"]
 
-publication: The 28th International Conference on Computational Linguistics
+publication: Proceedings of the 28th International Conference on Computational Linguistics
 
 publication_short: CoLing
 
-abstract: TBA
+abstract: Slot-filling models in task-driven dialog systems rely on carefully annotated training data. However, annotations by crowd workers are often inconsistent or contain errors. Simple solutions like manually checking annotations or having multiple workers label each sample are expensive and waste effort on samples that are correct. If we can identify inconsistencies, we can focus effort where it is needed. Toward this end, we define six inconsistency types in slot-filling annotations. Using three new noisy crowd-annotated datasets, we show that a wide range of inconsistencies occur and can impact system performance if not addressed. We then introduce automatic methods of identifying inconsistencies. Experiments on our new datasets show that these methods effectively reveal inconsistencies in data, though there is further scope for improvement.
 
-abstract_short: TBA
+abstract_short: Slot-filling models in task-driven dialog systems rely on carefully annotated training data. However, annotations by crowd workers are often inconsistent or contain errors. Simple solutions like manually checking annotations or having multiple workers label each sample are expensive and waste effort on samples that are correct. If we can identify inconsistencies, we can focus effort where it is needed. Toward this end, we define six inconsistency types in slot-filling annotations. Using three new noisy crowd-annotated datasets, we show that a wide range of inconsistencies occur and can impact system performance if not addressed. We then introduce automatic methods of identifying inconsistencies. Experiments on our new datasets show that these methods effectively reveal inconsistencies in data, though there is further scope for improvement.
 
 address: 
 
@@ -39,7 +39,7 @@ issue:
 
 number: 
 
-pages: 
+pages: 5035--5046
 
 publisher: 
 
@@ -53,7 +53,7 @@ image_preview:
 
 selected: false
 
-url_pdf: 
+url_pdf: "https://www.aclweb.org/anthology/2020.coling-main.442"
 
 url_poster: 
 

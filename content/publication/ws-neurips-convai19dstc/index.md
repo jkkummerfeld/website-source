@@ -93,7 +93,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1911.06394
 
-citation_count: 5
+citation_count: 7
 citations:
 - title: Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System
   year: 2020
@@ -120,6 +120,16 @@ citations:
   url: 
   venue: EMNLP
   authors: Qi Jia, Yizhu Liu, Siyu Ren, Kenny Q. Zhu, Haifeng Tang
+- title: Black-Box Testing of Financial Virtual Assistants
+  year: 2020
+  url: 
+  venue: Conference on Software Quality, Reliability and Security Companion
+  authors: Iosif Itkin, Elena Treshcheva, Luba Konnova, Pavel Braslavski, Rostislav Yavorskiy
+- title: "Conversation Graph: Data Augmentation, Training and Evaluation for Non-Deterministic Dialogue Management"
+  year: 2020
+  url: 
+  venue: TACL
+  authors: Milan Gritta, Gerasimos Lampouras, Ignacio Iacobacci
 
 
 ---

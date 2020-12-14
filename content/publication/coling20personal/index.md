@@ -22,13 +22,13 @@ authors:
 
 publication_types: ["1"]
 
-publication: The 28th International Conference on Computational Linguistics
+publication: Proceedings of the 28th International Conference on Computational Linguistics
 
 publication_short: CoLing (short)
 
-abstract: TBA
+abstract: In this paper, we introduce personalized word embeddings, and examine their value for language modeling. We compare the performance of our proposed prediction model when using personalized versus generic word representations, and study how these representations can be leveraged for improved performance. We provide insight into what types of words can be more accurately predicted when building personalized models. Our results show that a subset of words belonging to specific psycholinguistic categories tend to vary more in their representations across users and that combining generic and personalized word embeddings yields the best performance, with a 4.7{%} relative reduction in perplexity. Additionally, we show that a language model using personalized word embeddings can be effectively used for authorship attribution.
 
-abstract_short: TBA
+abstract_short: In this paper, we introduce personalized word embeddings, and examine their value for language modeling. We compare the performance of our proposed prediction model when using personalized versus generic word representations, and study how these representations can be leveraged for improved performance. We provide insight into what types of words can be more accurately predicted when building personalized models. Our results show that a subset of words belonging to specific psycholinguistic categories tend to vary more in their representations across users and that combining generic and personalized word embeddings yields the best performance, with a 4.7{%} relative reduction in perplexity. Additionally, we show that a language model using personalized word embeddings can be effectively used for authorship attribution.
 
 address: 
 
@@ -38,7 +38,7 @@ issue:
 
 number: 
 
-pages: 
+pages: 6856--6862
 
 publisher: 
 
@@ -52,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf: 
+url_pdf: "https://www.aclweb.org/anthology/2020.coling-main.604"
 
 url_poster: 
 

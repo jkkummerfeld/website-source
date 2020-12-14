@@ -58,7 +58,7 @@ url_interview:
 
 url_arxiv: 
 
-url_code: "https://jkk.name/berkeley-coreference-analyser/"
+url_code: "https://www.jkk.name/berkeley-coreference-analyser/"
 
 url_dataset: 
 
@@ -74,7 +74,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/emnlp13analysis_slides.pdf
 
-citation_count: 31
+citation_count: 34
 citations:
 - title: Visualization, Search, and Error Analysis for Coreference Annotations
   year: 2014
@@ -230,6 +230,21 @@ citations:
   url: 
   venue: International Conference of the German Society for Computational Linguistics and Language Technology
   authors: Ankit Srivastava, Sabine Weber, Peter Bourgonje, Georg Rehm
+- title: "Conundrums in Entity Coreference Resolution: Making Sense of the State of the Art"
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.536"
+  venue: EMNLP
+  authors: Jing Lu, Vincent Ng
+- title: "Learning to Ignore: Long Document Coreference with Bounded Memory Neural Networks"
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Shubham Toshniwal, Sam Wiseman, Allyson Ettinger, Karen Livescu, Kevin Gimpel
+- title: A Benchmark of Rule-Based and Neural Coreference Resolution in Dutch Novels and News
+  year: 2020
+  url: 
+  venue: Workshop on Computational Models of Reference, Anaphora and Coreference
+  authors: Corben Poot, Andreas van Cranenburgh
 
 
 ---

@@ -65,9 +65,9 @@ url_interview:
 
 url_arxiv: "https://arxiv.org/abs/1810.11118"
 
-url_code: "https://jkk.name/irc-disentanglement"
+url_code: "https://www.jkk.name/irc-disentanglement"
 
-url_dataset: "https://jkk.name/irc-disentanglement"
+url_dataset: "https://www.jkk.name/irc-disentanglement"
 
 url_project: 
 
@@ -75,17 +75,15 @@ url_slides:
 
 url_video: 
 
-url_blog: 
+url_blog: /post/2019-07-10_disentanglement/
 
 links: 
-- name: Blog Post
-  url: /post/2019-07-10_disentanglement/
 - name: Supplementary Material
   url: https://www.aclweb.org/anthology/attachments/P19-1374.Supplementary.pdf
 - name: ArXiv
   url: https://arxiv.org/abs/1810.11118
 
-citation_count: 27
+citation_count: 30
 citations:
 - title: Query-Focused Scenario Construction
   year: 2019
@@ -222,6 +220,21 @@ citations:
   url: 
   venue: EMNLP
   authors: Qi Jia, Yizhu Liu, Siyu Ren, Kenny Q. Zhu, Haifeng Tang
+- title: Response Selection for Multi-Party Conversations with Dynamic Topic Tracking
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Weishi Wang, Shafiq Joty, Steven C.H. Hoi
+- title: "Vertext: An End-to-end AI Powered Conversation Management System for Multi-party Chat Platforms"
+  year: 2020
+  url: 
+  venue: "CSCW: Demonstrations"
+  authors: Omer Anjum, Chak Ho Chan, Tanitpong Lawphongpanich, Yucheng Liang, Tianyi Tang, Shuchen Zhang, Wen-mei Hwu, Jinjun Xiong, Sanjay Patel
+- title: Online Conversation Disentanglement with Pointer Networks
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Tao Yu, Shafiq Joty
 
 
 ---

@@ -74,7 +74,7 @@ url_blog:
 
 links: 
 
-citation_count: 10
+citation_count: 13
 citations:
 - title: Extracting Dialog Structure and Latent Beliefs from Dialog Corpus
   year: 2019
@@ -126,6 +126,21 @@ citations:
   url: 
   venue: SIGIR
   authors: Amir Vakili Tahami, Kamyar Ghajar, Azadeh Shakery
+- title: Automatic Evaluation of Non-task Oriented Dialog Systems by Using Sentence Embeddings Projections and Their Dynamics
+  year: 2020
+  url: 
+  venue: Conversational Dialogue Systems for the Next Decade
+  authors: Mario Rodríguez-Cantelar, Luis Fernando D’Haro, Fernando Matia
+- title: A Repository of Conversational Datasets
+  year: 2019
+  url: 
+  venue: Workshop on NLP for Conversational AI
+  authors: Matthew Henderson, Paweł Budzianowski, Iñigo Casanueva, Sam Coope, Daniela Gerz, Girish Kumar, Nikola Mrkšić, Georgios Spithourakis, Pei-Hao Su, Ivan Vulić, Tsung-Hsien Wen
+- title: Response Selection for Multi-Party Conversations with Dynamic Topic Tracking
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Weishi Wang, Shafiq Joty, Steven C.H. Hoi
 
 
 ---

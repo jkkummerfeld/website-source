@@ -57,7 +57,7 @@ url_interview:
 
 url_arxiv: 
 
-url_code: "https://jkk.name/slate"
+url_code: "https://www.jkk.name/slate"
 
 url_dataset: 
 
@@ -71,7 +71,7 @@ url_blog:
 
 links: 
 
-citation_count: 2
+citation_count: 3
 citations:
 - title: An extensive review of tools for manual annotation of documents
   year: 2019
@@ -83,6 +83,11 @@ citations:
   url: 
   venue: Information Systems
   authors: Jonatas S. Grosman, Pedro H.T. Furtado, Ariane M.B. Rodrigues, Guilherme G. Schardong, Simone D.J. Barbosa, Helio C.V. Lopes
+- title: "Annobot: Platform for Annotating and Creating Datasets through Conversation with a Chatbot"
+  year: 2020
+  url: 
+  venue: CoLing
+  authors: Rafal Poswiata, Michal Perelkiewicz
 
 
 ---

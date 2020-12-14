@@ -103,15 +103,15 @@ email: "jkummerf@umich.edu"
 ###- Visitors
 ---
 
-**This cycle (2020-2021) I will be on the job market!**
+**My work:**
+I aim to make language interaction a part of every application (e.g. document editing and spreadsheets).
+This involves solving a range of fascinating challenges through new methods in artificial intelligence and crowdsourcing.
 
-My email address is: jkummerf@umich.edu
+I am currently a Postdoctoral Research Fellow at the [University of Michigan](https://www.cse.umich.edu/), working on a range of topics in Natural Language Processing and Crowdsourcing.
+I completed my Ph.D. in the [UC Berkeley NLP Group](http://nlp.cs.berkeley.edu/), advised by [Dan Klein](http://www.cs.berkeley.edu/~klein), and my B.Sc. in the University of Sydney Schwa Lab, advised by [James Curran](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/james-r-curran.html).
 
-My {{% staticref "doc/jonathan-kummerfeld-cv.pdf" %}}CV{{% /staticref %}} is available as a pdf.
+E-mail: jkummerf@umich.edu
 
-I am a Postdoctoral Research Fellow, working on Natural Language Processing at the [University of Michigan](https://www.umich.edu/), in [Computer Science and Engineering](https://www.cse.umich.edu/).
-While at Michigan I have worked on a range of sub-areas including Crowdsourcing, Code Generation and Dialogue.
+CV: {{% staticref "doc/jonathan-kummerfeld-cv.pdf" %}}pdf{{% /staticref %}}
 
-I completed my PhD in the [UC Berkeley NLP Group](http://nlp.cs.berkeley.edu/), advised by [Dan Klein](http://www.cs.berkeley.edu/~klein), with a thesis on new algorithms related to syntactic parsing: error analysis, formalism conversion, and graph parsing.
-I completed my BSc (Adv) with honours and medal in the University of Sydney Schwa Lab advised by [James Curran](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/james-r-curran.html), with a thesis on an algorithm for faster CCG parsing.
-I received my Higher School Certificate at [Emanuel School](http://www.emanuelschool.nsw.edu.au/), receiving the Premier's Award for my results in English, Mathematics, Physics, and Cosmology.
+**I am on the job market!** I am interested in both academic and industry opportunities, but not quantitative finance.

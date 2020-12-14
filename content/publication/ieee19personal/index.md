@@ -74,7 +74,7 @@ url_blog:
 
 links: 
 
-citation_count: 3
+citation_count: 4
 citations:
 - title: "The Four Dimensions of Social Network Analysis: An Overview of Research Methods, Applications, and Software Tools"
   year: 2020
@@ -91,6 +91,11 @@ citations:
   url: 
   venue: IEEE Intelligent Systems
   authors: Jetze Schuurmans, Flavius Frasincar
+- title: Learning interaction dynamics with an interactive LSTM for conversational sentiment analysis
+  year: 2020
+  url: 
+  venue: Neural Networks
+  authors: Yazhou Zhang, Prayag Tiwari, Dawei Song, Xiaoliu Mao, Panpan Wang, Xiang Li, Hari Mohan Pandey
 
 
 ---

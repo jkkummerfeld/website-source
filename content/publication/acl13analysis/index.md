@@ -60,7 +60,7 @@ url_interview:
 
 url_arxiv: 
 
-url_code: "https://jkk.name/berkeley-parser-analyser/"
+url_code: "https://www.jkk.name/berkeley-parser-analyser/"
 
 url_dataset: 
 
@@ -76,7 +76,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/acl13analysis_slides.pdf
 
-citation_count: 14
+citation_count: 15
 citations:
 - title: Chinese syntactic parsing based on linguistic entity-relationship model
   year: 2013
@@ -148,6 +148,11 @@ citations:
   url: "https://www.aclweb.org/anthology/R17-1026/"
   venue: RANLP
   authors: "Daniel Dakota, Sandra K{\"u}bler"
+- title: A note on constituent parsing for Korean
+  year: 2020
+  url: 
+  venue: Natural Language Engineering
+  authors: Mija Kim, Jungyeul Park
 
 
 ---

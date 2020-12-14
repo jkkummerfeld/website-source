@@ -78,7 +78,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/acl10adapt_slides.pdf
 
-citation_count: 12
+citation_count: 13
 citations:
 - title: Chart pruning for fast lexicalised-grammar parsing
   year: 2010
@@ -140,6 +140,11 @@ citations:
   url: "https://www.aclweb.org/anthology/N19-1075"
   venue: NAACL
   authors: Jungo Kasai, Dan Friedman, Robert Frank, Dragomir Radev, Owen Rambow
+- title: Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Yuanhe Tian, Yan Song, Fei Xia
 
 
 ---

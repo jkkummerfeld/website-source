@@ -83,7 +83,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1909.02027
 
-citation_count: 8
+citation_count: 14
 citations:
 - title: "User Utterance Acquisition for Training Task-Oriented Bots: A Review of Challenges, Techniques and Opportunities"
   year: 2020
@@ -125,6 +125,36 @@ citations:
   url: 
   venue: EMNLP Insights Workshop
   authors: Gaurav Arora, Chirag Jain, Manas Chaturvedi, Krupal Modi
+- title: Intent Detection-Based Lithuanian Chatbot Created via Automatic DNN HyperParameter Optimization
+  year: 2020
+  url: 
+  venue: Human Language Technologies - The Baltic Perspective
+  authors: Jurgita Kapociute-Dzikiene
+- title: Probing Task-Oriented Dialogue Representation from Language Models
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Chien-Sheng Wu, Caiming Xiong
+- title: Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Jian-Guo Zhang, Kazuma Hashimoto, Wenhao Liu, Chien-Sheng Wu, Yao Wan, Philip S. Yu, Richard Socher, Caiming Xiong
+- title: Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.324"
+  venue: EMNLP
+  authors: Paulo Cavalin, Victor Henrique Alves Ribeiro, Ana Appel, Claudio inhanez
+- title: Few-shot Pseudo-Labeling for Intent Detection
+  year: 2020
+  url: 
+  venue: CoLing
+  authors: Thomas Dopierre, C. Gravier, Julien Subercaze, Wilfried Logerais
+- title: A Deep Generative Distance-Based Classifier for Out-of-Domain Detection with Mahalanobis Space
+  year: 2020
+  url: 
+  venue: CoLing
+  authors: H. Xu, Keqing He, Yuanmeng Yan, Si-hong Liu, Z. Liu, Weiran Xu
 
 
 ---

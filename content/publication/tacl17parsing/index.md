@@ -58,7 +58,7 @@ url_interview:
 
 url_arxiv: "https://arxiv.org/abs/1707.04221"
 
-url_code: "https://jkk.name/1ec-graph-parser/"
+url_code: "https://www.jkk.name/1ec-graph-parser/"
 
 url_dataset: 
 
@@ -76,7 +76,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1707.04221
 
-citation_count: 9
+citation_count: 10
 citations:
 - title: Exploiting Structure in Parsing to 1-Endpoint-Crossing Graphs
   year: 2017
@@ -123,6 +123,11 @@ citations:
   url: "https://www.aclweb.org/anthology/P18-1248"
   venue: ACL
   authors: Carlos Gómez-Rodríguez, Shi, Tianze Shi, Lillian Lee
+- title: Semantic Role Labeling as Syntactic Dependency Parsing
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Tianze Shi, Igor Malioutov, Ozan İrsoy
 
 
 ---

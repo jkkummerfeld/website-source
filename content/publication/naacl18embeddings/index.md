@@ -75,7 +75,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1804.09692
 
-citation_count: 35
+citation_count: 44
 citations:
 - title: "Subcharacter information in japanese embeddings: when is it worth it?"
   year: 2018
@@ -252,6 +252,51 @@ citations:
   url: 
   venue: Association for Information Science and Technology
   authors: Grace E. Lee, Aixin Sun
+- title: Embedding Structured Dictionary Entries
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.insights-1.18"
+  venue: EMNLP Workshop on Insights from Negative Results in NLP
+  authors: Steven Wilson, Walid Magdy, Barbara McGillivray, Gareth Tyson
+- title: Diachronic Embeddings for People in the News
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.nlpcss-1.19"
+  venue: EMNLP Workshop on Natural Language Processing and Computational Social Science
+  authors: Felix Hennig, Steven Wilson
+- title: "Is {W}ikipedia succeeding in reducing gender bias? Assessing changes in gender bias in {W}ikipedia using word embeddings"
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.nlpcss-1.11"
+  venue: EMNLP Workshop on Natural Language Processing and Computational Social Science
+  authors: Katja Geertruida Schmahl, Tom Julian Viering, Stavros Makrodimitris, Arman Naseri Jahfari, David Tax, Marco Loog
+- title: Measuring the Semantic Stability of Word Embedding
+  year: 2020
+  url: 
+  venue: Natural Language Processing and Chinese Computing
+  authors: Zhenhao Huang, Chenxu Wang
+- title: Short-term Semantic Shifts and their Relation to Frequency Change
+  year: 2020
+  url: 
+  venue: Probability and Meaning Conference
+  authors: Anna Marakasova, Julia Neidhardt
+- title: Visualizing and Quantifying Vocabulary Learning During Search
+  year: 2020
+  url: 
+  venue: CIKM Workshop on Investigating Learning During (Web) Search
+  authors: Nilavra Bhattacharyaa, Jacek Gwizdkaa
+- title: Detecting Different Forms of Semantic Shift in Word Embeddings via Paradigmatic and Syntagmatic Association Changes
+  year: 2020
+  url: 
+  venue: The Semantic Web
+  authors: Anna Wegmann, Florian Lemmerich, Markus Strohmaier
+- title: An Empirical Study of the Downstream Reliability of Pre-Trained Word Embeddings
+  year: 2020
+  url: 
+  venue: CoLing
+  authors: Anthony Rios, Brandon Lwowski
+- title: Comparing the performance of various Swedish BERT models for classification
+  year: 2020
+  url: 
+  venue: Swedish Language Technology Conference
+  authors: Daniel Holmer, Arne Jonsson
 
 
 ---

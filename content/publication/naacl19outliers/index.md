@@ -81,7 +81,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1904.03122
 
-citation_count: 3
+citation_count: 4
 citations:
 - title: "User Utterance Acquisition for Training Task-Oriented Bots: A Review of Challenges, Techniques and Opportunities"
   year: 2020
@@ -98,6 +98,11 @@ citations:
   url: 
   venue: ACL
   authors: Katherine Stasaski, Grace Hui Yang, Marti A. Hearst
+- title: Elimination of multidimensional outliers for a compression chiller using a support vector data description
+  year: 2020
+  url: 
+  venue: Science and Technology for the Built Environment
+  authors: Jae Min Kim, Cheol Soo Park
 
 
 ---

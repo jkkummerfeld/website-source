@@ -60,7 +60,7 @@ url_interview:
 
 url_arxiv: 
 
-url_code: "https://jkk.name/berkeley-parser-analyser/"
+url_code: "https://www.jkk.name/berkeley-parser-analyser/"
 
 url_dataset: 
 
@@ -76,7 +76,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/emnlp12analysis_slides.pdf
 
-citation_count: 52
+citation_count: 57
 citations:
 - title: Joint Apposition Extraction with Syntactic and Semantic Constraints
   year: 2013
@@ -338,6 +338,31 @@ citations:
   url: 
   venue: TALN
   authors: Jungyeul Park
+- title: An Empirical Exploration of Local Ordering Pre-training for Structured Prediction
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.findings-emnlp.160"
+  venue: Findings of EMNLP
+  authors: Zhisong Zhang, Xiang Kong, Lori Levin, Eduard Hovy
+- title: "Unsupervised Parsing with S-DIORA: Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders"
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Andrew Drozdov, Subendhu Rongal, Yi-Pei Chen, Tim O'Gorman, Mohit Iyyer, Andrew McCallum
+- title: Strongly Incremental Constituency Parsing with Graph Neural Networks
+  year: 2020
+  url: 
+  venue: NeurIPS
+  authors: Kaiyu Yang, Jia Deng
+- title: A note on constituent parsing for Korean
+  year: 2020
+  url: 
+  venue: Natural Language Engineering
+  authors: Mija Kim, Jungyeul Park
+- title: "Parsers Know Best: German PP Attachment Revisited"
+  year: 2020
+  url: 
+  venue: CoLing
+  authors: Bich-Ngoc Do, Ines Rehbein
 
 
 ---

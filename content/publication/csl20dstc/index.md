@@ -78,7 +78,7 @@ url_blog:
 
 links: 
 
-citation_count: 7
+citation_count: 14
 citations:
 - title: "RAP-Net: Recurrent Attention Pooling Networks for Dialogue Response Selection"
   year: 2020
@@ -115,6 +115,41 @@ citations:
   url: 
   venue: CSL
   authors: Hung T. Le, Doyen Sahoo, Nancy F. Chen, Steven C. H. Hoi
+- title: Counterfactual Augmentation for Training Next Response Selection
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.sustainlp-1.22"
+  venue: EMNLP Workshop on Simple and Efficient Natural Language Processing
+  authors: Seungtaek Choi, Myeongho Jeong, Jinyoung Yeo, Seung-won Hwang
+- title: Conditional Response Augmentation for Dialogue using Knowledge Distillation
+  year: 2020
+  url: 
+  venue: Interspeech
+  authors: Myeongho Jeong, Seungtaek Choi, Hojae Han, Kyungho Kim, Seung-won Hwang
+- title: Investigating topics, audio representations and attention for multimodal scene-aware dialog
+  year: 2020
+  url: 
+  venue: CSL
+  authors: Shachi H.Kumar, Eda Okur, Saurav Sahay, Jonathan Huang, Lama Nachman
+- title: A Quantum-Like multimodal network framework for modeling interaction dynamics in multiparty conversational sentiment analysis 
+  year: 2020
+  url: 
+  venue: Information Fusion
+  authors: Yazhou Zhang, Dawei Song, Xiang Li, Peng Zhang, Panpan Wang, Lu Rong, Guangliang Yu, Bo Wang
+- title: Language Model Transformers as Evaluators for Open-domain Dialogues
+  year: 2020
+  url: 
+  venue: CoLing
+  authors: Rostislav Nedelchev, Jens Lehmann, Ricardo Usbeck
+- title: "Spoken Medical Prescription Acquisition Through a Dialogue System on Smartphone: Perspective of a Healthcare Software Company"
+  year: 2020
+  url: 
+  venue: LREC
+  authors: Ali Can Kocabiyikoglu, François Portet, Jean-Marc Babouchkine, Hervé Blanchon
+- title: "MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations"
+  year: 2020
+  url: 
+  venue: CoLing
+  authors: Mauajama Firdaus, Hardik Chauhan, Asif Ekbal, Pushpak Bhattacharyya
 
 
 ---

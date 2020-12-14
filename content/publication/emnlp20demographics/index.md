@@ -22,7 +22,7 @@ authors:
 
 publication_types: ["1"]
 
-publication: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing
+publication: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
 
 publication_short: EMNLP
 
@@ -32,13 +32,13 @@ abstract_short: "Word embeddings are usually derived from corpora containing tex
 
 address: 
 
-doi: 
+doi: 10.18653/v1/2020.emnlp-main.334
 
 issue: 
 
 number: 
 
-pages: 
+pages: 4076--4089
 
 publisher: 
 
@@ -52,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "https://arxiv.org/abs/2010.02986"
+url_pdf: "https://www.aclweb.org/anthology/2020.emnlp-main.334"
 
 url_poster: 
 
@@ -70,11 +70,9 @@ url_slides:
 
 url_video: 
 
-url_blog: 
+url_blog: /post/2020-10-10_demographicembeddings/
 
 links: 
-- name: Blog Post
-  url: /post/2020-10-10_demographicembeddings/
 - name: ArXiv
   url: https://arxiv.org/abs/2010.02986
 

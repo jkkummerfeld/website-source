@@ -26,7 +26,7 @@ authors:
 
 publication_types: ["1"]
 
-publication: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing
+publication: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
 
 publication_short: EMNLP (short)
 
@@ -36,13 +36,13 @@ abstract_short: Diverse data is crucial for training robust models, but crowdsou
 
 address: 
 
-doi: 
+doi: 10.18653/v1/2020.emnlp-main.650
 
 issue: 
 
 number: 
 
-pages: 
+pages: 8097--8106
 
 publisher: 
 
@@ -56,7 +56,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "https://www.jkk.name/pub/emnlp20taboo.pdf"
+url_pdf: "https://www.aclweb.org/anthology/2020.emnlp-main.650"
 
 url_poster: 
 
@@ -74,11 +74,9 @@ url_slides:
 
 url_video: 
 
-url_blog: 
+url_blog: /post/2020-10-10_taboo/
 
 links: 
-- name: Blog Post
-  url: /post/2020-10-10_taboo/
 
 citation_count: 0
 citations:

@@ -63,9 +63,9 @@ url_interview:
 
 url_arxiv: "https://arxiv.org/abs/1806.09029"
 
-url_code: "https://jkk.name/text2sql-data"
+url_code: "https://www.jkk.name/text2sql-data"
 
-url_dataset: "https://jkk.name/text2sql-data"
+url_dataset: "https://www.jkk.name/text2sql-data"
 
 url_project: 
 
@@ -79,7 +79,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1806.09029
 
-citation_count: 42
+citation_count: 56
 citations:
 - title: Dependency-based Hybrid Trees for Semantic Parsing
   year: 2018
@@ -291,6 +291,76 @@ citations:
   url: 
   venue: New Frontiers in Artificial Intelligence
   authors: Gabriela Ferraro, Ho-Pun Lam, Silvano Colombo Tosatto, Francesco Olivieri, Mohammad Badiul Islam, Nick van Beest, Guido Governatori
+- title: Semantic Evaluation for Text-to-SQL with Distilled Test Suites
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Ruiqi Zhong, Tao Yu, Dan Klein
+- title: "ColloQL: Robust Cross-Domain Text-to-SQL Over Search Queries"
+  year: 2020
+  url: 
+  venue: EMNLP Workshop on Interactive and Executable Semantic Parsing
+  authors: Karthik Radhakrishnan, Arvind Srikantan, Xi Victoria Lin
+- title: On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries
+  year: 2020
+  url: 
+  venue: Findings of EMNLP
+  authors: Tianze Shi, Chen Zhao, Jordan Boyd-Graber, Hal Daumé III, Lillian Lee
+- title: Benchmarking Meaning Representations in Neural Semantic Parsing.
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Jiaqi Guo, Qian Liu, Jian-Guang Lou, Zhenwen Li, Xueqing Liu, Tao Xie, Ting Liu.
+- title: "Character-level Representations Improve {DRS}-based Semantic Parsing {E}ven in the Age of {BERT}"
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.371"
+  venue: EMNLP
+  authors: Rik van Noord, Antonio Toral, Johan Bos
+- title: "Re-examining the Role of Schema Linking in Text-to-{SQL}"
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.564"
+  venue: EMNLP
+  authors: Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan, Tat-Seng Chua
+- title: "{D}u{SQL}: A Large-Scale and Pragmatic {C}hinese Text-to-{SQL} Dataset"
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.562"
+  venue: EMNLP
+  authors: Lijie Wang, Ao Zhang, Kun Wu, Ke Sun, Zhenghua Li, Hua Wu, Min Zhang, Haifeng Wang
+- title: "{``}What Do You Mean by That?{''} A Parser-Independent Interactive Approach for Enhancing Text-to-{SQL}"
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.561"
+  venue: EMNLP
+  authors: Yuntao Li, Bei Chen, Qian Liu, Yan Gao, Jian-Guang Lou, Yan Zhang, Dongmei Zhang
+- title: Sequence-Level Mixed Sample Data Augmentation
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.447"
+  venue: EMNLP
+  authors: Demi Guo, Yoon Kim, Alexander Rush
+- title: Benchmarking Meaning Representations in Neural Semantic Parsing
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.118"
+  venue: EMNLP
+  authors: Jiaqi Guo, Qian Liu, Jian-Guang Lou, Zhenwen Li, Xueqing Liu, Tao Xie, Ting Liu
+- title: "GRAPPA: Grammar-Augmented Pre-Training for Table Semantic Parsing"
+  year: 2020
+  url: 
+  venue: EMNLP Workshop on Interactive and Executable Semantic Parsing
+  authors: Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong
+- title: Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
+  year: 2020
+  url: 
+  venue: EMNLP Workshop on Interactive and Executable Semantic Parsing
+  authors: Yusen Zhang, Xiangyu Dong, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang
+- title: "Neural Approaches for Natural Language Interfaces to Databases: A Survey"
+  year: 2020
+  url: 
+  venue: CoLing
+  authors: Radu Cristian Alexandru Iacob, F. Brad, Elena-Simona Apostol, Ciprian-Octavian Truică, Ionel Alexandru Hosu, Traian Rebedea less
+- title: Tracking Interaction States for Multi-Turn Text-to-SQL Semantic Parsing
+  year: 2021
+  url: 
+  venue: AAAI
+  authors: Run-Ze Wang, Zhen-Hua Ling, Jing-Bo Zhou, Yu Hu
 
 
 ---

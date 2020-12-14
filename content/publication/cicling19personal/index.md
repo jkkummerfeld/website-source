@@ -76,13 +76,28 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1904.11610
 
-citation_count: 1
+citation_count: 4
 citations:
 - title: Extracting Personal Information from Conversations
   year: 2020
   url: 
   venue: WWW
   authors: Anna Tigunova
+- title: "{CHARM}: Inferring Personal Attributes from Conversations"
+  year: 2020
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.434"
+  venue: EMNLP
+  authors: Anna Tigunova, Andrew Yates, Paramita Mirza, Gerhard Weikum
+- title: Using Speaker-Aligned Graph Memory Block in Multimodally Attentive Emotion Recognition Network
+  year: 2020
+  url: 
+  venue: Interspeech
+  authors: Jeng-Lin Li, Chi-Chun Lee
+- title: Learning interaction dynamics with an interactive LSTM for conversational sentiment analysis
+  year: 2020
+  url: 
+  venue: "Neural networks : the official journal of the International Neural Network Society"
+  authors: Yazhou Zhang, Prayag Tiwari, Dawei Song, Xiaoliu Mao, Panpan Wang, Xiang Li, Hari Mohan Pandey
 
 
 ---
