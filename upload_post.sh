@@ -9,7 +9,7 @@ git commit
 git push 
 popd 
 
-git add content/post/*md 
+git add content/post/*/*md 
 git add public
 git commit 
 git push

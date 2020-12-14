@@ -4,6 +4,7 @@ import argparse
 import datetime
 import subprocess
 import sys
+import os
 
 import bibtexparser
 
@@ -15,10 +16,13 @@ args = parser.parse_args()
 
 # Determine name based on current date
 now = datetime.datetime.now()
-name = "{}-{:>02}-{:>02}_{}.md".format(now.year, now.month, now.day, args.name)
+name = "{}-{:>02}-{:>02}_{}".format(now.year, now.month, now.day, args.name)
 
 # Get bib file from online
-assert(args.bib.startswith("file:///") or args.bib.startswith("http"))
+if not (args.bib.startswith("http") or args.bib.startswith("file:///")):
+    cwd = os.getcwd()
+    args.bib = 'file://' + cwd + "/"+ args.bib
+
 raw_bibtex = subprocess.run(["curl", "-s", args.bib], stdout=subprocess.PIPE, encoding="ascii").stdout.strip()
 bib_data = bibtexparser.loads(raw_bibtex)
 current = bib_data.get_entry_list()[0]
@@ -30,7 +34,7 @@ if 'link' in current:
     url = current['link']
 
 # Make 
-filename = subprocess.run(["hugo", "new", "post/"+ name], stdout=subprocess.PIPE, encoding="ascii").stdout
+filename = subprocess.run(["hugo", "new", "post/"+ name +"/index.md"], stdout=subprocess.PIPE, encoding="ascii").stdout
 filename = filename.strip().split()[0]
 content = open(filename).readlines()
 
