@@ -78,7 +78,7 @@ url_blog:
 
 links: 
 
-citation_count: 14
+citation_count: 15
 citations:
 - title: "RAP-Net: Recurrent Attention Pooling Networks for Dialogue Response Selection"
   year: 2020
@@ -150,6 +150,11 @@ citations:
   url: 
   venue: CoLing
   authors: Mauajama Firdaus, Hardik Chauhan, Asif Ekbal, Pushpak Bhattacharyya
+- title: Infusing Multi-Source Knowledge with Heterogeneous Graph Neural Network for Emotional Conversation Generation
+  year: 2021
+  url: 
+  venue: AAAI
+  authors: Yunlong Liang, Fandong Meng, Ying Zhang, Yufeng Chen, Jinan Xu, Jie Zhou
 
 
 ---

@@ -74,7 +74,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/emnlp13analysis_slides.pdf
 
-citation_count: 34
+citation_count: 35
 citations:
 - title: Visualization, Search, and Error Analysis for Coreference Annotations
   year: 2014
@@ -245,6 +245,11 @@ citations:
   url: 
   venue: Workshop on Computational Models of Reference, Anaphora and Coreference
   authors: Corben Poot, Andreas van Cranenburgh
+- title: Coreference Resolution
+  year: 2020
+  url: 
+  venue: Speech and Language Processing
+  authors: Daniel Jurafsky, James H. Martin
 
 
 ---

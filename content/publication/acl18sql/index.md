@@ -79,7 +79,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1806.09029
 
-citation_count: 56
+citation_count: 61
 citations:
 - title: Dependency-based Hybrid Trees for Semantic Parsing
   year: 2018
@@ -321,12 +321,12 @@ citations:
   url: "https://www.aclweb.org/anthology/2020.emnlp-main.564"
   venue: EMNLP
   authors: Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan, Tat-Seng Chua
-- title: "{D}u{SQL}: A Large-Scale and Pragmatic {C}hinese Text-to-{SQL} Dataset"
+- title: "DuSQL: A Large-Scale and Pragmatic Chinese Text-to-SQL Dataset"
   year: 2020
   url: "https://www.aclweb.org/anthology/2020.emnlp-main.562"
   venue: EMNLP
   authors: Lijie Wang, Ao Zhang, Kun Wu, Ke Sun, Zhenghua Li, Hua Wu, Min Zhang, Haifeng Wang
-- title: "{``}What Do You Mean by That?{''} A Parser-Independent Interactive Approach for Enhancing Text-to-{SQL}"
+- title: \"What Do You Mean by That?\" A Parser-Independent Interactive Approach for Enhancing Text-to-SQL
   year: 2020
   url: "https://www.aclweb.org/anthology/2020.emnlp-main.561"
   venue: EMNLP
@@ -361,6 +361,31 @@ citations:
   url: 
   venue: AAAI
   authors: Run-Ze Wang, Zhen-Hua Ling, Jing-Bo Zhou, Yu Hu
+- title: Iterative Utterance Segmentation for Neural Semantic Parsing
+  year: 2021
+  url: 
+  venue: AAAI
+  authors: Yinuo Guo, Zeqi Lin, Jian-Guang Lou, Dongmei Zhang
+- title: Character-level Representations Improve DRS-based Semantic Parsing Even in the Age of BERT
+  year: 2020
+  url: 
+  venue: EMNLP
+  authors: Rik van Noord, Antonio Toral, Johan Bos
+- title: Seq2seq vs sketch filling structure for natural language to sql translation 
+  year: 2020
+  url: 
+  venue: International Conference on Smart City Applications
+  authors: K. Ahkouk, M. Machkour, K. Majhadi, R. Mama
+- title: Transformer Semantic Parsing
+  year: 2020
+  url: 
+  venue: ALTA
+  authors: Gabriela Ferraro, Hanna Suominen
+- title: Introducing Natural Language Interface to Databases for Data-Driven Small and Medium Enterprises
+  year: 2021
+  url: 
+  venue: Data Science - Analytics and Applications
+  authors: Dejan Radovanovic
 
 
 ---

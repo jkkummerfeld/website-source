@@ -104,10 +104,10 @@ email: "jkummerf@umich.edu"
 ---
 
 **My work:**
-I aim to make language interaction a part of every application (e.g. document editing and spreadsheets).
-This involves solving a range of fascinating challenges through new methods in artificial intelligence and crowdsourcing.
+I aim to make language a complementary part of the interface for any application (e.g. from desktop spreadsheets to mobile apps).
+This involves solving a range of fascinating challenges through new methods in Artificial Intelligence and Crowdsourcing.
 
-I am currently a Postdoctoral Research Fellow at the [University of Michigan](https://www.cse.umich.edu/), working on a range of topics in Natural Language Processing and Crowdsourcing.
+I am currently a Postdoctoral Research Fellow at the [University of Michigan](https://www.cse.umich.edu/), working on Natural Language Processing and Crowdsourcing.
 I completed my Ph.D. in the [UC Berkeley NLP Group](http://nlp.cs.berkeley.edu/), advised by [Dan Klein](http://www.cs.berkeley.edu/~klein), and my B.Sc. in the University of Sydney Schwa Lab, advised by [James Curran](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/james-r-curran.html).
 
 E-mail: jkummerf@umich.edu

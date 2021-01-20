@@ -76,7 +76,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/emnlp12analysis_slides.pdf
 
-citation_count: 57
+citation_count: 58
 citations:
 - title: Joint Apposition Extraction with Syntactic and Semantic Constraints
   year: 2013
@@ -363,6 +363,11 @@ citations:
   url: 
   venue: CoLing
   authors: Bich-Ngoc Do, Ines Rehbein
+- title: "Global estimates of syntactic alignment in adult and child utterances during interaction: NLP estimates based on multiple corpora"
+  year: 2021
+  url: 
+  venue: Language Sciences
+  authors: Clarence Green, He Sun
 
 
 ---

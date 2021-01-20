@@ -83,7 +83,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1810.11118
 
-citation_count: 30
+citation_count: 31
 citations:
 - title: Query-Focused Scenario Construction
   year: 2019
@@ -235,6 +235,11 @@ citations:
   url: 
   venue: EMNLP
   authors: Tao Yu, Shafiq Joty
+- title: On the Calibration and Uncertainty of Neural Learning to Rank Models
+  year: 2021
+  url: 
+  venue: EACL
+  authors: Gustavo Penha, Claudia Hauff
 
 
 ---

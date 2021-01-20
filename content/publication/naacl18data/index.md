@@ -78,7 +78,7 @@ url_blog:
 
 links: 
 
-citation_count: 11
+citation_count: 12
 citations:
 - title: Enhancing Domain-Specific Supervised Natural Language Intent Classification with a Top-Down Selective Ensemble Model
   year: 2019
@@ -135,6 +135,11 @@ citations:
   url: 
   venue: International Conference on Software Engineering Workshops
   authors: Andrew Wood, Zachary Eberhart, Collin McMillan
+- title: A Wizard of Oz Study Simulating API Usage Dialogues with a Virtual Assistant
+  year: 2020
+  url: 
+  venue: IEEE Transactions on Software Engineering
+  authors: Zachary Eberhart, Aakash Bansal, Collin McMillan
 
 
 ---

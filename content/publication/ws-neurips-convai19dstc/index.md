@@ -93,7 +93,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1911.06394
 
-citation_count: 7
+citation_count: 9
 citations:
 - title: Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System
   year: 2020
@@ -130,6 +130,16 @@ citations:
   url: 
   venue: TACL
   authors: Milan Gritta, Gerasimos Lampouras, Ignacio Iacobacci
+- title: Black-Box Testing of Financial Virtual Assistants
+  year: 2020
+  url: 
+  venue: Conference on Software Quality, Reliability and Security Companion
+  authors: Iosif Itkin, E. Treshcheva, Luba Konnova, Pavel Braslavski, Rostislav Yavorskiy
+- title: On the Calibration and Uncertainty of Neural Learning to Rank Models
+  year: 2021
+  url: 
+  venue: EACL
+  authors: Gustavo Penha, Claudia Hauff
 
 
 ---

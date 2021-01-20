@@ -83,7 +83,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1909.02027
 
-citation_count: 14
+citation_count: 18
 citations:
 - title: "User Utterance Acquisition for Training Task-Oriented Bots: A Review of Challenges, Techniques and Opportunities"
   year: 2020
@@ -155,6 +155,26 @@ citations:
   url: 
   venue: CoLing
   authors: H. Xu, Keqing He, Yuanmeng Yan, Si-hong Liu, Z. Liu, Weiran Xu
+- title: Discovering New Intents with Deep Aligned Clustering
+  year: 2021
+  url: 
+  venue: AAAI
+  authors: Hanlei Zhang, Hua Xu, Ting-En Lin, Rui Lv
+- title: Deep Open Intent Classification with Adaptive Decision Boundary
+  year: 2021
+  url: 
+  venue: AAAI
+  authors: Hanlei Zhang, Hua Xu, Ting-En Lin
+- title: "OWI: Open-World Intent Identification Framework for Dialog Based System"
+  year: 2021
+  url: 
+  venue: International Conference on Big Data Analytics
+  authors: Jitendra Parmar, Sanskar Soni, Satyendra Singh Chouhan
+- title: Revisiting Mahalanobis Distance for Transformer-Based Out-of-Domain Detection
+  year: 2021
+  url: 
+  venue: AAAI
+  authors: Alexander Podolskiy, Dmitry Lipin, Andrey Bout, Ekaterina Artemova, Irina Piontkovskaya
 
 
 ---
