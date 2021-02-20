@@ -12,7 +12,7 @@ draft: false
 
 preprint: true
 
-archival: true
+archival: false
 
 authors: 
 - Laura Burdick

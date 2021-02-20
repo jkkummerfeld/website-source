@@ -75,7 +75,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1804.09692
 
-citation_count: 44
+citation_count: 45
 citations:
 - title: "Subcharacter information in japanese embeddings: when is it worth it?"
   year: 2018
@@ -297,6 +297,11 @@ citations:
   url: 
   venue: Swedish Language Technology Conference
   authors: Daniel Holmer, Arne Jonsson
+- title: "GEPC: Global embeddings with PID control"
+  year: 2021
+  url: 
+  venue: CSL
+  authors: Ning Gong, Nianmin Yao, Ziying Lv, Shibin Wang
 
 
 ---

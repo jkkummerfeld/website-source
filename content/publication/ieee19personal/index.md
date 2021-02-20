@@ -74,7 +74,7 @@ url_blog:
 
 links: 
 
-citation_count: 4
+citation_count: 5
 citations:
 - title: "The Four Dimensions of Social Network Analysis: An Overview of Research Methods, Applications, and Software Tools"
   year: 2020
@@ -96,6 +96,11 @@ citations:
   url: 
   venue: Neural Networks
   authors: Yazhou Zhang, Prayag Tiwari, Dawei Song, Xiaoliu Mao, Panpan Wang, Xiang Li, Hari Mohan Pandey
+- title: Intent Classification for Dialogue Utterances
+  year: 2020
+  url: 
+  venue: IEEE Intelligent Systems
+  authors: Jetze Schuurmans, Flavius Frasincar
 
 
 ---

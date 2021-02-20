@@ -79,7 +79,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1806.09029
 
-citation_count: 61
+citation_count: 62
 citations:
 - title: Dependency-based Hybrid Trees for Semantic Parsing
   year: 2018
@@ -386,6 +386,11 @@ citations:
   url: 
   venue: Data Science - Analytics and Applications
   authors: Dejan Radovanovic
+- title: Few-Shot Semantic Parsing for New Predicates
+  year: 2021
+  url: 
+  venue: EACL
+  authors: Zhuang Li, Lizhen Qu, Shuo Huang, Gholamreza Haffari
 
 
 ---

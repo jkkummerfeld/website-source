@@ -78,7 +78,7 @@ url_blog:
 
 links: 
 
-citation_count: 31
+citation_count: 34
 citations:
 - title: Ethical issues of research using datasets of illicit origin
   year: 2017
@@ -233,6 +233,21 @@ citations:
   url: 
   venue: Conference on Advances in Social Networks Analysis and Mining
   authors: Jakapun Tachaiya, Joobin Gharibshah, Evangelos E. Papalexakis, Michalis Faloutsos
+- title: "Checkout Checkup: Misuse of Payment Data from Web Skimming"
+  year: 2020
+  url: 
+  venue: Symposium on Electronic Crime Research
+  authors: Phoebe Rouge, Christina Yeung, Daniel Salsburg, Joseph A. Calandrino
+- title: "NEDetector: Automatically extracting cybersecurity neologisms from hacker forums"
+  year: 2021
+  url: 
+  venue: Journal of Information Security and Applications
+  authors: Ying Li, Jiaxing Cheng, Cheng Huang, Zhouguo Chen, Weina Niu
+- title: Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market
+  year: 2021
+  url: 
+  venue: International Conference on Data Mining
+  authors: Yujie Fan, Yanfang Ye, Qian Peng, Jianfei Zhang, Yiming Zhang, Xusheng Xiao, Chuan Shi, Qi Xiong, Fudong Shao, Liang Zhao
 
 
 ---

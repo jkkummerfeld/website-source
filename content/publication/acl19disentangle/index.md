@@ -83,7 +83,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1810.11118
 
-citation_count: 31
+citation_count: 33
 citations:
 - title: Query-Focused Scenario Construction
   year: 2019
@@ -240,6 +240,16 @@ citations:
   url: 
   venue: EACL
   authors: Gustavo Penha, Claudia Hauff
+- title: "Corpulyzer: A Novel Framework for Building Low Resource Language Corpora"
+  year: 2021
+  url: 
+  venue: IEEE Access
+  authors: Bilal Tahir, Muhammad Amir Mehmood
+- title: Automatic Extraction of Opinion-based Q&A from Online Developer Chats
+  year: 2021
+  url: 
+  venue: International Conference on Software Engineering
+  authors: Preetha Chatterjee, Kostadin Damevski, Lori Pollock
 
 
 ---

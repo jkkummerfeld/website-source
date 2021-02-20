@@ -93,7 +93,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1911.06394
 
-citation_count: 9
+citation_count: 11
 citations:
 - title: Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System
   year: 2020
@@ -140,6 +140,16 @@ citations:
   url: 
   venue: EACL
   authors: Gustavo Penha, Claudia Hauff
+- title: Zero-shot Generalization in Dialog State Tracking through Generative Question Answering
+  year: 2021
+  url: 
+  venue: EACL
+  authors: Shuyang Li, Jin Cao, Mukund Sridhar, Henghui Zhu, Shang-Wen Li, Wael Hamza, Julian McAuley
+- title: Zero-shot Generalization in Dialog State Tracking through Generative Question Answering
+  year: 2021
+  url: 
+  venue: EACL
+  authors: Shuyang Li, Jin Cao, Mukund Sridhar, Henghui Zhu, Shang-Wen Li, Wael Hamza, Julian McAuley
 
 
 ---

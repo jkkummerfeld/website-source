@@ -74,7 +74,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/emnlp13analysis_slides.pdf
 
-citation_count: 35
+citation_count: 36
 citations:
 - title: Visualization, Search, and Error Analysis for Coreference Annotations
   year: 2014
@@ -250,6 +250,11 @@ citations:
   url: 
   venue: Speech and Language Processing
   authors: Daniel Jurafsky, James H. Martin
+- title: Towards More Fine-grained and Reliable NLP Performance Prediction
+  year: 2021
+  url: 
+  venue: EACL
+  authors: Zihuiwen Ye, Pengfei Liu, Jinlan Fu, Graham Neubig
 
 
 ---

@@ -83,7 +83,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1909.02027
 
-citation_count: 18
+citation_count: 19
 citations:
 - title: "User Utterance Acquisition for Training Task-Oriented Bots: A Review of Challenges, Techniques and Opportunities"
   year: 2020
@@ -175,6 +175,11 @@ citations:
   url: 
   venue: AAAI
   authors: Alexander Podolskiy, Dmitry Lipin, Andrey Bout, Ekaterina Artemova, Irina Piontkovskaya
+- title: A Neural Few-Shot Text Classification Reality Check
+  year: 2021
+  url: 
+  venue: EACL
+  authors: Thomas Dopierre, Christophe Gravier, Wilfried Logerais
 
 
 ---

@@ -82,7 +82,7 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/1708.09609
 
-citation_count: 10
+citation_count: 11
 citations:
 - title: "You Are Your Photographs: Detecting Multiple Identities of Vendors in the Darknet Marketplaces"
   year: 2018
@@ -134,6 +134,11 @@ citations:
   url: 
   venue: ACM Transactions on Privacy and Security (TOPS)
   authors: Sagar Samtani, Hongyi Zhu, Hsinchun Chen
+- title: "Checkout Checkup: Misuse of Payment Data from Web Skimming"
+  year: 2020
+  url: 
+  venue: Symposium on Electronic Crime Research
+  authors: Phoebe Rouge, Christina Yeung, Daniel Salsburg, Joseph A. Calandrino
 
 
 ---

@@ -76,7 +76,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/emnlp12analysis_slides.pdf
 
-citation_count: 58
+citation_count: 60
 citations:
 - title: Joint Apposition Extraction with Syntactic and Semantic Constraints
   year: 2013
@@ -368,6 +368,16 @@ citations:
   url: 
   venue: Language Sciences
   authors: Clarence Green, He Sun
+- title: Towards More Fine-grained and Reliable NLP Performance Prediction
+  year: 2021
+  url: 
+  venue: EACL
+  authors: Zihuiwen Ye, Pengfei Liu, Jinlan Fu, Graham Neubig
+- title: What's in a Span? Evaluating the Creativity of a Span-Based Neural Constituency Parser
+  year: 2021
+  url: 
+  venue: Proceedings of the Society for Computation in Linguistics
+  authors: Daniel Dakota, Sandra Kübler
 
 
 ---

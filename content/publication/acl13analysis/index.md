@@ -76,7 +76,7 @@ links:
 - name: PDF Slides
   url: https://www.jkk.name/pub/acl13analysis_slides.pdf
 
-citation_count: 15
+citation_count: 16
 citations:
 - title: Chinese syntactic parsing based on linguistic entity-relationship model
   year: 2013
@@ -153,6 +153,11 @@ citations:
   url: 
   venue: Natural Language Engineering
   authors: Mija Kim, Jungyeul Park
+- title: What's in a Span? Evaluating the Creativity of a Span-Based Neural Constituency Parser
+  year: 2021
+  url: 
+  venue: Proceedings of the Society for Computation in Linguistics
+  authors: Daniel Dakota, Sandra Kübler
 
 
 ---
