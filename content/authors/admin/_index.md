@@ -113,5 +113,3 @@ I completed my Ph.D. in the [UC Berkeley NLP Group](http://nlp.cs.berkeley.edu/)
 E-mail: jkummerf@umich.edu
 
 CV: {{% staticref "doc/jonathan-kummerfeld-cv.pdf" %}}pdf{{% /staticref %}}
-
-**I am on the job market!** I am interested in both academic and industry opportunities, but not quantitative finance.
