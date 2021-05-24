@@ -28,7 +28,7 @@ Decisions about higher up in the spine are difficult to make when looking at a s
 
 ## Citation
 
-[Paper](http://www.aclweb.org/anthology/W17-6316)
+[Paper](https://aclanthology.org/W17-6316)
 
 ```bibtex
 @InProceedings{ballesteros-carreras:2017:IWPT,
@@ -40,6 +40,6 @@ Decisions about higher up in the spine are difficult to make when looking at a s
   address   = {Pisa, Italy},
   publisher = {Association for Computational Linguistics},
   pages     = {115--121},
-  url       = {http://www.aclweb.org/anthology/W17-6316}
+  url       = {https://aclanthology.org/W17-6316}
 }
 ```

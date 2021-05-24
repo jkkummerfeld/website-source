@@ -34,7 +34,7 @@ Experiments show results that match with past observations and intuitions, which
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/D17-1042)
+[Paper](https://aclanthology.org/D17-1042)
 
 ```bibtex
 @InProceedings{alvarezmelis-jaakkola:2017:EMNLP2017,
@@ -46,6 +46,6 @@ Experiments show results that match with past observations and intuitions, which
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {412--421},
-  url       = {https://www.aclweb.org/anthology/D17-1042}
+  url       = {https://aclanthology.org/D17-1042}
 }
 ```

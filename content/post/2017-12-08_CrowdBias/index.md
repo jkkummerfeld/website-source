@@ -32,7 +32,7 @@ With that change, averaging over annotations should avoid this bias.
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/D17-1306)
+[Paper](https://aclanthology.org/D17-1306)
 
 ```bibtex
 @InProceedings{mathur-baldwin-cohn:2017:EMNLP2017,
@@ -44,6 +44,6 @@ With that change, averaging over annotations should avoid this bias.
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {2860--2865},
-  url       = {https://www.aclweb.org/anthology/D17-1306}
+  url       = {https://aclanthology.org/D17-1306}
 }
 ```

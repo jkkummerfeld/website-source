@@ -46,7 +46,7 @@ I found a few results particularly interesting:
 
 ## Citation
 
-[Paper](http://www.aclweb.org/anthology/N13-1132.pdf)
+[Paper](https://aclanthology.org/N13-1132.pdf)
 
 ```bibtex
 @InProceedings{hovy-EtAl:2013:NAACL-HLT,
@@ -58,7 +58,7 @@ I found a few results particularly interesting:
   address   = {Atlanta, Georgia},
   publisher = {Association for Computational Linguistics},
   pages     = {1120--1130},
-  url       = {http://www.aclweb.org/anthology/N13-1132}
+  url       = {https://aclanthology.org/N13-1132}
 }
 ```
 

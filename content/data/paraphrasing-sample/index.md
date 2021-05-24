@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["misc"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://aclweb.org/anthology/attachments/P/P17/P17-2017.Datasets.zip"
+external_link = "https://aclanthology.org/anthology/attachments/P/P17/P17-2017.Datasets.zip"
 
 # Does the project detail page use math formatting?
 math = false

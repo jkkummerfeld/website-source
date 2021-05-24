@@ -34,7 +34,7 @@ From the paper it sounds like very little hyperparameter tuning was tried, which
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-2098)
+[Paper](https://aclanthology.org/P17-2098)
 
 ```bibtex
 @InProceedings{herzig-berant:2017:Short,
@@ -46,6 +46,6 @@ From the paper it sounds like very little hyperparameter tuning was tried, which
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {623--628},
-  url       = {http://aclweb.org/anthology/P17-2098}
+  url       = {https://aclanthology.org/P17-2098}
 }
 ```

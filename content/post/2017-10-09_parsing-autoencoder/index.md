@@ -48,7 +48,7 @@ How to tradeoff the different data scenarios seems like an interesting challenge
 
 ## Citation
 
-[Paper](https://aclweb.org/anthology/D16-1116)
+[Paper](https://aclanthology.org/D16-1116)
 
 ```bibtex
 @InProceedings{kovcisky-EtAl:2016:EMNLP2016,
@@ -60,7 +60,7 @@ How to tradeoff the different data scenarios seems like an interesting challenge
   address   = {Austin, Texas},
   publisher = {Association for Computational Linguistics},
   pages     = {1078--1087},
-  url       = {https://aclweb.org/anthology/D16-1116}
+  url       = {https://aclanthology.org/D16-1116}
 }
 ```
 

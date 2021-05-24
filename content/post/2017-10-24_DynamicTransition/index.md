@@ -23,7 +23,7 @@ They show how to convert common dependency parsing systems (Arc-Standard and Arc
 
 The benefit of this transformation is that we can find exact answers without massive beams.
 The drawback is that the feature set is restricted.
-This paper is theoretical, so it doesn't give a direct measure of this tradeoff, though [follow up work](http://www.anthology.aclweb.org/D/D13/D13-1071.pdf) shows that avoiding search errors is indeed beneficial.
+This paper is theoretical, so it doesn't give a direct measure of this tradeoff, though [follow up work](https://aclanthology.org/D/D13/D13-1071.pdf) shows that avoiding search errors is indeed beneficial.
 
 With all of the positive results using neural networks for multi-task learning, one thought this work leads to is whether we could treat different inference methods as different tasks.
 In other words, have a single model encoding the input, then have multiple inference algorithms with different extensions of that model, all trained simultaneously.
@@ -31,7 +31,7 @@ The variation in available context for the different algorithms may force genera
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P/P11/P11-1068.pdf)
+[Paper](https://aclanthology.org/P/P11/P11-1068.pdf)
 
 ```bibtex
 @InProceedings{kuhlmann-gomezrodriguez-satta:2011:ACL-HLT2011,
@@ -43,6 +43,6 @@ The variation in available context for the different algorithms may force genera
   address   = {Portland, Oregon, USA},
   publisher = {Association for Computational Linguistics},
   pages     = {673--682},
-  url       = {http://www.aclweb.org/anthology/P11-1068}
+  url       = {https://aclanthology.org/P11-1068}
 }
 ```

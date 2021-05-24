@@ -31,7 +31,7 @@ Ultimately this is not a solution to this problem, but it's an idea to keep in m
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/D17-1030)
+[Paper](https://aclanthology.org/D17-1030)
 
 ```bibtex
 @InProceedings{herbelot-baroni:2017:EMNLP2017,
@@ -43,6 +43,6 @@ Ultimately this is not a solution to this problem, but it's an idea to keep in m
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {304--309},
-  url       = {https://www.aclweb.org/anthology/D17-1030}
+  url       = {https://aclanthology.org/D17-1030}
 }
 ```

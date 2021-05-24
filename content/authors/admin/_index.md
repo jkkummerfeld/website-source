@@ -85,7 +85,7 @@ social:
 - icon: acl-logo
   name: ACL Anthology
   icon_pack: icon
-  link: //aclweb.org/anthology/people/j/jonathan-k-kummerfeld/
+  link: //aclanthology.org/anthology/people/j/jonathan-k-kummerfeld/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

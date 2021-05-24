@@ -30,14 +30,14 @@ The solution here is to link pairs that are closest together (unclear what they 
 That doesn't handle overlapping relations, which the authors say is particularly common in the BioInfer data (I'm curious how much it is hurting here too).
 It's unclear how this could be addressed without a radical redesign, since extending the tag scheme could lead to sparsity issues.
 
-I was not familiar with this data, so I looked back to the original paper the annotated test data came from: [Hoffman et al., (2011)](http://www.aclweb.org/anthology/P11-1055).
+I was not familiar with this data, so I looked back to the original paper the annotated test data came from: [Hoffman et al., (2011)](https://aclanthology.org/P11-1055).
 There is no dev set, only a 395 sentence test set, so the standard practise is to use random 10% samples of the test data for development.
 Also, if I understand it correctly, the data was annotated by manually confirming the output of systems, which means it will have recall errors.
 If interest in this data grows, going back and annotating more seems worthwhile.
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1113)
+[Paper](https://aclanthology.org/P17-1113)
 
 ```bibtex
 @InProceedings{zheng-EtAl:2017:Long,
@@ -49,6 +49,6 @@ If interest in this data grows, going back and annotating more seems worthwhile.
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1227--1236},
-  url       = {http://aclweb.org/anthology/P17-1113}
+  url       = {https://aclanthology.org/P17-1113}
 }
 ```

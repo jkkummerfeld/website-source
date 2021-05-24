@@ -35,7 +35,7 @@ In my experience (and in our soon-to-appear NAACL paper) we find that variations
 
 ## Citation
 
-[Paper](http://www.aclweb.org/anthology/P16-1013)
+[Paper](https://aclanthology.org/P16-1013)
 
 ```bibtex
 @InProceedings{tsvetkov-EtAl:2016:P16-1,
@@ -47,6 +47,6 @@ In my experience (and in our soon-to-appear NAACL paper) we find that variations
   address   = {Berlin, Germany},
   publisher = {Association for Computational Linguistics},
   pages     = {130--139},
-  url       = {http://www.aclweb.org/anthology/P16-1013}
+  url       = {https://aclanthology.org/P16-1013}
 }
 ```

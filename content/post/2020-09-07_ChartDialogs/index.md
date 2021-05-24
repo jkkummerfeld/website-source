@@ -3,7 +3,7 @@
 
 title: "ChartDialogs: Plotting from Natural Language Instructions (Shao and Nakashole, ACL 2020)"
 subtitle: ""
-summary: "Natural language interfaces to computer systems are an exciting area with new workshops ([WNLI](https://www.aclweb.org/anthology/volumes/2020.nli-1/) at ACL and [IntEx-SemPar](https://intex-sempar.github.io/) at EMNLP), a range of datasets (including my own work on [text-to-SQL](/publication/acl18sql/)), and many papers. Most work focuses on either (1) commands for simple APIs, (2) generating a database query, or (3) generating general purpose code. This paper considers an interesting application: interaction with data visualisation tools."
+summary: "Natural language interfaces to computer systems are an exciting area with new workshops ([WNLI](https://aclanthology.org/volumes/2020.nli-1/) at ACL and [IntEx-SemPar](https://intex-sempar.github.io/) at EMNLP), a range of datasets (including my own work on [text-to-SQL](/publication/acl18sql/)), and many papers. Most work focuses on either (1) commands for simple APIs, (2) generating a database query, or (3) generating general purpose code. This paper considers an interesting application: interaction with data visualisation tools."
 authors: []
 tags: ["paper", "dialogue", "data", "grounded-language", "nli"]
 categories: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Natural language interfaces to computer systems are an exciting area with new workshops ([WNLI](https://www.aclweb.org/anthology/volumes/2020.nli-1/) at ACL and [IntEx-SemPar](https://intex-sempar.github.io/) at EMNLP), a range of datasets (including my own work on [text-to-SQL](/publication/acl18sql/)), and many papers.
+Natural language interfaces to computer systems are an exciting area with new workshops ([WNLI](https://aclanthology.org/volumes/2020.nli-1/) at ACL and [IntEx-SemPar](https://intex-sempar.github.io/) at EMNLP), a range of datasets (including my own work on [text-to-SQL](/publication/acl18sql/)), and many papers.
 Most work focuses on either (1) commands for simple APIs, (2) generating a database query, or (3) generating general purpose code.
 This paper considers an interesting application: interaction with data visualisation tools.
 
@@ -51,7 +51,7 @@ Arbitrary code generation would be a fantastic extension, though creating the da
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/2020.acl-main.328.pdf)
+[Paper](https://aclanthology.org/2020.acl-main.328.pdf)
 
 ```bibtex
 @inproceedings{shao-nakashole-2020-chartdialogs,
@@ -63,7 +63,7 @@ Arbitrary code generation would be a fantastic extension, though creating the da
     year = "2020",
     address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.acl-main.328",
+    url = "https://aclanthology.org/2020.acl-main.328",
     doi = "10.18653/v1/2020.acl-main.328",
     pages = "3559--3574",
     abstract = "This paper presents the problem of conversational plotting agents that carry out plotting actions from natural language instructions. To facilitate the development of such agents, we introduce ChartDialogs, a new multi-turn dialog dataset, covering a popular plotting library, matplotlib. The dataset contains over 15,000 dialog turns from 3,200 dialogs covering the majority of matplotlib plot types. Extensive experiments show the best-performing method achieving 61{\%} plotting accuracy, demonstrating that the dataset presents a non-trivial challenge for future research on this task.",

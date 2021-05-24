@@ -41,7 +41,7 @@ Here is an example from the data, with annotations marked by edges and colours:
 We don't frame the paper as being about reply-structure though.
 Instead, we focus on a byproduct of these annotations - conversation disentanglement.
 Given our graph of reply-structure, each connected component is a single conversation (as shown by each colour in the example).
-The key prior work on the disentanglement problem is [Elsner and Charniak (2008)](https://www.aclweb.org/anthology/P08-1095), who released the largest annotated resource for the task, with 2,500 messages manually separated into conversations.
+The key prior work on the disentanglement problem is [Elsner and Charniak (2008)](https://aclanthology.org/P08-1095), who released the largest annotated resource for the task, with 2,500 messages manually separated into conversations.
 We annotated their data with our annotation scheme and 75,000 additional messages.
 
 We built a set of simple models for predicting reply-structure and did some analysis of assumptions about discourse from prior disentanglement work, but there is certainly more scope for study here.

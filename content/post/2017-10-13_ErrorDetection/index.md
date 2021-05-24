@@ -27,7 +27,7 @@ At the same time, we can't just run the systems and use their output because the
 We could run the systems and check their output, which could be faster than annotating directly, but would still take a long time.
 If we don't mind having some errors, we can check just some output, but how do we decide what to check?
 
-This paper applies the generative model from [MACE](http://www.aclweb.org/anthology/N13-1132) to build a generative model of system outputs.
+This paper applies the generative model from [MACE](https://aclanthology.org/N13-1132) to build a generative model of system outputs.
 The model is:
 
 - For each example, sample the true label with a uniform prior 
@@ -52,7 +52,7 @@ This seems like a natural fit for [prodigy](https://prodi.gy/) and something tha
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/P/P17/P17-1107.pdf)
+[Paper](https://aclanthology.org/P/P17/P17-1107.pdf)
 
 ```bibtex
 @InProceedings{rehbein-ruppenhofer:2017:Long,
@@ -64,6 +64,6 @@ This seems like a natural fit for [prodigy](https://prodi.gy/) and something tha
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1160--1170},
-  url       = {http://aclweb.org/anthology/P17-1107}
+  url       = {https://aclanthology.org/P17-1107}
 }
 ```

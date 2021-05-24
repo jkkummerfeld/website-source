@@ -37,7 +37,7 @@ That said, it seems difficult to generalise the model to handle more complicated
 
 ## Citation
 
-[Paper](https://aclweb.org/anthology/P/P17/P17-1167.pdf)
+[Paper](https://aclanthology.org/P/P17/P17-1167.pdf)
 
 ```bibtex
 @InProceedings{iyyer-yih-chang:2017:Long,
@@ -49,7 +49,7 @@ That said, it seems difficult to generalise the model to handle more complicated
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1821--1831},
-  url       = {http://aclweb.org/anthology/P17-1167}
+  url       = {https://aclanthology.org/P17-1167}
 }
 ```
 

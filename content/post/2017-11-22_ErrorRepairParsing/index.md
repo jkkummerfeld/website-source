@@ -36,7 +36,7 @@ It does perform better on ungrammatical text, though the data is generated using
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-2030)
+[Paper](https://aclanthology.org/P17-2030)
 
 ```bibtex
 @InProceedings{sakaguchi-post-vandurme:2017:Short,
@@ -48,6 +48,6 @@ It does perform better on ungrammatical text, though the data is generated using
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {189--195},
-  url       = {http://aclweb.org/anthology/P17-2030}
+  url       = {https://aclanthology.org/P17-2030}
 }
 ```

@@ -35,7 +35,7 @@ I'm also curious whether my [coreference analysis tool](https://www.jkk.name/pub
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/D18-1016)
+[Paper](https://aclanthology.org/D18-1016)
 
 [Data](https://preschool-lab.github.io/PreCo/)
 
@@ -48,7 +48,7 @@ I'm also curious whether my [coreference analysis tool](https://www.jkk.name/pub
   publisher = {Association for Computational Linguistics},
   pages     = {172--181},
   location  = {Brussels, Belgium},
-  url       = {http://aclweb.org/anthology/D18-1016},
+  url       = {https://aclanthology.org/D18-1016},
 }
 ```
 

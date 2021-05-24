@@ -36,7 +36,7 @@ For the time being at least, going via a third language still seems necessary, a
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/Q/Q17/Q17-1024.pdf)
+[Paper](https://aclanthology.org/Q/Q17/Q17-1024.pdf)
 
 [ArXiv version](https://arxiv.org/pdf/1611.04558.pdf) which appears to be the same aside from one extra figure of the model architecture.
 

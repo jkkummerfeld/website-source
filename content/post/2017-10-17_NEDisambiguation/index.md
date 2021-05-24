@@ -38,7 +38,7 @@ For future users of the wikilinks data there is also some nice analysis at the e
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/K/K17/K17-1008.pdf)
+[Paper](https://aclanthology.org/K/K17/K17-1008.pdf)
 
 ```bibtex
 @InProceedings{eshel-EtAl:2017:CoNLL,
@@ -50,7 +50,7 @@ For future users of the wikilinks data there is also some nice analysis at the e
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {58--68},
-  url       = {http://aclweb.org/anthology/K17-1008}
+  url       = {https://aclanthology.org/K17-1008}
 }
 ```
 

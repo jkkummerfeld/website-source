@@ -30,7 +30,7 @@ However, the system can also be applied to AMR, and does fairly well, better tha
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1112)
+[Paper](https://aclanthology.org/P17-1112)
 
 ```bibtex
 @InProceedings{buys-blunsom:2017:Long,
@@ -42,6 +42,6 @@ However, the system can also be applied to AMR, and does fairly well, better tha
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1215--1226},
-  url       = {http://aclweb.org/anthology/P17-1112}
+  url       = {https://aclanthology.org/P17-1112}
 }
 ```

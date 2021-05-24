@@ -20,7 +20,7 @@ caption = ""
 
 In reference games, two players communicate in a shared world with the goal of one learning what the other is referring to.
 Their small scale and clear success criteria make them a convenient testbed for dialogue agents, going back decades, with recent work focusing on neural approaches.
-This paper considers a simple game and constrains models in various ways to improve performance and see how their communication varies, a line of work also appearing in recent papers by Jacob Andreas ([ACL 2017](https://www.aclweb.org/anthology/P17-1022.pdf), [EMNLP 2017](https://www.aclweb.org/anthology/D17-1311.pdf)).
+This paper considers a simple game and constrains models in various ways to improve performance and see how their communication varies, a line of work also appearing in recent papers by Jacob Andreas ([ACL 2017](https://aclanthology.org/P17-1022.pdf), [EMNLP 2017](https://aclanthology.org/D17-1311.pdf)).
 
 The game in this case is to find out two properties of an object, where there are three possible properties, each with four possible values.
 Given enough flexibility, models will explicitly encode every possible structure of the world as a separate symbol, which does not generalise well.
@@ -34,7 +34,7 @@ It's a short paper, so they can only do so much, but some experiments I am curio
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/D17-1320)
+[Paper](https://aclanthology.org/D17-1320)
 
 ```bibtex
 @InProceedings{kottur-EtAl:2017:EMNLP2017,
@@ -46,6 +46,6 @@ It's a short paper, so they can only do so much, but some experiments I am curio
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {2952--2957},
-  url       = {https://www.aclweb.org/anthology/D17-1320}
+  url       = {https://aclanthology.org/D17-1320}
 }
 ```

@@ -25,7 +25,7 @@ Across a range of tasks this consistently performs better than other approaches.
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/D17-1312)
+[Paper](https://aclanthology.org/D17-1312)
 
 ```bibtex
 @InProceedings{yang-lu-zheng:2017:EMNLP2017,
@@ -37,6 +37,6 @@ Across a range of tasks this consistently performs better than other approaches.
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {2898--2904},
-  url       = {https://www.aclweb.org/anthology/D17-1312}
+  url       = {https://aclanthology.org/D17-1312}
 }
 ```

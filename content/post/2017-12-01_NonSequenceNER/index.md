@@ -41,7 +41,7 @@ There were a few things I found interesting in the results:
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1114)
+[Paper](https://aclanthology.org/P17-1114)
 
 ```bibtex
 @InProceedings{xu-jiang-watcharawittayakul:2017:Long,
@@ -53,6 +53,6 @@ There were a few things I found interesting in the results:
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1237--1247},
-  url       = {http://aclweb.org/anthology/P17-1114}
+  url       = {https://aclanthology.org/P17-1114}
 }
 ```

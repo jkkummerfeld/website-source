@@ -42,7 +42,7 @@ This will hopefully produce a list that is short enough to read all of (and mayb
 import sys
 papers = {}
 for line in sys.stdin:
-    if 'www.aclweb.org' in line:
+    if 'aclanthology.org' in line:
         content = line.strip()
         url = content.split()[1].split('"')[1][:-1] + ".pdf"
         name = content.split(" - ACL Anthology")[0].split(">")[-1]

@@ -29,7 +29,7 @@ On speed, there is the nice theoretical bound of $O(n)$ for this approach, but t
 
 ## Citation
 
-[Paper](http://www.aclweb.org/anthology/N15-1108)
+[Paper](https://aclanthology.org/N15-1108)
 
 ```bibtex
 @InProceedings{mi-huang:2015:NAACL-HLT,
@@ -41,6 +41,6 @@ On speed, there is the nice theoretical bound of $O(n)$ for this approach, but t
   address   = {Denver, Colorado},
   publisher = {Association for Computational Linguistics},
   pages     = {1030--1035},
-  url       = {http://www.aclweb.org/anthology/N15-1108}
+  url       = {https://aclanthology.org/N15-1108}
 }
 ```

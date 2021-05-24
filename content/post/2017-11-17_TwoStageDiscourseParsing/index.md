@@ -29,7 +29,7 @@ This paper also continues the trend of transition-based inference applying effec
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-2029)
+[Paper](https://aclanthology.org/P17-2029)
 
 ```bibtex
 @InProceedings{wang-li-wang:2017:Short,
@@ -41,6 +41,6 @@ This paper also continues the trend of transition-based inference applying effec
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {184--188},
-  url       = {http://aclweb.org/anthology/P17-2029}
+  url       = {https://aclanthology.org/P17-2029}
 }
 ```

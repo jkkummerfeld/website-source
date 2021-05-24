@@ -27,7 +27,7 @@ However, it doesn't seem to impact downstream tasks, for example, GloVe does not
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/D17-1308)
+[Paper](https://aclanthology.org/D17-1308)
 
 ```bibtex
 @InProceedings{mimno-thompson:2017:EMNLP2017,
@@ -39,6 +39,6 @@ However, it doesn't seem to impact downstream tasks, for example, GloVe does not
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {2873--2878},
-  url       = {https://www.aclweb.org/anthology/D17-1308}
+  url       = {https://aclanthology.org/D17-1308}
 }
 ```

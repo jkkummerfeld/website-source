@@ -45,7 +45,7 @@ That seems very good!
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/2020.coling-main.316)
+[Paper](https://aclanthology.org/2020.coling-main.316)
 
 ```bibtex
 @inproceedings{sun-etal-2020-improving,
@@ -61,7 +61,7 @@ That seems very good!
     year = "2020",
     address = "Barcelona, Spain (Online)",
     publisher = "International Committee on Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.coling-main.316",
+    url = "https://aclanthology.org/2020.coling-main.316",
     pages = "3547--3557",
     abstract = "This paper develops and implements a scalable methodology for (a) estimating the noisiness of labels produced by a typical crowdsourcing semantic annotation task, and (b) reducing the resulting error of the labeling process by as much as 20-30{\%} in comparison to other common labeling strategies. Importantly, this new approach to the labeling process, which we name Dynamic Automatic Conflict Resolution (DACR), does not require a ground truth dataset and is instead based on inter-project annotation inconsistencies. This makes DACR not only more accurate but also available to a broad range of labeling tasks. In what follows we present results from a text classification task performed at scale for a commercial personal assistant, and evaluate the inherent ambiguity uncovered by this annotation strategy as compared to other common labeling strategies.",
 }

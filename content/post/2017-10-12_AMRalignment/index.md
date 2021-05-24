@@ -43,7 +43,7 @@ With concept identification at 83 F there is still plenty of scope for improveme
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/D/D17/D17-1130.pdf)
+[Paper](https://aclanthology.org/D/D17/D17-1130.pdf)
 
 ```bibtex
 @InProceedings{wang-xue:2017:EMNLP2017,
@@ -55,7 +55,7 @@ With concept identification at 83 F there is still plenty of scope for improveme
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {1268--1279},
-  url       = {https://www.aclweb.org/anthology/D17-1130},
+  url       = {https://aclanthology.org/D17-1130},
 }
 ```
 

@@ -40,7 +40,7 @@ Finally, as a non-expert in this area, this paper had some nice discussion of th
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/D17-1068)
+[Paper](https://aclanthology.org/D17-1068)
 
 ```bibtex
 @InProceedings{hossain-EtAl:2017:EMNLP2017,
@@ -52,7 +52,7 @@ Finally, as a non-expert in this area, this paper had some nice discussion of th
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {649--658},
-  url       = {https://www.aclweb.org/anthology/D17-1068},
+  url       = {https://aclanthology.org/D17-1068},
 }
 ```
 

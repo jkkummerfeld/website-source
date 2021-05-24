@@ -35,7 +35,7 @@ If performance remains high, then this actually is an uninformative feature, but
 
 ## Citation
 
-[Paper](https://www.aclweb.org/anthology/D17-1138)
+[Paper](https://aclanthology.org/D17-1138)
 
 ```bibtex
 @InProceedings{heinzerling-moosavi-strube:2017:EMNLP2017,
@@ -47,6 +47,6 @@ If performance remains high, then this actually is an uninformative feature, but
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {1332--1339},
-  url       = {https://www.aclweb.org/anthology/D17-1138}
+  url       = {https://aclanthology.org/D17-1138}
 }
 ```

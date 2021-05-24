@@ -33,7 +33,7 @@ It may also be productive to combine these ideas with the graph abstraction idea
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/E/E17/E17-1035.pdf)
+[Paper](https://aclanthology.org/E/E17/E17-1035.pdf)
 
 ```bibtex
 @InProceedings{peng-EtAl:2017:EACLlong1,
@@ -45,7 +45,7 @@ It may also be productive to combine these ideas with the graph abstraction idea
   address   = {Valencia, Spain},
   publisher = {Association for Computational Linguistics},
   pages     = {366--375},
-  url       = {http://www.aclweb.org/anthology/E17-1035}
+  url       = {https://aclanthology.org/E17-1035}
 }
 ```
 

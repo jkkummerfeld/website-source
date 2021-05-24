@@ -31,7 +31,7 @@ According to automatic metrics it is quite a bit better than running the summari
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1090)
+[Paper](https://aclanthology.org/P17-1090)
 
 ```bibtex
 @InProceedings{qin-wang-kim:2017:Long,
@@ -43,6 +43,6 @@ According to automatic metrics it is quite a bit better than running the summari
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {974--984},
-  url       = {http://aclweb.org/anthology/P17-1090}
+  url       = {https://aclanthology.org/P17-1090}
 }
 ```

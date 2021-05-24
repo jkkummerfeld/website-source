@@ -36,7 +36,7 @@ The paper also doesn't get into details about the learned space, for example, ar
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1151)
+[Paper](https://aclanthology.org/P17-1151)
 
 ```bibtex
 @InProceedings{athiwaratkun-wilson:2017:Long,
@@ -48,6 +48,6 @@ The paper also doesn't get into details about the learned space, for example, ar
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1645--1656},
-  url       = {http://aclweb.org/anthology/P17-1151}
+  url       = {https://aclanthology.org/P17-1151}
 }
 ```

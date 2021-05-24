@@ -35,7 +35,7 @@ Evaluating on both could be a great way to show the flexibility of a dialogue sy
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/W17-5526)
+[Paper](https://aclanthology.org/W17-5526)
 
 ```bibtex
 @InProceedings{elasri-EtAl:2017:W17-55,
@@ -47,6 +47,6 @@ Evaluating on both could be a great way to show the flexibility of a dialogue sy
   address   = {Saarbrucken, Germany},
   publisher = {Association for Computational Linguistics},
   pages     = {207--219},
-  url       = {http://aclweb.org/anthology/W17-5526}
+  url       = {https://aclanthology.org/W17-5526}
 }
 ```

@@ -36,7 +36,7 @@ If it is high, then my own parser could be applied fairly directly!
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1104)
+[Paper](https://aclanthology.org/P17-1104)
 
 ```bibtex
 @InProceedings{hershcovich-abend-rappoport:2017:Long,
@@ -48,6 +48,6 @@ If it is high, then my own parser could be applied fairly directly!
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1127--1138},
-  url       = {http://aclweb.org/anthology/P17-1104}
+  url       = {https://aclanthology.org/P17-1104}
 }
 ```

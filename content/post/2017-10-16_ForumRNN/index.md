@@ -39,7 +39,7 @@ Overall, this is further evidence of the versatility of the idea of attention!
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/D17-1242.pdf)
+[Paper](https://aclanthology.org/D17-1242.pdf)
 
 ```bibtex
 @InProceedings{cheng-fang-ostendorf:2017:EMNLP2017,
@@ -51,6 +51,6 @@ Overall, this is further evidence of the versatility of the idea of attention!
   address   = {Copenhagen, Denmark},
   publisher = {Association for Computational Linguistics},
   pages     = {2286--2296},
-  url       = {https://www.aclweb.org/anthology/D17-1242}
+  url       = {https://aclanthology.org/D17-1242}
 }
 ```

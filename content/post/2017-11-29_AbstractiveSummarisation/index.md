@@ -42,7 +42,7 @@ I'm not sure the beam search scoring idea has applications beyond summarisation,
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1108)
+[Paper](https://aclanthology.org/P17-1108)
 
 ```bibtex
 @InProceedings{tan-wan-xiao:2017:Long,
@@ -54,6 +54,6 @@ I'm not sure the beam search scoring idea has applications beyond summarisation,
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1171--1181},
-  url       = {http://aclweb.org/anthology/P17-1108}
+  url       = {https://aclanthology.org/P17-1108}
 }
 ```

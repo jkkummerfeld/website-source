@@ -38,7 +38,7 @@ The trends are that hierarchical is best, the sentinel doesn't help, and it is b
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-2031)
+[Paper](https://aclanthology.org/P17-2031)
 
 ```bibtex
 @InProceedings{libovicky-helcl:2017:Short,
@@ -50,6 +50,6 @@ The trends are that hierarchical is best, the sentinel doesn't help, and it is b
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {196--202},
-  url       = {http://aclweb.org/anthology/P17-2031}
+  url       = {https://aclanthology.org/P17-2031}
 }
 ```

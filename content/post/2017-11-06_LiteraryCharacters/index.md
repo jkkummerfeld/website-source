@@ -29,12 +29,12 @@ With this tool in hand they analyse patterns of character use over time to test 
 Another key piece of this work was a tool to annotate a collection of books with character occurrences.
 CHARLES, their tool, is built on top of [brat](http://brat.nlplab.org/), adding features to help multiple annotators coordinate labels (specifically handling the case of new character identification, which modifies the set of linkable entities).
 
-Finally, they released the character lists identified for the novels considered ([here](http://aclweb.org/anthology/attachments/D/D15/D15-1088.Attachment.zip)).
+Finally, they released the character lists identified for the novels considered ([here](https://aclanthology.org/attachments/D/D15/D15-1088.Attachment.zip)).
 It would be interesting to modify a coreference resolution system to process these books, taking advantage of that information!
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/D15-1088)
+[Paper](https://aclanthology.org/D15-1088)
 
 [Annotation Tool Paper](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1130_Paper.pdf)
 
@@ -48,6 +48,6 @@ It would be interesting to modify a coreference resolution system to process the
   address   = {Lisbon, Portugal},
   publisher = {Association for Computational Linguistics},
   pages     = {769--774},
-  url       = {http://aclweb.org/anthology/D15-1088}
+  url       = {https://aclanthology.org/D15-1088}
 }
 ```

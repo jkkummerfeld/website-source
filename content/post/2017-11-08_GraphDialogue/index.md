@@ -35,7 +35,7 @@ A few interesting things in the output:
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1162)
+[Paper](https://aclanthology.org/P17-1162)
 
 ```bibtex
 @InProceedings{he-EtAl:2017:Long4,
@@ -61,6 +61,6 @@ A few interesting things in the output:
 	Automatic and human evaluations show that our model is both more effective
 	at achieving the goal and more human-like than baseline neural and rule-based
 	models.},
-  url       = {http://aclweb.org/anthology/P17-1162}
+  url       = {https://aclanthology.org/P17-1162}
 }
 ```

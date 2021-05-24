@@ -33,7 +33,7 @@ The other key observations are that having a sequence level loss (using a CRF) h
 
 ## Citation
 
-[Paper](http://aclweb.org/anthology/P17-1132)
+[Paper](https://aclanthology.org/P17-1132)
 
 ```bibtex
 @InProceedings{yang-mitchell:2017:Long,
@@ -45,6 +45,6 @@ The other key observations are that having a sequence level loss (using a CRF) h
   address   = {Vancouver, Canada},
   publisher = {Association for Computational Linguistics},
   pages     = {1436--1446},
-  url       = {http://aclweb.org/anthology/P17-1132}
+  url       = {https://aclanthology.org/P17-1132}
 }
 ```
