@@ -50,7 +50,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.aclweb.org/anthology/D13-1027.pdf"
+url_pdf: "https://aclanthology.org/D13-1027.pdf"
 
 url_poster: 
 

@@ -52,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.aclweb.org/anthology/D12-1096.pdf"
+url_pdf: "https://aclanthology.org/D12-1096.pdf"
 
 url_poster: 
 

@@ -51,7 +51,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.aclweb.org/anthology/P12-2021.pdf"
+url_pdf: "https://aclanthology.org/P12-2021.pdf"
 
 url_poster: 
 

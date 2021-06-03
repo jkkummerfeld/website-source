@@ -52,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.aclweb.org/anthology/P13-2018.pdf"
+url_pdf: "https://aclanthology.org/P13-2018.pdf"
 
 url_poster: 
 

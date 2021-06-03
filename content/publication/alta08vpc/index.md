@@ -50,7 +50,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.aclweb.org/anthology/U08-1008.pdf"
+url_pdf: "https://aclanthology.org/U08-1008.pdf"
 
 url_poster: "https://www.jkk.name/pub/alta08vpc_poster.eps"
 

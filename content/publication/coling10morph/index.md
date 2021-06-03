@@ -51,7 +51,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.aclweb.org/anthology/C10-2051.pdf"
+url_pdf: "https://aclanthology.org/C10-2051.pdf"
 
 url_poster: 
 

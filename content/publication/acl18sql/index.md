@@ -55,7 +55,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.aclweb.org/anthology/P18-1033.pdf"
+url_pdf: "https://aclanthology.org/P18-1033.pdf"
 
 url_poster: "https://www.aclweb.org/anthology/attachments/P18-1033.Poster.pdf"
 

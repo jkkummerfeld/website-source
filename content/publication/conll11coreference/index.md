@@ -52,7 +52,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "http://www.aclweb.org/anthology/W11-1916.pdf"
+url_pdf: "https://aclanthology.org/W11-1916.pdf"
 
 url_poster: "https://www.jkk.name/pub/conll11coreference_poster.pdf"
 
