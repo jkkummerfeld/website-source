@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Tenure-Track Faculty at the University of Sydney (mid-2022)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name: Postdoctoral Research Fellow at the University of Michigan 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -107,8 +107,10 @@ email: "jkummerf@umich.edu"
 I aim to make language a complementary part of the interface for any application (e.g. from desktop spreadsheets to mobile apps).
 This involves solving a range of fascinating challenges through new methods in Artificial Intelligence and Crowdsourcing.
 
+In mid-2022, I will start as a Senior Lecturer (ie., research tenure-track) at the University of Sydney. I have funding for PhD students and will be recruiting on the Northern and Southern Hemisphere cycles.
+
 I am currently a Postdoctoral Research Fellow at the [University of Michigan](https://www.cse.umich.edu/), working on Natural Language Processing and Crowdsourcing.
-I completed my Ph.D. in the [UC Berkeley NLP Group](http://nlp.cs.berkeley.edu/), advised by [Dan Klein](http://www.cs.berkeley.edu/~klein), and my B.Sc. in the University of Sydney Schwa Lab, advised by [James Curran](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/james-r-curran.html).
+I completed my Ph.D. in the [UC Berkeley NLP Group](http://nlp.cs.berkeley.edu/), advised by [Dan Klein](http://www.cs.berkeley.edu/~klein), and my B.Sc. in the University of Sydney Schwa Lab, advised by James Curran.
 
 E-mail: jkummerf@umich.edu
 
