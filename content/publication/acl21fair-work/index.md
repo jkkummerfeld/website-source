@@ -4,7 +4,7 @@ bibkey: acl21fair-work
 
 title: Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing
 
-date: "2021-06-01"
+date: "2021-08-01"
 
 year: 2021
 
@@ -19,7 +19,7 @@ authors:
 
 publication_types: ["1"]
 
-publication: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics
+publication: "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)"
 
 publication_short: ACL (Short)
 
@@ -29,13 +29,13 @@ abstract_short: Extensive work has argued in favour of paying crowd workers a wa
 
 address: 
 
-doi: 
+doi: 10.18653/v1/2021.acl-short.44
 
 issue: 
 
 number: 
 
-pages: 
+pages: 343--349
 
 publisher: 
 
@@ -49,7 +49,7 @@ image_preview:
 
 selected: false
 
-url_pdf: "https://arxiv.org/abs/2105.12762"
+url_pdf: "https://aclanthology.org/2021.acl-short.44/"
 
 url_poster: 
 
@@ -70,6 +70,8 @@ url_video:
 url_blog: 
 
 links: 
+- name: Supplementary Material
+  url: https://aclanthology.org/attachments/2021.acl-short.44.OptionalSupplementaryMaterial.zip
 - name: ArXiv
   url: https://arxiv.org/abs/2105.12762
 

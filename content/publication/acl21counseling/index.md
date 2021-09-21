@@ -4,7 +4,7 @@ bibkey: acl21counseling
 
 title: Exploring Self-Identified Counseling Expertise in Online Support Forums
 
-date: "2021-06-01"
+date: "2021-08-01"
 
 year: 2021
 
@@ -19,14 +19,14 @@ authors:
 - Yuntian Zhao
 - Charles Welch
 - admin
-- Lawrence C An
+- Lawrence C. An
 - Kenneth Resnicow
 - Rada Mihalcea
 - Verónica Pérez-Rosas
 
 publication_types: ["1"]
 
-publication: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics
+publication: "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021"
 
 publication_short: Findings of ACL
 
@@ -36,13 +36,13 @@ abstract_short: A growing number of people engage in online health forums, makin
 
 address: 
 
-doi: 
+doi: 10.18653/v1/2021.findings-acl.392
 
 issue: 
 
 number: 
 
-pages: 
+pages: 4467--4480
 
 publisher: 
 
@@ -56,7 +56,7 @@ image_preview:
 
 selected: false
 
-url_pdf: 
+url_pdf: "https://aclanthology.org/2021.findings-acl.392/"
 
 url_poster: 
 

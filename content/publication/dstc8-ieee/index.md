@@ -53,13 +53,13 @@ doi: 10.1109/TASLP.2021.3078368
 
 issue: 
 
-number: 
+number: 1
 
-pages: 
+pages: 2529--2540
 
 publisher: IEEE
 
-volume: 
+volume: 29
 
 math: true
 
